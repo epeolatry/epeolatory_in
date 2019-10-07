@@ -75,7 +75,7 @@
 
     a {
       color: $color-gray;
-      text-transform: capitalize;
+      text-transform: none;
       font-weight: $font-weight-regular;
 
       @include attention() {

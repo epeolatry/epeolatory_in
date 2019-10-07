@@ -30,7 +30,7 @@
   &__tags {
     color: $color-gray;
     font-size: $font-size-tiny;
-    text-transform: capitalize;
+    text-transform: none;
     letter-spacing: $global-letter-spacing;
 
     a {
