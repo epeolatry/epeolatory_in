@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Joshua’s 7 Gifts by Trishala Ahalpara
+title: Where The Forest Meets The Stars by Glendy Vanderah
 author: bookworm_falguni
 tags: [book-reviews, fiction]
 image: '/images/posts/where-the-forest-meets-the-stars-by-glendy-vanderah.jpg'
