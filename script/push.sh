@@ -8,7 +8,7 @@ setup_git() {
 #
 #}
 commit_website_files() {
-  git clone https://epeolatry:${github_token}@github.com/zivost/zivost-com.git dist
+  git clone https://epeolatry:${github_token}@github.com/epeolatry/epeolatry-in.git dist
   cd dist
   git checkout gh-pages
   cp -R ../_site/* ./
