@@ -24,19 +24,15 @@ And nobody knows about the weird string of events that’s about to put everyone
 
 ### **My Review:**
 
-#### *THE REVIEW CONTAINS SPOILER* 
+Hot Love Inferno is the second book in Prophecy Allocation series. Though it can also be read as a standalone.
 
-The story is based on the theme of colors.
-It speaks of the importance of colors. We normally take such things (as the ability to see) for granted. This story makes us sympathize with those who can’t see clearly.
+The book is a really interesting combination of science fiction, action, and dark comedy. It is full of quirky one liners which makes the read entertaining.
 
-The story started like a “Dora The Explorer” expedition to find something. Here it was 7 gifts of the 7 colors of a rainbow. 
-I would have loved it more had it shown the description of Joshua’s understanding of colors in a better and a little more detailed way.
+As I started the book, it was difficult to identify the characters, maybe because I haven’t read the part 1. But gradually I was able to connect to the characters and the story.
 
-The focus was immediately shifted from colorful gifts to Joshua which decreased the value of gifts in the story.
+Best part of the book is footnotes provided by author. It is funny and works as a bonus material at the end of each chapter.
+It is a fast paced story. Scenes take place one after other making some scenes a bit unclear. Some scenes and characters like Bertie Backwards and the Oracle seem out of place and are not really required in  the story. 
 
-Also, the grammar was bad at some place making it a fluency breaker in the reading process.
-
-The story though predictable was a nice read.
-I would recommend the book if you are looking for a short and fresh read.
+I would recommend this book if you like dark humour with a touch of science fiction.
 
 ### ***Happy Reading!!***
