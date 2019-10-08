@@ -25,4 +25,4 @@ Also, the grammar was bad at some place making it a fluency breaker in the readi
 The story though predictable was a nice read.
 I would recommend the book if you are looking for a short and fresh read.
 
-Happy Reading!!
+### ***Happy Reading!!***
