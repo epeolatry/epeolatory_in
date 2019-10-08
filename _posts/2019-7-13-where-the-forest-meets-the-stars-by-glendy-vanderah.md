@@ -6,7 +6,7 @@ tags: [book-reviews, fiction]
 image: '/images/posts/where-the-forest-meets-the-stars-by-glendy-vanderah.jpg'
 ---
 
- 🌺THE REVIEW CONTAINS SPOILERS🌺 
+ THE REVIEW CONTAINS SPOILERS
 
 #### Blurb: In this gorgeously stunning debut, a mysterious child teaches two strangers how to love and trust again.
 
@@ -18,7 +18,7 @@ Jo enlists the help of her reclusive neighbor, Gabriel Nash, to solve the myster
 
 Though the three have formed an incredible bond, they know difficult choices must be made. As the summer nears an end and Ursa gets closer to her fifth miracle, her dangerous past closes in. When it finally catches up to them, all of their painful secrets will be forced into the open, and their fates will be left to the stars.
 
-#### My Review:
+### My Review:
 
 I loved the story. It is fresh and keeps you hooked since the beginning. 
 The plot is great about a girl coming from stars and making good things happen to good people.
@@ -34,4 +34,4 @@ Where the Forest Meets the Stars, therefore, justifies the story.
 
 I definitely recommend this book to everyone.
 
-Happy Reading!!
+**Happy Reading!!**
