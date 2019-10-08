@@ -6,7 +6,7 @@ tags: [book-reviews, fiction]
 image: '/images/posts/joshuas-7-gifts-by-trishala-ahalpara-cover.jpg'
 ---
 
- 🌺THE REVIEW CONTAINS SPOILERS🌺 
+ THE REVIEW CONTAINS SPOILERS 
 
 The story is based on the theme of colors.
 It speaks of the importance of colors. We normally take such things (as the ability to see) for granted. This story makes us sympathize with those who can’t see clearly.
