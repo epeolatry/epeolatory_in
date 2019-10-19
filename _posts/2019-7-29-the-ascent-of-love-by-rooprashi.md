@@ -3,7 +3,7 @@ layout: post
 title: The Ascent of Love by Rooprashi
 author: bookworm_falguni
 tags: [book-reviews, fiction, mountaineering, love, romance]
-image: '/images/posts/the-ascent-of-love-by-rooprashi.jpg'
+image: '/images/posts/the-ascent-of-love-by-rooprashi.png'
 ---
 ### **Blurb:**
 
