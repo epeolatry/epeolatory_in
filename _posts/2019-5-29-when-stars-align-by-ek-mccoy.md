@@ -2,8 +2,8 @@
 layout: post
 title: When Stars Align by E.K. McCoy
 author: bookworm_falguni
-tags: [book-reviews, fiction]
-image: '/images/posts/.jpg'
+tags: [book-reviews, fiction, romance, medical]
+image: '/images/posts/when-stars-align-by-ek-mccoy.jpg'
 ---
 ### **Blurb:**
 
