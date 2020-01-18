@@ -5,7 +5,9 @@ image: '/images/pages/1.jpg'
 ---
 
 Epeolatry *(noun)* 
+
 **Meaning:** The worship of words.
+
 **Origin:** From Ancient Greek ἔπος (epos, “word”) + -latry (“worship of”)
 
 I am a compulsive reader, who loves to live in the fantasy world of fiction. While pursuing B.Com Hons. from Delhi University, I started my Instagram account. Initially I just used it for sharing the quotes I loved, but gradually started adding book reviews too. The account helped me socialize with various bloggers, authors and publishers. Within a few months, I found myself helping authors by promoting their books, organizing giveaways, proofreading and editing their books. 
