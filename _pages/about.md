@@ -17,3 +17,11 @@ If you want to get your book edited, drop me a mail at falguni.epeolatry@gmail.c
 **Goodreads:** https://www.goodreads.com/user/show/58171261-falguni-jain Falguni Jain
 
 
+
+#### Testimonials
+
+
+*"Proofreading seems so effortless with Falguni Jain! Praiseworthy editing skills coupled with timely delivery builds trust for the work she does best!"*
+***- Debjeet Mukherjee
+(Author of Voyages Volume I)***
+
