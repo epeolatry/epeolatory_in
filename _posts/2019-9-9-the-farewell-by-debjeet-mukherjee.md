@@ -3,7 +3,7 @@ layout: post
 title: The Farewell by Debjeet Mukherjee
 author: bookworm_falguni
 tags: [book-reviews, fiction, short-story, dreams, family]
-image: '/images/posts/the-farewell-by-debjeet-mukherjee.jpg'
+image: '/images/posts/the-farewell-by-debjeet-mukherjee.png'
 ---
 ### **Blurb:**
 A working mom, a US-aspirant son, an army colonel as dad and all the love it takes to keep a family together. Read this beautiful short story of mother-son relationship during contemporary times.
