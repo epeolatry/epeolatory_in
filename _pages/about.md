@@ -4,8 +4,16 @@ title: About
 image: '/images/pages/1.jpg'
 ---
 
-You love minimalism, want to be productive focusing only on the important things and want to take jekyll to the next level, Nubia is designed for you. Nubia focus on showing your content in a clean and simple way, focus on images, typography, and white space.
+Epeolatry *(noun)* 
+**Meaning:** The worship of words.
+**Origin:** From Ancient Greek ἔπος (epos, “word”) + -latry (“worship of”)
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am a compulsive reader, who loves to live in the fantasy world of fiction. While pursuing B.Com Hons. from Delhi University, I started my Instagram account. Initially I just used it for sharing the quotes I loved, but gradually started adding book reviews too. The account helped me socialize with various bloggers, authors and publishers. Within a few months, I found myself helping authors by promoting their books, organizing giveaways, proofreading and editing their books. 
 
-Lorem ipsum dolor sit amet, vix ut case porro facilisis, alia possit neglegentur vis te. Has cu eirmod abhorreant, vel civibus efficiantur cu. Eu summo elitr vix, iusto putant maluisset per ut, ne etiam vivendum adipisci vel. Vis omnis tempor accusam ei, justo perpetua liberavisse cu qui. Saperet aliquando adipiscing ius ne, ne facer euripidis est. Pro mundi nostrum suavitate et.
+If you want to get your book edited, drop me a mail at falguni.epeolatry@gmail.com. 
+
+### Contact Me:
+**Instagram:** https://instagram.com/bookworm_falguni @bookworm_falguni
+**Goodreads:** https://www.goodreads.com/user/show/58171261-falguni-jain Falguni Jain
+
+
