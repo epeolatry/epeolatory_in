@@ -2,7 +2,7 @@
 layout: post
 title: The Dark Side Of The Moon by Shubham Arora
 author: bookworm_falguni
-tags: [book-reviews, fiction, family, love, second-chance]
+tags: [book-reviews, fiction, fantasy, horror]
 image: '/images/posts/the-dark-side-of-the-moon-by-shubham-arora.jpg'
 ---
 ### **Blurb:**
