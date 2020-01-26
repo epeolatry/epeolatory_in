@@ -2,7 +2,7 @@
 layout: post
 title: Faith's Eternal Sunshine by Aashish Gupta
 author: bookworm_falguni
-tags: [book-reviews, fiction, family, love, second-chance]
+tags: [book-reviews, fiction, inspirational]
 image: '/images/posts/Faiths-Eternal-Sunshine-by-Aashish-Gupta.jpg'
 ---
 ### **Blurb:**
