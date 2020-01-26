@@ -2,7 +2,7 @@
 layout: post
 title: Words of Void by Sandhiya Palanisamy
 author: bookworm_falguni
-tags: [book-reviews, fiction, family, love, second-chance]
+tags: [book-reviews, poetries, quotes, proses]
 image: '/images/posts/Words-of-Void-by-Sandhiya-Palanisamy.jpg'
 ---
 ### **Blurb:**
