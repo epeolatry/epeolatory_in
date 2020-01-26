@@ -2,7 +2,7 @@
 layout: post
 title: Peach by Wayne Barton
 author: bookworm_falguni
-tags: [book-reviews, fiction, family, love, second-chance]
+tags: [book-reviews, fiction, family, love]
 image: '/images/posts/peach-by-wayne-barton.jpg'
 ---
 ### **Blurb:**
