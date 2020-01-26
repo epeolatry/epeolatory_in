@@ -2,7 +2,7 @@
 layout: post
 title: Eleanor Oliphant is Completely Fine by Gail Honeyman
 author: bookworm_falguni
-tags: [book-reviews, fiction, family, love, second-chance]
+tags: [book-reviews, fiction, family, love]
 image: '/images/posts/Eleanor-Oliphant-is-Completely-Fine-by-Gail-Honeyman.jpg'
 ---
 ### **Blurb:**
