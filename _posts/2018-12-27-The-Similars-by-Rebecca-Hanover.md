@@ -19,7 +19,6 @@ The plot of the novel is very intimidating. It is quite new and refreshing.
 The story is about an “accidental” experiment where DNA of six new born babies were taken (read: stolen) and used to make their clones. These clones (the Similars) were bought up on a man-made island by Augustus Gravelle. The Similars joined the same school as their originals (Darkwood Academy) which led to anti-similars and pro-similars group formation .
 
 The story spoke of acceptance, friendship, love and loneliness in a beautiful way.
-
 The story was excellent and it unfolded in a very structured manner.
 
 But there were a lot of drawbacks.
