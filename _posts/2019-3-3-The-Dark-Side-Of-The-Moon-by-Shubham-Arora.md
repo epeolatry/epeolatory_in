@@ -3,7 +3,7 @@ layout: post
 title: The Dark Side Of The Moon by Shubham Arora
 author: bookworm_falguni
 tags: [book-reviews, fiction, family, love, second-chance]
-image: '/images/posts/The-Dark-Side-Of-The-Moon-by-Shubham-Arora.jpg'
+image: '/images/posts/the-dark-side-of-the-moon-by-shubham-arora.jpg'
 ---
 ### **Blurb:**
 The Dark Side Of The Moon is a collection of short stories that are dark, grim and flirt ambitiously with notions of the unexplained. 
