@@ -3,7 +3,7 @@ layout: post
 title: Kaleidoscope of Love by Priyanks Bhuyan 
 author: bookworm_falguni
 tags: [book-reviews, fiction, family, love, second-chance]
-image: '/images/posts/Kaleidoscope-of-Love-by-Priyanks-Bhuyan.jpg'
+image: '/images/posts/Kaleidoscope-of-Love-by-Priyanka-Bhuyan.jpg'
 ---
 ### **Blurb:**
 Love, the strongest human emotion to ever exist. But what is love and why are its colour so myriad? Love can range from the purest form of mother’s love to the tragic feeling of unrequited love. And also to the silent love which continues even after it is gone. Love is basically like a kalaidescope and it changes colour in all human relations with time. 
