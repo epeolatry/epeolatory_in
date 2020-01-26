@@ -2,7 +2,7 @@
 layout: post
 title: Kaleidoscope of Love by Priyanks Bhuyan 
 author: bookworm_falguni
-tags: [book-reviews, fiction, family, love, second-chance]
+tags: [book-reviews, poetries, love]
 image: '/images/posts/Kaleidoscope-of-Love-by-Priyanka-Bhuyan.jpg'
 ---
 ### **Blurb:**
