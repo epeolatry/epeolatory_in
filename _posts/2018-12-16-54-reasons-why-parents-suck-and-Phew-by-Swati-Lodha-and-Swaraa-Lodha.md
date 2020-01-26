@@ -2,7 +2,7 @@
 layout: post
 title: 54 Reasons Why Parents Suck and Phew! by Swati Lodha and Swaraa Lodha
 author: bookworm_falguni
-tags: [book-reviews, fiction, family, love, second-chance]
+tags: [book-reviews, non-fiction, family, parents]
 image: '/images/posts/54-reasons-why-parents-suck-and-Phew-by-Swati-Lodha.jpg'
 ---
 ### **Blurb:**
