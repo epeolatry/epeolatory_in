@@ -2,7 +2,7 @@
 layout: post
 title: The Similars by Rebecca Hanover
 author: bookworm_falguni
-tags: [book-reviews, fiction, family, love, second-chance]
+tags: [book-reviews, science-fiction]
 image: '/images/posts/The-Similars-by-Rebecca-Hanover.jpg'
 ---
 ### **Blurb:**
