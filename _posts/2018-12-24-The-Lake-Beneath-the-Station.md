@@ -2,7 +2,7 @@
 layout: post
 title: The Lake Beneath the Station by Multiple Authors
 author: bookworm_falguni
-tags: [book-reviews, fiction, family, love, second-chance]
+tags: [book-reviews, fiction, anthology]
 image: '/images/posts/The-Lake-Beneath-the-Station.jpg'
 ---
 ### **Blurb:**
