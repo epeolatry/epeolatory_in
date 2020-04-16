@@ -45,11 +45,17 @@ Hem: One who is scared of changes and thinks something wrong might happen, hence
 #### Some beautiful statements from the book:
 
 Change Happens. They Keep Moving The Cheese
+
 Anticipate Change. Get Ready For The Cheese To Move
+
 Monitor Change. Smell The Cheese Often So You Know When It Is Getting Old
+
 Adapt To Change Quickly. The Quicker You Let Go Of Old Cheese, The Sooner You Can Enjoy New Cheese
+
 Change. Move With The Cheese
+
 Enjoy Change. Savour The Adventure And Enjoy The Taste Of New Cheese!
+
 Be Ready To Change Quickly And Enjoy It Again. They Keep Moving The Cheese.
 
 ### ***Happy Reading!!***
