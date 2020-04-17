@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Murder of Crows by Christopher Hoffman
+title: 1984 by George Orwell
 author: bookworm_falguni
 tags: [book-reviews, fiction]
 image: '/images/posts/1984-by-george-orwell.jpg'
