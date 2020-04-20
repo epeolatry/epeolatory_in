@@ -8,7 +8,7 @@ image: '/images/posts/the-island-of-the-day-before-by-zuni-chopra.jpg'
 ### **My Review:**
 I can conveniently say that this is one of the best collection of short stories I have ever read.
 
-A very different perception of basic things has been put in front. Thoughts which are merely thoughts for us are beautifully expressed through words.
+A very different perspective of basic things has been put in front. Thoughts which are merely thoughts for us are beautifully expressed through words.
 
 I couldn't believe things as simple as a tree, clouds or an old woman could be described in such words as done by Zuni Chopra.
 
