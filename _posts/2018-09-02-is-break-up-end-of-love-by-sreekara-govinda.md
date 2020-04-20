@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Is Break Up... End of Love by Sreekara Govinda
+title: Is Break Up End of Love? by Sreekara Govinda
 author: bookworm_falguni
 tags: [book-reviews, fiction]
 image: '/images/posts/is-break-up-end-of-love-by-sreekara-govinda.jpg'
