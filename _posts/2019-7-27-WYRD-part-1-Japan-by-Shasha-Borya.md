@@ -3,7 +3,7 @@ layout: post
 title: WYRD: The Wild & Weird Adventures of A + B (Part 1: Japan) by Shasha Borya 
 author: bookworm_falguni
 tags: [book-reviews, fiction, family, love, second-chance]
-image: '/images/posts/WYRD.jpg'
+image: '/images/posts/wyrd-japan.jpg'
 ---
 ### **My Review:**
 Wyrd: The Wild and Weird Adventures of A + B is a travelogue of two people Aleks and Boris in different parts of the world.
