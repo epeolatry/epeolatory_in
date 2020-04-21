@@ -15,7 +15,7 @@ Tamanna is busy simply existing and complaining, when a gorgeous poet takes her 
 You Begin Where I End spins two unconventional love stories, set two decades apart – 1991 and 2015 – trying to find an answer to the eternal dilemma of darlings – What is love?
 
 ### **My Review:**
-	I loved how the author is able to weave the story of two different worlds in such a beautiful way. 
+I loved how the author is able to weave the story of two different worlds in such a beautiful way. 
 Each words seeps into your heart and grows to become a tree of thoughts, branching into different possibilities.
 
 Simple joys of an average girl are gloriously shown like sitting on the window side of a bus, star gazing and silent walks with your love. 
