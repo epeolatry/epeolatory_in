@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Milk and Honey bu Rupi Kaur
+title: Milk and Honey by Rupi Kaur
 author: bookworm_falguni
 tags: [book-reviews, fiction]
 image: '/images/posts/milk-and-honey-by-rupi-kaur.jpg'
