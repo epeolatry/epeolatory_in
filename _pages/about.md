@@ -29,4 +29,3 @@ For more details, drop me an email at falguni.epeolatry@gmail.com.
 
 **Goodreads:** https://www.goodreads.com/user/show/58171261-falguni-jain Falguni Jain
 
-
