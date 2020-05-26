@@ -2,7 +2,7 @@
 layout: page
 title: Testimonials
 ---
-<img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/debjeet-mukherjee.jpg?raw=true" alt="debajeeet-mukherjee"/>
+<img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/debjeet-mukherjee.jpg?raw=true" alt="debajeeet-mukherjee" width="100px"/>
 *"Proofreading seems so effortless with Falguni Jain! Praiseworthy editing skills coupled with timely delivery builds trust for the work she does best!"*
 
 ***- Debjeet Mukherjee
