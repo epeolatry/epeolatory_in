@@ -25,7 +25,12 @@ I provide the following services:
 For more details, drop me an email at falguni.epeolatry@gmail.com. 
 
 ### Contact Me:
-**Instagram:** https://instagram.com/bookworm_falguni @bookworm_falguni
+**Instagram:** <a href="https://instagram.com/bookworm_falguni">@bookworm_falguni</a>
 
-**Goodreads:** https://www.goodreads.com/user/show/58171261-falguni-jain Falguni Jain
+**Goodreads:** <a href="https://www.goodreads.com/user/show/58171261-falguni-jain">Falguni Jain</a>
+ 
+**Facebook Page:** <a href="https://www.facebook.com/epeolatry.in/">Epeolatry: Book Reviews, Editing Services, and more</a>
+
+**LinkedIn:** <a href="https://www.linkedin.com/in/falguni-jain-40a4bb155">Falguni Jain</a>
+
 
