@@ -16,6 +16,7 @@ I am glad we are connected ❣️"
 (Author of Survive For Me)***
 
 
+
 <img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/jesse-morgan.jpg?raw=true" style="text-align: center" alt="jesse-morgan" width="100px"/>
 "I recently had Falguni Jain beta read for my book, and found her to be very friendly, respectful and finished my book in a timely manner.Their assessment was fair, refreshing and detailed. The aspects she pointed out and addressed were unique to her own experience and comprehension.I certainly feel I gained some perspective and help towards my final product by employing her services.I would recommend Falguni for anyone needing a Beta Reader and an excellent source of outside perspective and feedback."
 
