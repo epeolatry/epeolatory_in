@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 
+title: Second Life by S. J. Watson
 author: bookworm_falguni
 tags: [book-reviews, fiction, thriller, mystery]
 image: '/images/posts/second-life-by-sj-watson.jpg'
