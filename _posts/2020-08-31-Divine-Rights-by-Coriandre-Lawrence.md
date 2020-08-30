@@ -10,7 +10,7 @@ The politics in 2160 Jamaica never became what it intended, it changed. Escaping
 
 
 ### **My Review:**
-“Divine Rights” is a dystopian short story set in the year 2160 in Jamaica. Jamaica is running under the oppressive rule of the League. While the people seem to be satisfied, to Troy they do not appear to be happy. He wants to rebel against the tyranny of the League. To give the shortest description of the book, I would say, George Orwell's 1984 meets a futuristic Jamaica.
+“Divine Rights” is a dystopian novella set in the year 2160 in Jamaica. Jamaica is running under the oppressive rule of the League. While the people seem to be satisfied, to Troy they do not appear to be happy. He wants to rebel against the tyranny of the League. To give the shortest description of the book, I would say, George Orwell's 1984 meets a futuristic Jamaica.
 
 The book has drama, suspense, and a lot of food for thought. With food for thought, I mean that the book has an open ending. You rarely come across such a book which leaves a lot for the reader to comprehend while providing just the right amount of information, still keeping the reader hooked to know more. 
 
