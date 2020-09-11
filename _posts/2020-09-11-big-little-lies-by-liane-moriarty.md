@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Big little Lies by Liane Moriarty
+title: Big Little Lies by Liane Moriarty
 author: bookworm_falguni
 tags: [book-reviews, fiction]
 image: '/images/posts/Big-Little-Lies-by-Liane-Moriarty.jpg'
