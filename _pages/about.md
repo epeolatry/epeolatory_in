@@ -33,4 +33,6 @@ For more details, drop me an email at falguni.epeolatry@gmail.com.
 
 **LinkedIn:** <a href="https://www.linkedin.com/in/falguni-jain-40a4bb155">Falguni Jain</a>
 
-
+**Reedsy:** <a href="https://reedsy.com/falguni-jain" target="_blank">
+  <img src="https://assets-cdn.reedsy.com/images/reedsy-profile-button.png" width="380" />
+</a>
