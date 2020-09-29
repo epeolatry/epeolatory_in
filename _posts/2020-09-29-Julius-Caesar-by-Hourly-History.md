@@ -25,7 +25,6 @@ The writing style is simple and easy to understand. I think that now I am going 
 This book is DEFINITELY recommended. If you are even slightly interested in knowing about Julius Caesar's life and don't want to scourge through different websites, read it.
 
 >*"The life of Julius Caesar was not just some fantastic tale but is instead the life that he lived and breathed. Every once in a great while, someone comes into this world seemingly born with a mission; they ride the wings of fate to heights of glory, and it's the most the rest of us can do to just take note if their ascent to the heavens."*
-
 >-Extract from the book
 
 A lot of the titles by Hourly History are free on Kindle/Kindle Unlimited. (Go check them out!)
