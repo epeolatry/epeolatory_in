@@ -2,6 +2,12 @@
 layout: page
 title: Testimonials
 ---
+"I am so happy with Falguni’s services! Not only is she a wonderful, kind, respectful person but she is professional, prompt and constructive with her feedback. I will definitely be keeping her in mind for all of my future projects!"
+
+***- Suka Anne
+(Author of Brushwork)***
+
+
 <img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/nidhi-kukreja.jpg?raw=true" style="text-align: center" alt="nidhi-kukreja" width="100px"/>
 "Falguni is a wonderful person. She is a great supporter. She does her work precisely. She helped me spot the errors when I couldn't see them because of continuously editing the same again and again. A writer can't find mistakes on his own, that's why they need editor so they can polish the work by eliminating errors. Falguni helped me. She told me to make corrections which were left unseen. She did her work honestly. And I am proud of it. I recommend her to my friends and even on the platform where she can get recognition for her honest work. 
 I am glad we are connected ❣️"
