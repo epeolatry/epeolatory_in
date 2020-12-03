@@ -11,7 +11,7 @@ Epeolatry *(noun)*
 **Origin:** From Ancient Greek ἔπος (epos, “word”) + -latry (“worship of”)
 
 ### About Me
-Hi, I am Falguni. I am a compulsive reader, who loves to live in the fantasy world of fiction. I am a B.Com Hons. graduate from Delhi University. I left my full time job as an auditor to be a freelance editor. 
+Hi, I am Falguni. I am a compulsive reader, who loves to live in the fantasy world of fiction. I am a B.Com (Hons.) graduate from Delhi University. I left my full time job as an auditor to be a freelance editor. 
 
 I started my Instagram account during my undergraduation. Initially I just used it for sharing the quotes that I loved, but gradually started adding book reviews too. The account helped me socialize with various bloggers, authors, and publishers. Within a few months, I found myself helping authors by promoting their books, organizing giveaways, proofreading, and editing their books. 
 
@@ -32,7 +32,3 @@ For more details, drop me an email at falguni.epeolatry@gmail.com.
 **Facebook Page:** <a href="https://www.facebook.com/epeolatry.in/">Epeolatry: Book Reviews, Editing Services, and more</a>
 
 **LinkedIn:** <a href="https://www.linkedin.com/in/falguni-jain-40a4bb155">Falguni Jain</a>
-
-**Reedsy:** <a href="https://reedsy.com/falguni-jain" target="_blank">
-  <img src="https://assets-cdn.reedsy.com/images/reedsy-profile-button.png" width="380" />
-</a>
