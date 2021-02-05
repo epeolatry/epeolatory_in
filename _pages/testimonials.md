@@ -2,6 +2,13 @@
 layout: page
 title: Testimonials
 ---
+"My heartfelt appreciation goes to the editor-cum-proof-reader of 'Modern Ved', Falguni Jain. If you find this book a piece of fine literature, credit goes to her. I appreciate her calmness throughout this manuscript." 
+
+***- Amar
+(Author of Modern Ved)***
+
+___
+
 <img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/Suka-Anne.JPG?raw=true" style="text-align: center" alt="suka-anne" width="100px"/>
 "I am so happy with Falguni’s services! Not only is she a wonderful, kind, respectful person but she is professional, prompt and constructive with her feedback. I will definitely be keeping her in mind for all of my future projects!"
 
