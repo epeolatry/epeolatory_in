@@ -9,6 +9,16 @@ title: Testimonials
 
 ___
 
+<img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/Harshwardhan-Patil.JPG?raw=true" style="text-align: center" alt="harshwardhan-patil" width="100px"/>
+"'The beautiful Sky' as a novel means a lot to me, just like every other author. Each one thinks that it is a special and unique one, but while going through the continuous and long routine you skip out the minor details or the mistakes, for that its very important for a professional reviewer, I came across such a very talented person @Bookworm_, Falguni Jain. She is perfect in her work, and her every fifty-page review through the mail was very awesome. The best part the reviews are very honest, whether the author likes it or not, and that's what real professionalism is. I will recommend the same to the other authors/screenwriters in my friend's circle.
+Thanks for such a wonderful collaboration.
+Excited soon to work on the next project."
+
+***- Harshwardhan Patil
+(Author of The Beautiful Sky)***
+
+___
+
 <img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/Suka-Anne.JPG?raw=true" style="text-align: center" alt="suka-anne" width="100px"/>
 "I am so happy with Falguni’s services! Not only is she a wonderful, kind, respectful person but she is professional, prompt and constructive with her feedback. I will definitely be keeping her in mind for all of my future projects!"
 
