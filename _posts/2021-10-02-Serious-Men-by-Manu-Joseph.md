@@ -13,25 +13,25 @@ Ayyan Mani, one of the thousands of dalit (untouchable caste) men trapped in Mum
 
 ### **My Review:**
 
-"Serious Men" is a sometimes-hilarious-sometimes-serious take on the caste system and sexism in India. The so-called intellectuals of the research centre fail to recognize anything other than what satisfies their fragile ego.
+"Serious Men" is a sometimes-hilarious-sometimes-serious take on the caste system and sexism in India. The so-called intellectuals of the research centre fail to recognize anything other than what satisfies their fragile ego.
 
-We see the struggles of a woman in a position of authority. Oparna Goshmaulik, who is the only female researcher in the Institute of Theory and Research, has to go through the endless struggles that most of the women in India go through. 
+We see the struggles of a woman in a position of authority. Oparna Goshmaulik, who is the only female researcher in the Institute of Theory and Research, has to go through the endless struggles that most of the women in India go through. 
 "She would smile when she learnt that the ladies’ rest-room on the third floor was called Ladies and the men’s was called Scientists. She would endure the men who inescapably fell towards her in the corridors and gave her guidance she never sought. She would try to pass through the long corridors of this place like a shadow, and she would fail every day."
 
 On the other hand, Dalits, like Ayyan Mani, are still not considered suitable for white-collar jobs.
 
-The book not only talks about these social issues but also parents' unhealthy practices to ensure that their child earns fame in their society. 
+The book not only talks about these social issues but also parents' unhealthy practices to ensure that their child earns fame in their society.
 
-I liked Ayyan's character. His desperate attempt to be on the top, to leave a better legacy for his son, Adi, and to fight the atrocities of Brahmins are noteworthy, although sometimes extreme. He proves that one doesn't need to be educated to understand the ways of the world. He is smart, well with words, a good listener, and uses his knowledge ingeniously.
+I liked Ayyan's character. His desperate attempt to be on the top, to leave a better legacy for his son, Adi, and to fight the atrocities of Brahmins are noteworthy, although sometimes extreme. He proves that one doesn't need to be educated to understand the ways of the world. He is smart, well with words, a good listener, and uses his knowledge ingeniously.
 
-The story is exceptionally well written. The author's writing style is simple and realistic, which is easy to read and connects well with the readers. 
+The story is exceptionally well written. The author's writing style is simple and realistic, which is easy to read and connects well with the readers.
 Even though I had watched the movie before I read the book, the ending was not expected. Ending in the book gives the readers closure yet the anticipation of what's to come, while the movie ends up in confusion, letting the audience work out various theories.
 
 A contrast between the book and movie:
-The reason for the fall of Dr Acharya (a senior researcher) is different in both.
+The reason for the fall of Dr Acharya (a senior researcher) is different in both.
 Adi's showcase of intelligence is done in a different manner.
-The movie emphasizes Ayyan's contacts with a politician, who wants to buy their chawl for a project. But it is not shown with much interest in the book.
+The movie emphasizes Ayyan's contacts with a politician, who wants to buy their chawl for a project. But it is not shown with much interest in the book.
 
-I realised that even though the plot of the story in both the book and movie, are same, the storytelling is vastly different. I believe one can enjoy both of them without spoiling the other. However, I would recommend reading the book before watching the movie. 
+I realised that even though the plot of the story in both the book and movie, are same, the storytelling is vastly different. I believe one can enjoy both of them without spoiling the other. However, I would recommend reading the book before watching the movie.
 
 ### ***Happy Reading!!***
