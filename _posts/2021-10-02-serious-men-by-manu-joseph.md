@@ -38,4 +38,4 @@ A contrast between the book and movie:
 
 I realised that even though the plot of the story in both the book and movie, are same, the storytelling is vastly different. I believe one can enjoy both of them without spoiling the other. However, I would recommend reading the book before watching the movie.
 
-### ***Happy Reading\!\!***
+### ***Happy Reading!!***
