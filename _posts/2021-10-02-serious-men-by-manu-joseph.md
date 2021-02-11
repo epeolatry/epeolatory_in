@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Serious Men by Manu Josph
+title: Serious Men by Manu Joseph
 author: bookworm_falguni
 tags:
   - book-reviews
