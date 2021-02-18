@@ -2,6 +2,14 @@
 layout: page
 title: Testimonials
 ---
+<img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/Deanna-Washington.jpg?raw=true" style="text-align: center" alt="Deanna-Washington" width="100px"/>
+"Falguni was a delight to work with. I appreciated her command of the English language, her timeliness was incredible, and when I asked for her thoughts and opinions, her input was innovative and relevant." 
+
+***- Deanna Washington
+(Author of Disneyland Wisdom)***
+
+___
+
 "My heartfelt appreciation goes to the editor-cum-proof-reader of 'Modern Ved', Falguni Jain. If you find this book a piece of fine literature, credit goes to her. I appreciate her calmness throughout this manuscript." 
 
 ***- Amar
