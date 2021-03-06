@@ -2,7 +2,7 @@
 layout: page
 title: Testimonials
 ---
-<img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/Ashwini-Malhotra.jpg?raw=true" style="text-align: center" alt="Ashwini-Malhotra" width="100px"/>
+<img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/Ashwini-Malhotra.jpeg?raw=true" style="text-align: center" alt="Ashwini-Malhotra" width="100px"/>
 I have found Falguni very professional and committed to her work. I was impressed with her speed and good grasp to complex subject as “Kala Ghoda: The Game of Power”. She not only understood the characters and plot quickly but suggested few improvements and changes to improve the narration.
 I will surely recommend her to any of my fellow authors and would look forward to collaborating with her in future too.
 
