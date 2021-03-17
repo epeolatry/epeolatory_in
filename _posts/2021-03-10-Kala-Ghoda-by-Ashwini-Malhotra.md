@@ -29,5 +29,4 @@ The cover is smartly designed. It includes a chess game, which emphasises the ti
 
 I enjoyed reading the story and definitely recommend it.
 
-
 ### ***Happy Reading!!***
