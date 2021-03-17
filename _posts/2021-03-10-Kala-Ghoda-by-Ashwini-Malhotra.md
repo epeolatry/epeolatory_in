@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kala Ghoda: The Game of Power by Ashwini Malhotra
+title: Kala Ghoda—The Game of Power by Ashwini Malhotra
 author: bookworm_falguni
 tags: [book-reviews, fiction, crime]
 image: '/images/posts/Kala-Ghoda-by-Ashwini-Malhotra.jpg'
@@ -13,7 +13,7 @@ Iqbal Mallick, the king of the mafia, took over the reins of Bombay’s underwor
 
 ___
 ### **My Review:**
-“Kala Ghoda: The Game of Power” is second in the Kala Ghoda Series, but it can be read as a standalone. It is a crime fiction set in Bombay, India in the 1980s.
+*Kala Ghoda—The Game of Power* is second in the Kala Ghoda Series, but it can be read as a standalone. It is a crime fiction set in Bombay, India in the 1980s.
 
 The story revolves around a Mafia Don, Iqbal Mallick. He is a morally grey character, which I always enjoy reading. It is difficult to find many books with a well presented grey character. 
 
