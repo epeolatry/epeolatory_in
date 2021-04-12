@@ -7,6 +7,8 @@ image: '/images/posts/War-Of-Mercy-by-PJ-Berman.jpg'
 ---
 
 ### **Blurb:**
+*War of Mercy* is the third novel in P.J.Berman’s Silrith series.
+
 Bennvika’s civil war has spilt beyond its borders.
 
 In a desperate bid to regain a foothold on regional power, Silrith, the rightful Queen of Bennvika, has pushed the Etrovansian despot, Ravla, back to the Dunestra River. But the army blocking her path is far from the only mortal peril she faces.
