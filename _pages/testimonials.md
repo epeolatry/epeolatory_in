@@ -2,6 +2,14 @@
 layout: page
 title: Testimonials
 ---
+<img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/Megha-Bhauka.jpeg?raw=true" style="text-align: center" alt="Megha-Bhauka" width="100px"/>
+My journey of editing my book with Falguni was amazing. She has good vision and prepares a step-by-step plan with predetermined milestones while working. She took time with my work and didn't rush things and was still able to deliver the work on time. I hope we will have more opportunities to work together in near future.
+
+***- Megha Bhauka
+(Author of The Mystery Within Us)***
+
+___
+
 <img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/Ashwini-Malhotra.jpeg?raw=true" style="text-align: center" alt="Ashwini-Malhotra" width="100px"/>
 I have found Falguni very professional and committed to her work. I was impressed with her speed and good grasp to complex subject as “Kala Ghoda: The Game of Power”. She not only understood the characters and plot quickly but suggested few improvements and changes to improve the narration.
 I will surely recommend her to any of my fellow authors and would look forward to collaborating with her in future too.
