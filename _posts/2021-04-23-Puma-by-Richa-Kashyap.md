@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Yatra: Udaan Jaari Hai by Baghishayar
+title: Puma: A Soldier's Dog by Richa Kashyap
 author: bookworm_falguni
 tags: [book-reviews, army, animals, fiction]
 image: '/images/posts/Puma-by-Richa-Kashyap.png'
