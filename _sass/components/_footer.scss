@@ -56,12 +56,16 @@
     margin: 0;
     letter-spacing: 0;
     text-transform: none;
-    float: left;
-    margin-right: 10px;
+    
+    .left{
+      float: left;
+      margin-right: 10px;
+    }
 
     &:not(:last-child) a {
       margin-bottom: half($base-spacing-unit);
       padding-bottom: half($base-spacing-unit);
+      float: none;
     }
   }
 
