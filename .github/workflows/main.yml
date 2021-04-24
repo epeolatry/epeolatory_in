@@ -20,14 +20,8 @@ jobs:
       with:
         enable_cache: true
 
-    # Specify the Jekyll source location as a parameter
-    - uses: helaili/jekyll-action@v2
+    - uses: peaceiris/actions-gh-pages@v3
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        jekyll_src: '_site'
-
-    # Specify the target branch (optional)
-    - uses: helaili/jekyll-action@v2
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        target_branch: 'gh-pages'
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./_site
+        publish_branch: gh-pages
