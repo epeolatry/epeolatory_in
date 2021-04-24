@@ -14,6 +14,7 @@
 
   &__headline {
     margin-bottom: $base-spacing-unit + half($base-spacing-unit);
+    margin-top: $base-spacing-unit + half($base-spacing-unit);
     color: $color-gray;
     letter-spacing: $global-letter-spacing;
     font-weight: $font-weight-regular;
@@ -50,6 +51,17 @@
 
 .c-footer-list {
   margin-bottom: double($base-spacing-unit);
+  
+  .left{
+    float: left;
+    margin-right: 10px;
+  }
+
+  .left:last-child{
+    float: none; 
+    clear: both;
+    margin-right: 0;
+  }
 
   li {
     display: block;
@@ -57,10 +69,7 @@
     letter-spacing: 0;
     text-transform: none;
     
-    .left{
-      float: left;
-      margin-right: 10px;
-    }
+    
 
     &:not(:last-child) a {
       margin-bottom: half($base-spacing-unit);

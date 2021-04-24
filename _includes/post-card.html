@@ -4,7 +4,7 @@
     {% if post.image %}
       <div class='c-post-card__media'>
         <a href='{{ post.url | prepend: site.baseurl }}' class='c-post-card__image-link' aria-hidden='true' tabindex='-1'>
-          <img src='{{ post.image | prepend: site.baseurl }}' class='c-post-card__image js-fadein' alt='{{ post.title }}'>
+          <img loading="lazy" src='{{ post.image | prepend: site.baseurl }}' class='c-post-card__image js-fadein' alt='{{ post.title }}'>
           {% if post.featured %}
             <span title='{{t "Featured Post" }}'>
               <span class='c-post-card--featured__icon' data-icon='ei-star' data-size='s'></span>
