@@ -23,6 +23,7 @@ Like John Green's other stories, this one is yet another tragedy.
 John Green's writing style is easy to understand. His descriptions are very detailed and visual. His stories are fun to read because there are so many hidden messages and quotes that you can relate to. The more time you read the book, the more you understand what he is trying to say.
 
 I love how he talks about the labyrinth we are stuck in.
+
 *“He was shaken by the overwhelming revelation that the headlong race between his misfortunes and his dreams was at that moment reaching the finish line. The rest was darkness. 'Damn it,' he sighed. 'How will I ever get out of this labyrinth!' ”*
 
 *“That’s the mystery, isn’t it? Is the labyrinth living or dying? Which is he trying to escape–the world or the end of it?”*
