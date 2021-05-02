@@ -24,8 +24,11 @@ John Green's writing style is easy to understand. His descriptions are very deta
 
 I love how he talks about the labyrinth we are stuck in.
 *“He was shaken by the overwhelming revelation that the headlong race between his misfortunes and his dreams was at that moment reaching the finish line. The rest was darkness. 'Damn it,' he sighed. 'How will I ever get out of this labyrinth!' ”*
+
 *“That’s the mystery, isn’t it? Is the labyrinth living or dying? Which is he trying to escape–the world or the end of it?”*
+
 *“It’s not life or death, the labyrinth”… “So what is it?”… “Suffering…doing wrong and having wrong things happen to you. That’s the problem. Bolivar was talking about pain.”*
+
 John Green talks so much about it in the book and let the reader wonder, letting them explore the questions he generates.   
 
 Definitely recommended.
