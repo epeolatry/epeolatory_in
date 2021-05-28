@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Devils Intern by Jayme Phelps"
+title: "Devil's Intern by Jayme Phelps"
 author: bookworm_falguni
 tags: [book-reviews, fiction, fantasy, death]
 image: '/images/posts/Devils-Intern-by-Jayme-Phelps.jpg'
