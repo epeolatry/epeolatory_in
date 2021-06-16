@@ -2,7 +2,7 @@
 layout: post
 title: Changes by Hansel D. Costa
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, thriller]
 image: '/images/posts/changes-by-hansel-d-costa.jpg'
 ---
 ### **Blurb:**
