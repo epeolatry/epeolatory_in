@@ -2,7 +2,7 @@
 layout: post
 title: Chasing Ivy by S.J. Sylvis
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, romance, part-of-series]
 image: '/images/posts/chasing-ivy-by-sj-sylvis.jpg'
 ---
 ### **Blurb:**
