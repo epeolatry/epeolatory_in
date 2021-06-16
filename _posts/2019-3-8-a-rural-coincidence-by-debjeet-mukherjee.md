@@ -2,7 +2,7 @@
 layout: post
 title: A Rural Coincidence
 author: bookworm_falguni
-tags: [book-reviews, fiction, village, community, dark-secrets]
+tags: [book-reviews, fiction, village, community, dark-secrets, short-story]
 image: '/images/posts/a-rural-coincidence-by-debjeet-mukherjee.jpg'
 ---
 ### **Blurb:**
