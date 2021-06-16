@@ -2,7 +2,7 @@
 layout: post
 title: "Looking For Alaska by John Green"
 author: bookworm_falguni
-tags: [book-reviews, fiction, romance, young-adult]
+tags: [book-reviews, fiction, romance, young-adult, book-to-movie]
 image: '/images/posts/Looking-For-Alaska-by-John-Green.jpg'
 ---
 
