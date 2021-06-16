@@ -2,7 +2,7 @@
 layout: post
 title: A Murder of Crows by Christopher Hoffman
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, nazi, germany, world-war-2]
 image: '/images/posts/a-murder-of-crows-by-christopher-hoffman.jpg'
 ---
 ### **Blurb:**
