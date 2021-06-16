@@ -2,7 +2,7 @@
 layout: post
 title: Dreaming of Tomorrow by V. R. Baucke
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, romance, part-of-series]
 image: '/images/posts/dreaming-of-tomorrow-by-vr-baucke.jpg'
 ---
 ### **Blurb:**
