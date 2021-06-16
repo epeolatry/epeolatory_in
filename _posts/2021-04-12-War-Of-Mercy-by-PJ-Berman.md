@@ -2,7 +2,7 @@
 layout: post
 title: War of Mercy by P. J. Berman
 author: bookworm_falguni
-tags: [book-reviews, fiction, fantasy]
+tags: [book-reviews, fiction, fantasy, medieval-fiction, war]
 image: '/images/posts/War-Of-Mercy-by-PJ-Berman.jpg'
 ---
 
