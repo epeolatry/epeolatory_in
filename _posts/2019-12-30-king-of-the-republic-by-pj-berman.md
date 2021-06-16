@@ -2,7 +2,7 @@
 layout: post
 title: King of the Republic by P. J. Berman
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, fantasy, medieval-fiction, war]
 image: '/images/posts/king-of-the-republic-by-pj-berman.jpg'
 ---
 ### **Blurb:**
