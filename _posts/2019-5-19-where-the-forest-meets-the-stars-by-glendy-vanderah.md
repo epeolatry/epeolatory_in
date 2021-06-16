@@ -2,7 +2,7 @@
 layout: post
 title: Where The Forest Meets The Stars by Glendy Vanderah
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, research, medical, birds, gratitude, inspirational]
 image: '/images/posts/where-the-forest-meets-the-stars-by-glendy-vanderah.jpg'
 ---
 
