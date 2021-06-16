@@ -2,7 +2,7 @@
 layout: post
 title: Joshua’s 7 Gifts by Trishala Ahalpara
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, colour-blindness, disability]
 image: '/images/posts/joshuas-7-gifts-by-trishala-ahalpara-cover.jpg'
 ---
 ### **Blurb:**
