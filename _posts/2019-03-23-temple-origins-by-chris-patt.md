@@ -2,7 +2,7 @@
 layout: post
 title: Temple Origins by Chris Patt
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, fantasy, part-of-series]
 image: '/images/posts/temple-origins-by-chris-patt.jpg'
 ---
 ### **Blurb:**
