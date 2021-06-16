@@ -2,7 +2,7 @@
 layout: post
 title: Paper Towns by John Green
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, mental-health, book-to-movie]
 image: '/images/posts/paper-towns-by-john-green.jpg'
 ---
 ### Blurb: 
