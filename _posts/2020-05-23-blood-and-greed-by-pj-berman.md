@@ -2,7 +2,7 @@
 layout: post
 title: Blood and Greed (Volume 1) by P.J. Berman
 author: bookworm_falguni
-tags: [book-reviews, fiction, historical-fiction]
+tags: [book-reviews, fiction, historical-fiction, fantasy, medieval-fiction, war, short-story]
 image: '/images/posts/blood-and-greed-by-pj-berman.jpg'
 ---
 ### **Blurb:**
