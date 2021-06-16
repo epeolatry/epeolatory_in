@@ -2,7 +2,7 @@
 layout: post
 title: The Girl Behind The Glass by Sumit Pramanik
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, thriller, suspense, psychological-thriller, murder]
 image: '/images/posts/the-girl-behind-the-glass-by-sumit-pramanik.jpg'
 ---
 ### **Blurb:**
