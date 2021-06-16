@@ -2,7 +2,7 @@
 layout: post
 title: Men and Dreams in the Dhauladhar by Kochery Shibu
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, drama, india]
 image: '/images/posts/men-and-dreams-in-the-dhauladhar-by-kochery-shibu.jpg'
 ---
 ### **Blurb:**
