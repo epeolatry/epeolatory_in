@@ -2,7 +2,7 @@
 layout: post
 title: Bruised and Broken by Benita A. David
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, romance, second-chance]
 image: '/images/posts/bruised-and-broken-by-benita-david.jpg'
 ---
 ### **Blurb:**
