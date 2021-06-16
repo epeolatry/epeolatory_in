@@ -2,7 +2,7 @@
 layout: post
 title: First Came Forever by Annie Woods
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, romance, part-of-series]
 image: '/images/posts/First-Came-Forever-by-Annie-Woods.jpg'
 ---
 ### **Blurb:**
