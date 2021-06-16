@@ -2,7 +2,7 @@
 layout: post
 title: The Scavenger by J. L. Willow
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, drug-abuse, crime, teenage]
 image: '/images/posts/the-scavenger-by-jl-willow.jpg'
 ---
 ### **Blurb:**
