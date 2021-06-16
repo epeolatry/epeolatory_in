@@ -2,7 +2,7 @@
 layout: post
 title: The Nowhere by Chris Gill
 author: bookworm_falguni
-tags: [book-reviews, fiction, lgbtq, romance, coming-of-age]
+tags: [book-reviews, fiction, lgbtq+, romance, coming-of-age]
 image: '/images/posts/the-nowhere-by-chris-gill.jpg'
 ---
 
