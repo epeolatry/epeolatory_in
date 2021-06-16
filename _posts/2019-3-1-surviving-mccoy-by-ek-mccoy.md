@@ -2,7 +2,7 @@
 layout: post
 title: Surviving McCoy by EK McCoy
 author: bookworm_falguni
-tags: [book-reviews, fiction, family, love]
+tags: [book-reviews, fiction, family, love, memoir]
 image: '/images/posts/surviving-mccoy-by-ek-mccoy.jpg'
 ---
 ### **Blurb:**
