@@ -2,7 +2,7 @@
 layout: post
 title: Animal Farm by George Orwell
 author: bookworm_falguni
-tags: [book-reviews, fiction, fable, political-satire]
+tags: [book-reviews, fiction, fable, political-satire, book-to-movie]
 image: '/images/posts/animal-farm-by-george-orwell.jpg'
 ---
 ### **Blurb:**
