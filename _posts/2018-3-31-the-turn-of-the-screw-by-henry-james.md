@@ -2,7 +2,7 @@
 layout: post
 title: The Turn of the Screw by Henry James
 author: bookworm_falguni
-tags: [book-reviews, fiction, horror]
+tags: [book-reviews, fiction, horror, book-to-movie]
 image: '/images/posts/the-turn-of-the-screw-by-henry-james.jpg'
 ---
 ### **Blurb:**
