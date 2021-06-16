@@ -2,7 +2,7 @@
 layout: post
 title: The Underdog Parade by Michael Mihaley
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, drama, disability]
 image: '/images/posts/the-underdog-parade-by-michael-mihaley.jpg'
 ---
 ### **Blurb:**
