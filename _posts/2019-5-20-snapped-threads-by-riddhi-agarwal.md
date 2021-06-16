@@ -2,7 +2,7 @@
 layout: post
 title: Snapped Threads by Riddhi Agarwal
 author: bookworm_falguni
-tags: [book-reviews, fiction, art, theft, robbery]
+tags: [book-reviews, fiction, art, thriller, suspense]
 image: '/images/posts/snapped-threads-by-riddhi-agarwal.jpg'
 ---
 ### **Blurb:**
