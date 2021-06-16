@@ -2,7 +2,7 @@
 layout: post
 title: The Anonymous by Nidhi Kukreja
 author: bookworm_falguni
-tags: [book-reviews, fiction, lgbtq, family, love]
+tags: [book-reviews, fiction, love, suspense]
 image: '/images/posts/the-anonymous-by-nidhi-kukreja.jpg'
 ---
 ### **Blurb:**
