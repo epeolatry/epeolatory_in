@@ -2,7 +2,7 @@
 layout: post
 title: Vengeance of Hope by P.J. Berman
 author: bookworm_falguni
-tags: [book-reviews, fiction, fantasy, urban-fiction, war]
+tags: [book-reviews, fiction, fantasy, medieval-fiction, war]
 image: '/images/posts/vengeance-of-hope-by-pj-berman.jpg'
 ---
 ### **Blurb:**
