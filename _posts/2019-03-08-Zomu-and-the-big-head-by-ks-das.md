@@ -2,7 +2,7 @@
 layout: post
 title: Zomu and the Big-Head by K. S. Das
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, drug-abuse, satire, short-story]
 image: '/images/posts/Zomu-and-the-big-head-by-ks-das.jpg'
 ---
 ### **Blurb:**
