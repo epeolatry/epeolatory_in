@@ -2,7 +2,7 @@
 layout: post
 title: The Hundred Year Old Man Who Climbed Out Of The Window And Disappeared by Jonas Jonasson
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, book-to-movie]
 image: '/images/posts/the-hundred-year-old-man-who-climbed-out-of-the-window-and-disappeared-by-jonas-jonasson.jpg'
 ---
 ### **Blurb:**
