@@ -2,7 +2,7 @@
 layout: post
 title: PiKu & ViRu by Priyanka Agarwal
 author: bookworm_falguni
-tags: [book-reviews, fiction, lgbtq, family, love]
+tags: [book-reviews, fiction, love]
 image: '/images/posts/piku-and-viru-by-priyanka-agarwal.jpg'
 ---
 ### **Blurb:**
