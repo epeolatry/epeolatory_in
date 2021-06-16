@@ -2,9 +2,7 @@
 layout: post
 title: Serious Men by Manu Joseph
 author: bookworm_falguni
-tags:
-  - book-reviews
-  - fiction
+tags: [book-reviews, fiction, book-to-movie, drama, india]
 image: /images/posts/Serious-Men-by-Manu-Joseph.jpg
 ---
 
