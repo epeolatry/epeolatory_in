@@ -2,7 +2,7 @@
 layout: post
 title: Kala Ghoda—The Game of Power by Ashwini Malhotra
 author: bookworm_falguni
-tags: [book-reviews, fiction, crime]
+tags: [book-reviews, fiction, crime, thriller]
 image: '/images/posts/Kala-Ghoda-by-Ashwini-Malhotra.jpg'
 ---
 
