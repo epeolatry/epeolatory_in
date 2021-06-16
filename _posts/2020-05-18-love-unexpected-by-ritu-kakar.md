@@ -2,7 +2,7 @@
 layout: post
 title: Love Unecpected by Ritu Kakar
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, romance]
 image: '/images/posts/love-unexpected-by-ritu-kakar.jpg'
 ---
 ### **Blurb:**
