@@ -2,7 +2,7 @@
 layout: post
 title: Unobliterated by Samridhhi Manadawat
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, poetries, feminism]
 image: '/images/posts/unobliterated-by-samridhhi-mandawat.jpg'
 ---
 ### **Blurb:**
