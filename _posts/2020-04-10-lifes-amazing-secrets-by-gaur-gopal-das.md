@@ -2,7 +2,7 @@
 layout: post
 title: Life's Amazing Secrets by Gaur Gopal Das
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, self-help]
 image: '/images/posts/lifes-amazing-secrets-by-gaur-gopal-das.jpg'
 ---
 ### **Blurb:**
