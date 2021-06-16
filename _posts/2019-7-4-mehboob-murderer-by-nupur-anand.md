@@ -2,7 +2,7 @@
 layout: post
 title: Mehboob Murderer by Nupur Anand
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, thriller, murder, crime]
 image: '/images/posts/mehboob-murderer-by-nupur-anand.jpg'
 ---
 ### **Blurb:**
