@@ -2,7 +2,7 @@
 layout: post
 title: The Lakes by Anna Desourdy
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, romance]
 image: '/images/posts/the-lakes-by-anna-desourdy.jpg'
 ---
 ### **Blurb:**
