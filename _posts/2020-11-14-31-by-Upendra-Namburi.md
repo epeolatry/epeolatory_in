@@ -2,7 +2,7 @@
 layout: post
 title: 31 by Upendra Namburi
 author: bookworm_falguni
-tags: [book-reviews, non-fiction, history, based-on-real-life]
+tags: [book-reviews, fiction, thriller, corporate-thriller]
 image: '/images/posts/31-by-Upendra-Namburi.jpg'
 ---
 
