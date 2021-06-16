@@ -2,7 +2,7 @@
 layout: post
 title: Divine Rights by Coriandré Lawrence
 author: bookworm_falguni
-tags: [book-reviews, fiction, dystopian]
+tags: [book-reviews, fiction, dystopian, fantasy]
 image: '/images/posts/Divine-Rights-by-Coriandre-Lawrence.jpg'
 ---
 ### **Blurb:**
