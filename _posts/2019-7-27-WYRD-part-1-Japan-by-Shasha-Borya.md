@@ -2,7 +2,7 @@
 layout: post
 title: WYRD - The Wild & Weird Adventures of A + B (Part 1 - Japan) by Shasha Borya
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, travelogue, Japan]
 image: '/images/posts/WYRD-part-1-Japan.jpg'
 ---
 ### **My Review:**
