@@ -2,7 +2,7 @@
 layout: post
 title: Gabriel Born by Muriel Stockdale
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, sci-fi]
 image: '/images/posts/gabriel-born-by-muriel-stockdale.jpg'
 ---
 ### **Blurb:**
