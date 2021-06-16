@@ -2,7 +2,7 @@
 layout: post
 title: The Big Switch by John Thomas
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, corporate, work, life]
 image: '/images/posts/the-big-switch-by-john-thomas.jpg'
 ---
 ### **Blurb:**
