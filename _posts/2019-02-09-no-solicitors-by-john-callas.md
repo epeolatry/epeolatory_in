@@ -2,7 +2,7 @@
 layout: post
 title: No Solicitors by John Callas
 author: bookworm_falguni
-tags: [book-reviews, fiction, thriller, suspense, psychological-thriller, death, murder]
+tags: [book-reviews, fiction, thriller, suspense, psychological-thriller, murder, book-to-movie]
 image: '/images/posts/no-solicitors-by-john-callas.jpg'
 ---
 ### **Blurb:**
