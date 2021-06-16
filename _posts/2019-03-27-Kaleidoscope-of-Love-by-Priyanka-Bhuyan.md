@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kaleidoscope of Love by Priyanks Bhuyan 
+title: Kaleidoscope of Love by Priyanka Bhuyan 
 author: bookworm_falguni
 tags: [book-reviews, poetries, love]
 image: '/images/posts/Kaleidoscope-of-Love-by-Priyanka-Bhuyan.jpg'
