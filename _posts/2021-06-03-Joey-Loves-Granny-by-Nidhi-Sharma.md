@@ -2,7 +2,7 @@
 layout: post
 title: "Joey Loves Granny by Nidhi Sharma"
 author: bookworm_falguni
-tags: [book-reviews, fiction, chidren's-picture-book, poetry]
+tags: [book-reviews, fiction, chidren's-picture-book]
 image: '/images/posts/Joey-Loves-Granny-by-Nidhi-Sharma.png'
 ---
 
