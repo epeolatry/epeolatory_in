@@ -2,7 +2,7 @@
 layout: post
 title: Living for Today by V. R. Baucke
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, romance, part-of-series]
 image: '/images/posts/living-for-today-by-vr-baucke.jpg'
 ---
 ### **Blurb:**
