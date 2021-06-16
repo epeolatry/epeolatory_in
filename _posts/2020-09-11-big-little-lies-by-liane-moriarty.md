@@ -2,7 +2,7 @@
 layout: post
 title: Big Little Lies by Liane Moriarty
 author: bookworm_falguni
-tags: [book-reviews, fiction, thriller, domestic-violence]
+tags: [book-reviews, fiction, thriller, domestic-violence, book-to-series]
 image: '/images/posts/Big-Little-Lies-by-Liane-Moriarty.jpg'
 ---
 ### **Blurb:**
