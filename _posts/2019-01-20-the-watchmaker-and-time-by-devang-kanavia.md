@@ -2,7 +2,7 @@
 layout: post
 title: The Watchmaker and Time by Devang Kanavia
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, novella]
 image: '/images/posts/the-watchmaker-and-time-by-devang-kanavia.jpg'
 ---
 ### **Blurb:**
