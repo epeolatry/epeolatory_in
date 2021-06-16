@@ -2,7 +2,7 @@
 layout: post
 title: The Diary on the Fifth Floor by Raisha Lalwani
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, short-story]
 image: '/images/posts/The-Diary-on-the-Fifth-Floor-by-Raisha-Lalwani.jpg'
 ---
 ### **Blurb:**
