@@ -2,7 +2,7 @@
 layout: post
 title: The Waking by Matthew Smith
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, drama, suspense]
 image: '/images/posts/the-waking-by-matthew-smith.jpg'
 ---
 ### **Blurb:**
