@@ -2,7 +2,7 @@
 layout: post
 title: Two Girls in Love by Ankita Singh
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, journal, romance, lgbtq+]
 image: '/images/posts/two-girls-in-love-by-ankita-singh.jpg'
 ---
 ### **Blurb:**
