@@ -2,7 +2,7 @@
 layout: post
 title: Metamorphosis by Ivy Logan
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, fantasy]
 image: '/images/posts/metamorphosis-by-ivy-logan.jpg'
 ---
 ### **Blurb:**
