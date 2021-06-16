@@ -2,7 +2,7 @@
 layout: post
 title: Unlocked Silences by Mukhpreet Khurana
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, poetries]
 image: '/images/posts/unlocked-silences-by-mukhpreet-khurana.jpg'
 ---
 ### **Blurb:**
