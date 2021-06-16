@@ -2,7 +2,7 @@
 layout: post
 title: Ease by Mukhpreet Khurana
 author: bookworm_falguni
-tags: [book-reviews, non-fiction, history, based-on-real-life]
+tags: [book-reviews, poetries]
 image: '/images/posts/Ease-by-Mukhpreet-Khurana.jpg'
 ---
 
