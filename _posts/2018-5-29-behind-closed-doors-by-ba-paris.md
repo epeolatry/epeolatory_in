@@ -2,7 +2,7 @@
 layout: post
 title: Behind Closed Doors by B. A. Paris
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, thriller, psychological-thriller, suspense, domestic-violence]
 image: '/images/posts/behind-closed-doors-by-ba-paris.jpg'
 ---
 ### **Blurb:**
