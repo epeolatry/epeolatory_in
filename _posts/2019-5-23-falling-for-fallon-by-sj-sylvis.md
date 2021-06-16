@@ -2,7 +2,7 @@
 layout: post
 title: Falling for Fallon by S.J. Sylvis
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, romance, part-of-series]
 image: '/images/posts/falling-for-fallon-by-sj-sylvis.jpg'
 ---
 ### **Blurb:**
