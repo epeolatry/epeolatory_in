@@ -2,7 +2,7 @@
 layout: post
 title: Lost by Ele Fountain
 author: bookworm_falguni
-tags: [book-reviews, fiction, self-help, spiritual]
+tags: [book-reviews, fiction, family, drama]
 image: '/images/posts/Lost-by-Ele-Fountain.jpeg'
 ---
 
