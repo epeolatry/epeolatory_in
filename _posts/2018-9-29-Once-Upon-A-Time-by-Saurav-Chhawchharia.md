@@ -2,7 +2,7 @@
 layout: post
 title: Once Upon A Time by Saurav Chhawchharia 
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, drama, slice-of-life]
 image: '/images/posts/Once-Upon-A-Time-by-Saurav-Chhawchharia.jpg'
 ---
 ### **Blurb:**
@@ -29,11 +29,6 @@ There were some characters who were introduced but vanished suddenly and entered
 It was difficult to keep an eye on the activities of each character. 
 
 At some places I felt like the thoughts of the writer were not organised. A very haphazard description of events. 
-
-There various incidents which proves the ignorance of the writer.
-At one place a character "receives a mail" (an intent letter) and only a few sentences later he is so excited that he starts dancing "holding the letter in his hands".
-
-At another place the same character meets an accident and a friend of his describes the accident to another friend with extreme details about how "the truck driver pressed clutch with accelerator which led to the accident". (If my friend was involved in an accident THAT I DIDN'T WITNESS MYSELF, I would just say that the truck driver was driving blindly and not whether the driver was pressing the break or the clutch.)
 
 It is not a story where you expect a happy or a conclusive ending. You are just a viewer of the lives of the characters, whose lives continues even after the story ends.
 
