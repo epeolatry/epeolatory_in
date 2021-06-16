@@ -2,7 +2,7 @@
 layout: post
 title: Forever Disguised by Annie Woods
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, romance, part-of-series]
 image: '/images/posts/forever-disguised-by-annie-woods.jpg'
 ---
 ### **Blurb:**
