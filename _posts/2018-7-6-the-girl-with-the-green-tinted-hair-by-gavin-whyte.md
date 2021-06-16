@@ -2,7 +2,7 @@
 layout: post
 title: The Girl With The Green Tinted Hair by Gavin Whyte
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, short-story, nature]
 image: '/images/posts/the-girl-with-the-green-tinted-hair-by-gavin-whyte.jpg'
 ---
 ### **Blurb:**
