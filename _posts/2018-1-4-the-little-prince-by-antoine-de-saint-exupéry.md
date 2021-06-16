@@ -2,7 +2,7 @@
 layout: post
 title: The Little Prince by Antoine de Saint Exupéry
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, children's-picture-book, short-story, book-to-movie]
 image: '/images/posts/the-little-prince-by-antoine-de-saint-exupery.jpg'
 ---
 ### **Blurb:**
