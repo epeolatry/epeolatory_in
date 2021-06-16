@@ -2,7 +2,7 @@
 layout: post
 title: 1984 by George Orwell
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, dystopian, political]
 image: '/images/posts/1984-by-george-orwell.jpg'
 ---
 ### **Blurb:**
