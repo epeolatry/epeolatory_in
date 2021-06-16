@@ -2,7 +2,7 @@
 layout: post
 title: Nightmarescape by Jonathan Fortin
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, horror, thriller, suspense]
 image: '/images/posts/nightmarescape-by-jonathan-fortin.jpg'
 ---
 ### **Blurb:**
