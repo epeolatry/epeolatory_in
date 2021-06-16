@@ -2,7 +2,7 @@
 layout: post
 title: The Island of the Day Before by Zuni Chopra
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, poetries, proses, short-story]
 image: '/images/posts/the-island-of-the-day-before-by-zuni-chopra.jpg'
 ---
 ### **My Review:**
