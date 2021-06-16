@@ -2,7 +2,7 @@
 layout: post
 title: The Awakening by Grant Langley
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, spiritual, mystical]
 image: '/images/posts/the-awakening-by-grant-langley.jpg'
 ---
 ### **Blurb:**
