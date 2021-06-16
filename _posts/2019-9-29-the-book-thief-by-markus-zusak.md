@@ -2,7 +2,7 @@
 layout: post
 title: The Book Thief by Markus Zusak
 author: bookworm_falguni
-tags: [book-reviews, fiction, nazi, germany, books, death, world-war-2, historical-fiction]
+tags: [book-reviews, fiction, nazi, germany, books, death, world-war-2, historical-fiction, book-t0-movie]
 image: '/images/posts/the-book-thief-by-markus-zusak.jpg'
 ---
 ### **Blurb:**
