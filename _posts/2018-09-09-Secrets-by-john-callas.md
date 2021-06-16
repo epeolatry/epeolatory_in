@@ -2,7 +2,7 @@
 layout: post
 title: Secrets by John Callas
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, nazi, germany]
 image: '/images/posts/Secrets-by-john-callas.jpg'
 ---
 ### **Blurb:**
