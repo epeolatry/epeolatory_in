@@ -2,7 +2,7 @@
 layout: post
 title: The Lake Beneath the Station by Multiple Authors
 author: bookworm_falguni
-tags: [book-reviews, fiction, anthology]
+tags: [book-reviews, fiction, anthology, short-story]
 image: '/images/posts/The-Lake-Beneath-the-Station.jpg'
 ---
 ### **Blurb:**
