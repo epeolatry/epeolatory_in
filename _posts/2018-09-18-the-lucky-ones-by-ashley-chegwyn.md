@@ -2,7 +2,7 @@
 layout: post
 title: The Lucky Ones by Ashley Chegwyn
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, romance]
 image: '/images/posts/the-lucky-ones-by-ashley-chegwyn.jpg'
 ---
 ### **Blurb:**
