@@ -2,7 +2,7 @@
 layout: post
 title: Chance Encounter by Christi Whitson
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, romance]
 image: '/images/posts/chance-encounter-by-christi-whitson.jpg'
 ---
 ### **Blurb:**
