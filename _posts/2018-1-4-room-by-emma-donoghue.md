@@ -2,7 +2,7 @@
 layout: post
 title: Room by Emma Donoghue
 author: bookworm_falguni
-tags: [book-reviews, fiction]
+tags: [book-reviews, fiction, drama, family, book-to-movie, thriller]
 image: '/images/posts/room-by-emma-donoghue.jpg'
 ---
 ### **Blurb:**
