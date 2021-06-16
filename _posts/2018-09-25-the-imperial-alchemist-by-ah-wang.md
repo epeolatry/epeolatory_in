@@ -2,7 +2,7 @@
 layout: post
 title: The Imperial Alchemist by A. H. Wang
 author: bookworm_falguni
-tags: [book-reviews, fiction, fantsay, mythical]
+tags: [book-reviews, fiction, fantsay, mystical]
 image: '/images/posts/the-imperial-alchemist-by-ah-wang.jpg'
 ---
 ### **Blurb:**
