@@ -17,3 +17,9 @@ fields:
 - type: file
   name: image
   label: image
+- name: cta
+  type: text
+  config:
+    required: false
+  label: cta
+  description: Purchase/Read Link
