@@ -6,12 +6,6 @@ tags: [my-books, fiction, short-story, thriller, suspense, drama]
 image: '/images/stories/the-cursed-house.jpg'
 story: true
 ---
-Language : English
-Format : Kindle Ebook
-No. of pages : 14 pages
-Genre : Thriller, Suspense
-ASIN : B0982F7ZP3
-
 ### **Blurb:**
 
 Abir found out about Kyra’s ancestral house, which she hadn’t been to since she was 5. As much as Abir has fallen in love with the place, Kyra can’t stand being around the house.
