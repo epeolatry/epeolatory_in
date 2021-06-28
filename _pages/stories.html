@@ -1,12 +1,13 @@
 ---
 layout: default
+title: My Stories
 ---
 
 <div class='o-wrapper'>
 
   <div class='o-grid js-grid'>
-    {% for post in paginator.posts %}
-      {% if post.story != true %}
+    {% for post in site.posts %}
+      {% if post.story == true %}
         {% include post-card.html %}
       {% endif %}
     {% endfor %}
