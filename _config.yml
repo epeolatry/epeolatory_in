@@ -18,6 +18,7 @@ facebook:           https://www.facebook.com/epeolatry.in
 instagram:          https://www.instagram.com/bookworm_falguni
 amazon:             https://www.amazon.in/gp/profile/amzn1.account.AGWBO4A7KCKFKSVTS2VODO64KUDQ?ie=UTF8&ref_=ya_mb_l_prf
 goodreads:          https://www.goodreads.com/user/show/58171261-falguni-jain
+linkedin:           https://www.linkedin.com/in/falguni-jain-40a4bb155/
 
 disqus_shortname:   epeolatory
 gtag: G-KLZYMBKREY
@@ -39,6 +40,7 @@ plugins:
 
 include:
   - _pages
+  - _sass/vendor/fa/webfonts
 
 exclude:
   - vendor
