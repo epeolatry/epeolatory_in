@@ -14,8 +14,7 @@ What happens when Abir surprises Kyra by taking her to that house on their 1st w
 <a target="_blank" href="https://amzn.to/3dkgvna">
     <img src="/images/common/amazon-common.png" class="amazon-btn">
 </a>
-
-Global link if the button doesn't work: Mybook.to/TheCursedHouse
+Global link if the button doesn't work: <a href="url">The Cursed House</a>
 
 ### **Reviews:**
 
