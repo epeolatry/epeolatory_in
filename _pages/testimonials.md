@@ -2,6 +2,14 @@
 layout: page
 title: Testimonials
 ---
+<img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/Lorenzo-DeStefano.jpeg?raw=true" style="text-align: center" alt="Lorenzo-DeStefano" width="100px"/>
+As a western author it has always been my intention to have my novel, “HOUSE BOY”, vetted by a qualified advisor/content editor from inside the South Asian culture in which the story takes place. I believe that writers of the world should be able to explore anything that moves them, which means anything under the sun. But writing about cultures other than our own requires a personal admission of our “outsiderness” and a respect for historical and sociological realities we can only attempt to understand.
+So I’m all the more pleased with the insightful and attentive work done by Falguni Jain in helping me avoid any cultural or religious missteps in my quest to share the harrowing modern slavery story of young Vijay Pallan. She has helped immeasurably to authenticate my book and to focus its outrage over one of the most pressing issues of our time - human trafficking.
+
+***- Lorezo DeStefano
+(Author of House Boy)***
+
+___
 <img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/Megha-Bhauka.jpeg?raw=true" style="text-align: center" alt="Megha-Bhauka" width="100px"/>
 My journey of editing my book with Falguni was amazing. She has good vision and prepares a step-by-step plan with predetermined milestones while working. She took time with my work and didn't rush things and was still able to deliver the work on time. I hope we will have more opportunities to work together in near future.
 
