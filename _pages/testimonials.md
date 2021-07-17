@@ -4,6 +4,7 @@ title: Testimonials
 ---
 <img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/Lorenzo-DeStefano.jpg?raw=true" style="text-align: center" alt="Lorenzo-DeStefano" width="100px"/>
 As a western author it has always been my intention to have my novel, “HOUSE BOY”, vetted by a qualified advisor/content editor from inside the South Asian culture in which the story takes place. I believe that writers of the world should be able to explore anything that moves them, which means anything under the sun. But writing about cultures other than our own requires a personal admission of our “outsiderness” and a respect for historical and sociological realities we can only attempt to understand.
+
 So I’m all the more pleased with the insightful and attentive work done by Falguni Jain in helping me avoid any cultural or religious missteps in my quest to share the harrowing modern slavery story of young Vijay Pallan. She has helped immeasurably to authenticate my book and to focus its outrage over one of the most pressing issues of our time - human trafficking.
 
 ***- Lorezo DeStefano
