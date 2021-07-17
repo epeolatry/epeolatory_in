@@ -15,7 +15,7 @@ Click the button to buy:
 <a target="_blank" href="https://amzn.to/3dkgvna">
     <img src="/images/common/amazon-common.png" class="amazon-btn">
 </a>
-Global link if the button doesn't work: <a href="url">The Cursed House</a>
+Global link if the button doesn't work: <a href="http://mybook.to/TheCursedHouse">The Cursed House</a>
 
 ### **Reviews:**
 
