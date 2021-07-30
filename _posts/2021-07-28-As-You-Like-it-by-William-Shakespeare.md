@@ -41,4 +41,5 @@ Nevertheless, the characters are really interesting and well crafted. They have 
 Though the story is interesting, a bit more details and characters' backstories could have been a plus point.
 
 Recommended if you are a Shakespeare fan or want to try something new (classics, plays).
+
 ### ***Happy Reading!!***
