@@ -32,11 +32,16 @@ sass:
 gems:
   - jekyll-paginate
   - jekyll/tagging
+  - jekyll-minifier
+  - jekyll-feed
+  - jekyll-sitemap
 
 plugins:
   - jekyll-paginate
   - jekyll/tagging
   - jekyll-minifier
+  - jekyll-feed
+  - jekyll-sitemap
 
 include:
   - _pages
@@ -47,7 +52,11 @@ exclude:
   - Gemfile
   - Gemfile.lock
 
-# Tags
+jekyll-minifier:
+  uglifier_args:
+    harmony: true
+
+  # Tags
 tag_page_dir:         tag
 tag_page_layout:      tag_page
 tag_permalink_style:  pretty
@@ -58,3 +67,22 @@ defaults:
       path: '_pages'
     values:
       permalink: /:basename:output_ext
+      sitemap:
+        tags:
+          changefreq: weekly
+          priority: 0.7
+  - scope:
+      path: 'tag'
+    values:
+      sitemap:
+        tags:
+          changefreq: daily
+          priority: 0.5
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      sitemap:
+        tags:
+          changefreq: weekly
+          priority: 0.9
