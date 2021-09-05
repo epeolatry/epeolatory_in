@@ -97,7 +97,6 @@ DEPENDENCIES
   jekyll-feed
   jekyll-minifier
   jekyll-paginate
-  jekyll-sass-converter
   jekyll-sitemap!
   jekyll-tagging
 
