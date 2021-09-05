@@ -6,6 +6,7 @@
   position: relative;
   display: flex;
   width: 100%;
+  height: max-content;
   flex-direction: column;
   border-bottom: 1px solid $color-border;
   margin-bottom: double($base-spacing-unit) + half($base-spacing-unit);
@@ -13,13 +14,13 @@
 
   &__media {
     overflow: hidden;
-    background-color: $bg-gray;
+    // background-color: $bg-gray;
     border-radius: $global-border-radius;
     margin-bottom: $base-spacing-unit + half($base-spacing-unit);
   }
 
   &__image-link {
-    display: block;
+    display: flex;
     position: relative;
   }
 
