@@ -2,7 +2,7 @@
 layout: post
 title: Cure of Umba by Samuel Jukes
 author: bookworm_falguni
-tags: [book-reviews, fiction, fantsay-fiction]
+tags: [book-reviews, fiction, fantasy]
 image: '/images/posts/cure-of-umba-by-samuel-jukes.jpg'
 ---
 
