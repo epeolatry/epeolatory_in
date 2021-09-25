@@ -2,7 +2,7 @@
 layout: post
 title: Hot Love Inferno by Nicky Blue
 author: bookworm_falguni
-tags: [book-reviews, fiction, science-fiction, sci-fi, fantasy]
+tags: [book-reviews, fiction, science-fiction, fantasy]
 image: '/images/posts/hot-love-inferno-by-nicky-blue.jpg'
 ---
 ### **Blurb:**
