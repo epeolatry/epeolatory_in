@@ -12,7 +12,7 @@ So I’m all the more pleased with the insightful and attentive work done by Fal
 
 ___
 <img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/mannat-gupta.jpeg?raw=true" style="text-align: center" alt="Mannat-Gupta" width="100px"/>
-My journey of editing my book with Falguni was amazing. She has good vision and prepares a step-by-step plan with predetermined milestones while working. She took time with my work and didn't rush things and was still able to deliver the work on time. I hope we will have more opportunities to work together in near future.
+I feel very delighted to work with Falguni. She is a very keen person with an eye for detail. She completed everything on time, helped me select and write much better words. For my future projects, I'll not hesitate to reach out to her. I wish her all the best and success in the coming years!
 
 ***- Mannat Gupta
 (Author of Beyond Earth and Sky)***
