@@ -3,7 +3,7 @@ layout: post
 title: "Empower Your Super Powers by Anjali Gursahaney"
 author: bookworm_falguni
 tags: [book-reviews, non-fiction, self-help, life, positivity, spirituality, motivational, inspirational, gratitude, journal]
-image: '/images/posts/Empower-Your-Super-Powers-by-Anjali-Gursahaney.jpg'
+image: '/images/posts/Empower-Your-Super-Powers-by-Anjali-Gursahaney.png'
 ---
 
 ### **About the book:**
@@ -14,8 +14,6 @@ We’ve been told what to do and how to do things since we were kids. As humans,
 You, my friend, are the creator and you can make your life as amazing as you want it to be. Today, you take charge!
 
 ### **My Review:**
-
-Review:
 I got the chance to read "Empower Your Super Powers" at a time when I was facing many doubts—doubts about my career, doubts about my future, doubts about my emotions, doubts about everything in general. I was feeling emotionally numb and couldn't focus on anything. When I held the book in my hand, I knew it was meant to be read at that very moment.
 
 I would often find myself thinking about stuff that I had no control over. Instead of taking action, I would waste my time thinking about the future and lamenting over my past. Until I read this book. This book helped me realise how a lot of things I had unconsciously been focussing on were a barrier to my personal growth and peace.
