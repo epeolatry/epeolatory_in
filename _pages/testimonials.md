@@ -2,6 +2,12 @@
 layout: page
 title: Testimonials
 ---
+<img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/Harit-Ratna.jpg?raw=true" style="text-align: center" alt="Harit-Ratna" width="100px"/>
+Falguni has been a delight to work with. She is highly knowledgeable about the intricacies of editing and she is extremely dedicated to her job. She is a fast learner and she was able to pick up abstract philosophical concepts very quickly. Her attention to detail is a key trait that helped in producing this book to desired quality standards. Most significantly, she respects the author’s voice and focuses on maintaining the purity of the vision.
+
+***- Harit Ratna
+(Author of FAQs on Conscious Growth)***
+
 <img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/Lorenzo-DeStefano.jpg?raw=true" style="text-align: center" alt="Lorenzo-DeStefano" width="100px"/>
 As a western author it has always been my intention to have my novel, “HOUSE BOY”, vetted by a qualified advisor/content editor from inside the South Asian culture in which the story takes place. I believe that writers of the world should be able to explore anything that moves them, which means anything under the sun. But writing about cultures other than our own requires a personal admission of our “outsiderness” and a respect for historical and sociological realities we can only attempt to understand.
 
