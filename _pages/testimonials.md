@@ -24,6 +24,12 @@ I feel very delighted to work with Falguni. She is a very keen person with an ey
 (Author of Beyond Earth and Sky)***
 
 ___
+It has been a great experience. I am so delighted with your work. I appreciate your patience and soft response to my every query. I am very amazed but happy with your fast submission of work. Looking forward to working further in future if I intend to publish other books. Thank you for your support in this journey of one of my dreams. 
+
+***- Roohi Noorain
+(Author of Falling for You)***
+
+___
 <img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/Megha-Bhauka.jpeg?raw=true" style="text-align: center" alt="Megha-Bhauka" width="100px"/>
 My journey of editing my book with Falguni was amazing. She has good vision and prepares a step-by-step plan with predetermined milestones while working. She took time with my work and didn't rush things and was still able to deliver the work on time. I hope we will have more opportunities to work together in near future.
 
