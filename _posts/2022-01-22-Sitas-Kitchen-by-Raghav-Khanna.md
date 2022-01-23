@@ -3,7 +3,7 @@ layout: post
 title: "Sita's Kitchen by Raghav Khanna"
 author: bookworm_falguni
 tags: [book-reviews, fiction, family, india, dream, chef, food, restaurant, london, himachal-pradesh, italian, career]
-image: '/images/posts/Sitas-Kitchen-by-Raghav-Khanna.jpg'
+image: '/images/posts/Sitas-kitchen-by-raghav-khanna.jpg'
 ---
 
 ### **Blurb:**
