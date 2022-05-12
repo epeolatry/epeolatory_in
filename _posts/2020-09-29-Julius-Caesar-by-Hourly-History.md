@@ -2,7 +2,7 @@
 layout: post
 title: Julius Caesar by Hourly History
 author: bookworm_falguni
-tags: [book-reviews, non-fiction, history, based-on-real-life]
+tags: [book-reviews, non-fiction, based-on-true-story, historical-fiction]
 image: '/images/posts/Julius-Caesar-by-Hourly-History.jpg'
 ---
 
