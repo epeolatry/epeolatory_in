@@ -2,7 +2,7 @@
 layout: post
 title: "Girl Gets Kidnapped by Sumit Pramanik"
 author: bookworm_falguni
-tags: [book-reviews, fiction, drama, family, india, politics, rape, ]
+tags: [book-reviews, fiction, drama, family, India, politics, sexual-assault, crime]
 image: '/images/posts/Girl-Gets-Kidnapped-by-Sumit-Pramanik.jpg'
 ---
 
