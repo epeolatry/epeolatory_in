@@ -2,7 +2,7 @@
 layout: post
 title: "Beyond Earth and Sky by Mannat Gupta"
 author: bookworm_falguni
-tags: [book-reviews, nature, romance, poetries, love, life, collection-of-poetries, poetry, emotions, positivity]
+tags: [book-reviews, nature, romance, poetries, love, life, emotions, positivity]
 image: '/images/posts/Beyond-Earth-and-Sky-by-Mannat-Gupta.jpg'
 ---
 
