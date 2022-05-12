@@ -2,7 +2,7 @@
 layout: post
 title: "Poetarrati Ponder 2020 by Ashok Subramanian"
 author: bookworm_falguni
-tags: [book-reviews, poetries, emotions, time, life, death, farewell, rape, mental-health, nature]
+tags: [book-reviews, poetries, emotions, time, life, death, farewell, sexual-assault, mental-health, nature]
 image: '/images/posts/Poetarrati-by-Ashok-Subramanian.jpg'
 ---
 
