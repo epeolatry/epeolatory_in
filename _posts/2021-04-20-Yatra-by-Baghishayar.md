@@ -2,7 +2,7 @@
 layout: post
 title: "Yatra: Udaan Jaari Hai by Baghishayar"
 author: bookworm_falguni
-tags: [book-reviews, collection-of-poetries, hindi]
+tags: [book-reviews, poetries, hindi, love]
 image: '/images/posts/Yatra-by-Baghishayar.jpg'
 ---
 
