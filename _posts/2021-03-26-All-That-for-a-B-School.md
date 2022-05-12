@@ -2,7 +2,7 @@
 layout: post
 title: All That for a B-School by Swapnil Paranjape & Prajakta Sinai
 author: bookworm_falguni
-tags: [book-reviews, fiction, india, students, success]
+tags: [book-reviews, fiction, India, students, success, career, life]
 image: '/images/posts/All-That-for-a-B-School.jpg'
 ---
 
