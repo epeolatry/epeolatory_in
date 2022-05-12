@@ -2,7 +2,7 @@
 layout: post
 title: A City Full of Stories by Ashok Subramanian
 author: bookworm_falguni
-tags: [book-reviews, fiction, short-story, india]
+tags: [book-reviews, fiction, short-story, India, love]
 image: '/images/posts/A-City-Full-of-Stories-by-Ashok-Subramanian.jpg'
 ---
 
