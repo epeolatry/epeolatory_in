@@ -2,7 +2,7 @@
 layout: post
 title: Divyastra by Nimish Tanna
 author: bookworm_falguni
-tags: [book-reviews, fiction, mythological, India, drama]
+tags: [book-reviews, fiction, mythology, India, drama, indian-mythology]
 image: '/images/posts/divyastra-by-nimish-tanna.jpg'
 ---
 ### **Blurb:**
