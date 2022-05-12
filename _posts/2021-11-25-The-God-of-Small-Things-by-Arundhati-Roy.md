@@ -2,7 +2,7 @@
 layout: post
 title: "The God of Small Things by Arundhati Roy"
 author: bookworm_falguni
-tags: [book-reviews, fiction, drama, family, romance, love, life, india, emotional, emotions, siblings, domestic-violence, parents, village, community, death]
+tags: [book-reviews, fiction, drama, family, romance, love, life, India, emotional, siblings, domestic-violence, parents, village, community, death]
 image: '/images/posts/The-God-of-Small-Things-by-Arundhati-Roy.jpg'
 ---
 
