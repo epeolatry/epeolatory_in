@@ -2,7 +2,7 @@
 layout: post
 title: "The Beautiful Sky by Harshwardhan Patil"
 author: bookworm_falguni
-tags: [book-reviews, fiction, shayari, poetries, romance, rape, mental-health]
+tags: [book-reviews, fiction, shayari, poetries, romance, sexual-assault, mental-health]
 image: '/images/posts/The-Beautiful-Sky-by-Harshwardhan-Patil.png'
 ---
 
