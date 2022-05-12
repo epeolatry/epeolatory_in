@@ -2,7 +2,7 @@
 layout: post
 title: "The Laser Eye Warrior: Legacy of Rudra by Dhyanesh"
 author: bookworm_falguni
-tags: [book-reviews, fiction, indian-mythology, india, mythology, hindu, god]
+tags: [book-reviews, fiction, indian-mythology, India, mythology, hindu, god]
 image: '/images/posts/The-Laser-Eye-Warrior-by-Dhyanesh.jpg'
 ---
 
