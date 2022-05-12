@@ -2,7 +2,7 @@
 layout: post
 title: "Apartment 16 by Adam Nevill"
 author: bookworm_falguni
-tags: [book-reviews, Horror, Supernatural, Paranormal, Mystery, Thriller, Fantasy, Fiction]
+tags: [book-reviews, horror, supernatural, paranormal, mystery, thriller, fantasy, fiction]
 image: '/images/posts/Apartment-16-by-Adam-Nevill.jpg'
 ---
 
