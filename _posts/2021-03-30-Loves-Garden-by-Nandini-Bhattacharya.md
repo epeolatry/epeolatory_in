@@ -2,7 +2,7 @@
 layout: post
 title: Love's Garden by Nandini Bhattacharya
 author: bookworm_falguni
-tags: [book-reviews, fiction, india, pre-independence-era, partition]
+tags: [book-reviews, fiction, India, pre-independence-era, partition, family, drama, love, romance]
 image: '/images/posts/Loves-Garden-by-Nandini-Bhattacharya.jpg'
 ---
 
