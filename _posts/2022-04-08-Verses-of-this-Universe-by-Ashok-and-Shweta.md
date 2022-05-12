@@ -2,7 +2,7 @@
 layout: post
 title: "Verses of this Universe by Ashok Subramanian and Shweta Hitesh Joshi"
 author: bookworm_falguni
-tags: [book-reviews, non-fiction, poetries, nature, universe, love, India, gratitude, life, emotions]
+tags: [book-reviews, non-fiction, poetries, nature, universe, love, India, gratitude, life]
 image: '/images/posts/Verses-of-this-Universe-by-Ashok-and-Shweta.jpg'
 ---
 
