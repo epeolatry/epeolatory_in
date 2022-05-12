@@ -2,7 +2,7 @@
 layout: post
 title: Take My Heart Forever by Arpit Agrawal
 author: bookworm_falguni
-tags: [book-reviews, fiction, romance, love-story, medical]
+tags: [book-reviews, fiction, romance, love, medical]
 image: '/images/posts/take-my-heart-forever-by-arpit-agrawal.jpg'
 ---
 ### **Blurb:**
