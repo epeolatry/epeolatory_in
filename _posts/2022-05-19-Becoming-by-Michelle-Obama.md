@@ -2,7 +2,7 @@
 layout: post
 title: "Becoming by Michelle Obama"
 author: bookworm_falguni
-tags: [based-on-true-story, love, political, memoir, non-fiction, motivational, inspirational, life, death, feminism, dreams, success, farewell, habits, personality, work, politics, career, family, teenage, parents, community, USA, government, famous-personality]
+tags: [book-reviews, based-on-true-story, love, political, memoir, non-fiction, motivational, inspirational, life, death, feminism, dreams, success, farewell, habits, personality, work, politics, career, family, teenage, parents, community, USA, government, famous-personality]
 image: '/images/posts/Becoming-by-Michelle-Obama.jpg'
 ---
 
