@@ -55,5 +55,5 @@ If you are looking for any of the following services, please fill <a href="https
 - Book Launch Promotional Graphics 
 - Share promotional graphics on Facebook/Instagram
 
-If you are looking for any of the following services, please fill <a href="https://forms.gle/FBFtoaoxUeX4AHoJ8">**THIS FORM.**</a>
+If you are looking for any of these services, please fill <a href="https://forms.gle/FBFtoaoxUeX4AHoJ8">**THIS FORM.**</a>
 
