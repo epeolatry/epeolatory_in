@@ -57,7 +57,4 @@ If you are looking for any of the following services, please fill <a href="https
 
 If you are looking for any of these services, please fill <a href="https://forms.gle/FBFtoaoxUeX4AHoJ8">**THIS FORM.**</a>
 
-***You can also find me on:***
-<a href="https://www.upwork.com/freelancers/~01de2077a96e499e69">**Upwork**</a>
-<a href="https://reedsy.com/falguni-jain">**Reedsy**</a>
-
+You can also find me on <a href="https://www.upwork.com/freelancers/~01de2077a96e499e69">**Upwork.**</a>
