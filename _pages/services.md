@@ -5,6 +5,8 @@ title: My Services
 
 If you are looking for any of the following services, please fill <a href="https://forms.gle/FBFtoaoxUeX4AHoJ8">**THIS FORM.**</a> 
 
+Confused? Book a free 30-minute <a href="[https://forms.gle/FBFtoaoxUeX4AHoJ8](https://calendly.com/falguni-epeolatry/editing-services-consultation-call)">**CONSULTATION CALL**</a> now.
+
 ### **Book Coaching**
 - Check consistency in names, location and time period
 - Check that the plot and character development of the story aligns with the author's vision
@@ -56,5 +58,7 @@ If you are looking for any of the following services, please fill <a href="https
 - Share promotional graphics on Facebook/Instagram
 
 If you are looking for any of these services, please fill <a href="https://forms.gle/FBFtoaoxUeX4AHoJ8">**THIS FORM.**</a>
+
+Confused? Book a free 30-minute <a href="[https://forms.gle/FBFtoaoxUeX4AHoJ8](https://calendly.com/falguni-epeolatry/editing-services-consultation-call)">**CONSULTATION CALL**</a> now.
 
 You can also find me on <a href="https://www.upwork.com/freelancers/~01de2077a96e499e69">**Upwork.**</a>
