@@ -3,7 +3,7 @@ layout: post
 title: "House Boy by Lorenzo DeStefano"
 author: bookworm_falguni
 tags: [book-reviews, India, hindu, tamil-nadu, based-on-true-story, fiction, drama, domestic-violence, sexual-assault, psychological-thriller, murder, crime, dark-secrets, discrimination, family, village, community, London]
-image: '/images/posts/The-Midnight-Library-by-Matt-Haig.jpg'
+image: '/images/posts/House-Boy-by-Lorenzo-DeStefano.jpg'
 ---
 
 ### **Blurb:**
