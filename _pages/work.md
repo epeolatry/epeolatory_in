@@ -76,7 +76,7 @@ title: My Works
 
 <div class='js-grid__col o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l js-post-card-wrap'>
 <a href="https://www.amazon.in/dp/1639572856">
-<img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/posts/Woman by Vamsi Krishna.jpg?raw=true" style="text-align: left" alt="Woman by Vamsi Krishna" width="200px"/>
+<img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/posts/Woman-by-Vamsi-Krishna.jpg?raw=true" style="text-align: left" alt="Woman by Vamsi Krishna" width="200px"/>
 </a>
 </div>
 
