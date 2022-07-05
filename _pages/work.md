@@ -1,26 +1,49 @@
 ---
-layout: page
+layout: default
 title: My Works
 ---
+<div class='o-wrapper'>
+  <div class="flex-sections" style="text-align: center;">
+    <div class="flex-row">
+      <h2>Editings</h2>
+    </div>
+  </div>
+  <div class='o-grid js-grid'>
+    {% for post in site.data.editings %}
+      {% include post-card-alt.html %}
+    {% endfor %}
+  </div>
 
-<style>
-  .c-content{
-    align-items: flex-start;
-  }
-  .flex-row {
-    display: flex;
-    flex-direction: row;
-  }
+  <div class='o-grid'>
+    <div class='o-grid__col o-grid__col--full'>
+      <hr>
+    </div>
+  </div>
+  <div class='o-grid'>
+    {% include instagram.html %}
+  </div>
 
-  .flex-sections {
-    margin-top: 15vh;
-  }
+  <div class="flex-sections" style="text-align: center;">
+    <div class="flex-row">
+      <h2>Beta Reads</h2>
+    </div>
+  </div>
+  <div class='o-grid js-grid'>
+    {% for post in site.data.beta-reads %}
+      {% include post-card-alt.html %}
+    {% endfor %}
+  </div>
 
-  .flex-sections:nth-of-type(1) {
-    margin-top: 0;
-  }
-</style>
-
+  <div class='o-grid'>
+    <div class='o-grid__col o-grid__col--full'>
+      <hr>
+    </div>
+  </div>
+  <div class='o-grid'>
+    {% include instagram.html %}
+  </div>
+</div>
+<!-- 
 <div class="flex-sections">
   <h2>Editings</h2>
   <div class="flex-row">
@@ -98,8 +121,10 @@ title: My Works
 </a>
    </div>
    </div>
-</div>
-<div class="flex-sections">
+</div> -->
+
+
+<!-- <div class="flex-sections">
   <h2>Beta Reads</h2>
   <div class="flex-row">
 <div class='js-grid__col o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l js-post-card-wrap'>
@@ -144,4 +169,4 @@ title: My Works
 </div>
     </div>
   </div>
-</div>
+</div> -->
