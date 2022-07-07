@@ -5,7 +5,7 @@ title: My Services
 
 If you are looking for any of the following services, please fill <a href="https://forms.gle/FBFtoaoxUeX4AHoJ8">**THIS FORM.**</a> 
 
-Confused? Book a free 30-minute <a href="[https://forms.gle/FBFtoaoxUeX4AHoJ8](https://calendly.com/falguni-epeolatry/editing-services-consultation-call)">**CONSULTATION CALL**</a> now.
+Confused? Book a free 30-minute <a target="_blank" href="https://calendly.com/falguni-epeolatry/editing-services-consultation-call">**CONSULTATION CALL**</a> now.
 
 ### **Book Coaching**
 - Check consistency in names, location and time period
