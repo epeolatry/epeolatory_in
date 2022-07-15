@@ -14,10 +14,11 @@ SPIN THE WHEEL AT YOUR OWN RISK!
 
 The Wheel of Fortune will bring positivity into your life and help you see your worth.
 
-Buy at:
+### **Buy here:**
+Amazon Kindle: <a href="https://www.amazon.com/gp/product/B0B6JP99XL">Ebook</a>
 
 Notion Press: <a href="https://notionpress.com/read/the-wheel-of-fortune-1374502">Paperback</a>
-Amazon.in: <a href="https://www.amazon.in/dp/B0B6HP55PD">Kindle & Paperback</a>
 
+Amazon.in: <a href="https://www.amazon.in/dp/B0B6HP55PD">Paperback</a>
 
 ### ***Happy Reading!!***
