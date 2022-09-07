@@ -54,7 +54,20 @@ title: My Works
           style="text-align: left" alt="Dynasties of India by Manoj Sinha" width="200px" />
       </a>
     </div>
+<div class='js-grid__col o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l js-post-card-wrap'>
+<a href="https://notionpress.com/read/what-the-heck-do-i-do-about-upskilling-the-workforce">
+<img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/posts/What-The-Heck-Do-I-Do-About-Upskilling-Workforce-By-Sonia-Sant.jpg?raw=true" style="text-align: left" alt="What The Heck Do I Do About Upskilling Workforce? By Sonia Sant" width="200px"/>
+</a>
+</div>
+
     <div class='js-grid__col o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l js-post-card-wrap'>
+      <a href="https://notionpress.com/read/masala-horror-love">
+        <img
+          src="https://github.com/epeolatry/epeolatory_in/blob/master/images/posts/Masala-Horror-and-Love-by-Dhiraj-Singh.jpg?raw=true"
+          style="text-align: left" alt="Masala, Horror & Love by Dhiraj Singh" width="200px" />
+      </a>
+    </div>
+<div class='js-grid__col o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l js-post-card-wrap'>
       <a href="https://www.amazon.com/dp/B08WQ13NLF/">
         <img
           src="https://github.com/epeolatry/epeolatory_in/blob/master/images/posts/Kala-Ghoda-by-Ashwini-Malhotra.jpg?raw=true"
@@ -78,10 +91,34 @@ title: My Works
 <img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/posts/The-Mystery-Within-You-by-Megha-Bhauka.jpg?raw=true" style="text-align: left" alt="The Mystery Within You by Megha Bhauka" width="200px"/>
 </a>
 </div>
+<div class='js-grid__col o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l js-post-card-wrap'>
+<a href="https://www.amazon.com/dp/B093FLWGKD">
+<img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/posts/Fly-Without-Wings-by-Megha-Bhauka.png?raw=true" style="text-align: left" alt="Fly Without Wings by Megha Bhauka" width="200px"/>
+</a>
+</div>
 
 <div class='js-grid__col o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l js-post-card-wrap'>
 <a href="https://www.amazon.in/dp/B09HMCTSG3">
 <img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/posts/Beyond-Earth-and-Sky-by-Mannat-Gupta.jpg?raw=true" style="text-align: left" alt="Beyond Earth and Sky by Mannat Gupta" width="200px"/>
+</a>
+</div>
+<div class='js-grid__col o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l js-post-card-wrap'>
+      <a href="https://notionpress.com/read/dreams-desires-and-decisions">
+        <img
+          src="https://github.com/epeolatry/epeolatory_in/blob/master/images/posts/Dreams-Desires-and-Decisions-by-Veesem.png?raw=true"
+          style="text-align: left" alt="Masala, Horror & Love by Dhiraj Singh" width="200px" />
+      </a>
+    </div>
+ <div class='js-grid__col o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l js-post-card-wrap'>
+      <a href="https://notionpress.com/read/the-tunes-of-the-heart-in-tears">
+        <img
+          src="https://github.com/epeolatry/epeolatory_in/blob/master/images/posts/The-Tunes-of-Heart-in-Tears-by-Sonia-Khatri.png?raw=true"
+          style="text-align: left" alt="The Tunes of the Heart in Tears by Sonia Khatri" width="200px" />
+      </a>
+    </div>
+<div class='js-grid__col o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l js-post-card-wrap'>
+<a href="https://www.amazon.in/dp/9354525911">
+<img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/posts/Bare-by-Ripal-Dixit.jpg?raw=true" style="text-align: left" alt="Bare by Ripal Dixit" width="200px"/>
 </a>
 </div>
 
@@ -106,12 +143,6 @@ title: My Works
 <div class='js-grid__col o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l js-post-card-wrap'>
 <a href="https://www.amazon.in/dp/9355742223">
 <img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/posts/The-Fault-by-Sunny-S-Koul.jpeg?raw=true" style="text-align: left" alt="20.	The Fault by Sunny S Koul" width="200px"/>
-</a>
-</div>
-
-<div class='js-grid__col o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l js-post-card-wrap'>
-<a href="https://www.amazon.in/dp/9354525911">
-<img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/posts/Bare-by-Ripal-Dixit.jpg?raw=true" style="text-align: left" alt="Bare by Ripal Dixit" width="200px"/>
 </a>
 </div>
 
