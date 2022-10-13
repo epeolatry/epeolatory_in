@@ -147,6 +147,30 @@ title: My Works
 </div>
 
 <div class='js-grid__col o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l js-post-card-wrap'>
+<a href="https://notionpress.com/read/me-no-pause-me-play">
+<img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/posts/Me-No-Pause-Me-Play-by-Manoj-Kumar-Sharma.png?raw=true" style="text-align: left" alt="Me No Pause, Me Play by Manoj Kumar Sharma" width="200px"/>
+</a>
+   </div>
+
+<div class='js-grid__col o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l js-post-card-wrap'>
+<a href="https://www.amazon.in/dp/B0BG21YW4V/">
+<img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/posts/An-Imperishable-Promise-by-Sarathi-Sabyasachi-Sahoo.png?raw=true" style="text-align: left" alt="An Imperishable Promise by Sarathi Sabyasachi Sahoo" width="200px"/>
+</a>
+   </div>
+
+<div class='js-grid__col o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l js-post-card-wrap'>
+<a href="https://www.amazon.in/dp/B0BHT1PXQJ/">
+<img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/posts/The-Hunter-by-Atoshi-Ghosh.jpg?raw=true" style="text-align: left" alt="The Hunter by Atoshi Ghosh" width="200px"/>
+</a>
+   </div>
+
+<div class='js-grid__col o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l js-post-card-wrap'>
+<a href="https://www.wattpad.com/story/273517634-not-you-please-%E2%9C%94%EF%B8%8F">
+<img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/posts/Not-You-Please-by-Anuradha-Dev.jpg?raw=true" style="text-align: left" alt="Not You Please by Anuradha Dev" width="200px"/>
+</a>
+   </div>
+
+<div class='js-grid__col o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l js-post-card-wrap'>
 <a href="https://www.amazon.in/dp/B09S6MJ48D">
 <img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/posts/Falling-For-You-by-Roohi-Noorain.jpg?raw=true" style="text-align: left" alt="Falling For You by Roohi Noorain" width="200px"/>
 </a>
