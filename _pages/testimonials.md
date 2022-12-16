@@ -2,12 +2,13 @@
 layout: page
 title: Testimonials
 ---
-<img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/Harit-Ratna.jpg?raw=true" style="text-align: center" alt="Harit-Ratna" width="100px"/>
-Falguni has been a delight to work with. She is highly knowledgeable about the intricacies of editing and she is extremely dedicated to her job. She is a fast learner and she was able to pick up abstract philosophical concepts very quickly. Her attention to detail is a key trait that helped in producing this book to desired quality standards. Most significantly, she respects the author’s voice and focuses on maintaining the purity of the vision.
+<img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/Sugandha-Sinha.jpeg?raw=true" style="text-align: center" alt="Sugandha-Sinha" width="100px"/>
+Working with Falguni was extremely delightful experience . She was always willing to listen to my concerns and address them. She was approachable and has a really good knowledge. After competing the editing of my book, I can say for sure that under her guidance I could make my manuscript much better. I would definitely recommend anyone seeking an editor for proofreading, copy editing or developmental editing and whenever I write my next book, I am going to come back to her for sure!
 
-***- Harit Ratna
-(Author of FAQs on Conscious Growth)***
+***- Sugandha Sinha
+(Author of Your Life is Poop: But so is Mine)***
 
+___
 <img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/Lorenzo-DeStefano.jpg?raw=true" style="text-align: center" alt="Lorenzo-DeStefano" width="100px"/>
 As a western author it has always been my intention to have my novel, “HOUSE BOY”, vetted by a qualified advisor/content editor from inside the South Asian culture in which the story takes place. I believe that writers of the world should be able to explore anything that moves them, which means anything under the sun. But writing about cultures other than our own requires a personal admission of our “outsiderness” and a respect for historical and sociological realities we can only attempt to understand.
 
@@ -15,6 +16,13 @@ So I’m all the more pleased with the insightful and attentive work done by Fal
 
 ***- Lorezo DeStefano
 (Author of House Boy)***
+
+___
+<img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/Harit-Ratna.jpg?raw=true" style="text-align: center" alt="Harit-Ratna" width="100px"/>
+Falguni has been a delight to work with. She is highly knowledgeable about the intricacies of editing and she is extremely dedicated to her job. She is a fast learner and she was able to pick up abstract philosophical concepts very quickly. Her attention to detail is a key trait that helped in producing this book to desired quality standards. Most significantly, she respects the author’s voice and focuses on maintaining the purity of the vision.
+
+***- Harit Ratna
+(Author of FAQs on Conscious Growth)***
 
 ___
 <img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/mannat-gupta.jpeg?raw=true" style="text-align: center" alt="Mannat-Gupta" width="100px"/>
