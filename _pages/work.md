@@ -159,6 +159,12 @@ title: My Works
    </div>
 
 <div class='js-grid__col o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l js-post-card-wrap'>
+<a href="https://www.ultimateimpressions.in/product/career-in-the-beautiful-world-of-cruising-new-beginnings-after-the-pandemic/?fbclid=IwAR1Kp7wDK8Tq9h-GyxkpewU9pRv_2VfsYPS3ckT62bsQahK-2nnJW_25Zko">
+<img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/posts/Career-in-the-Beautiful-World-of-Cruising-by-Sanjiv-Ahire.jpg?raw=true" style="text-align: left" alt="Career in the Beautiful World of Cruising by Sanjiv Ahire" width="200px"/>
+</a>
+   </div>
+
+<div class='js-grid__col o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l js-post-card-wrap'>
 <a href="https://www.amazon.in/dp/B0BHT1PXQJ/">
 <img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/posts/The-Hunter-by-Atoshi-Ghosh.jpg?raw=true" style="text-align: left" alt="The Hunter by Atoshi Ghosh" width="200px"/>
 </a>
