@@ -6,9 +6,9 @@ layout: default
 
   <div class='o-grid js-grid'>
     {% for post in paginator.posts %}
-      {% if post.story != true}
+
         {% include post-card.html %}
-      {% endif %}
+
     
     {% endfor %}
   </div>
