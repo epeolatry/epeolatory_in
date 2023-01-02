@@ -3,7 +3,7 @@ layout: post
 title: How to Overcome Writer's Block
 author: bookworm_falguni
 tags: [blog, writing-tips]
-image: '/images/stories/The-Wheel-of-Fortune.png'
+image: '/images/How-to-Overcome-Writers-Block.png'
 blog: true
 ---
 Writer’s block is a common struggle for many writers, especially for those who write for a living. It can be a major obstacle to any writer, regardless of experience. It is incredibly frustrating and can lead to a lack of creativity and productivity in your writing. Fortunately, there are steps that you can take to overcome this roadblock and get back to writing with enthusiasm and creativity. 
