@@ -6,7 +6,7 @@ layout: default
 
   <div class='o-grid js-grid'>
     {% for post in paginator.posts %}
-      {% if (!post.story && !post.blog) %}
+      {% if post.story != true and post.blog != true %}
         {% include post-card.html %}
       {% endif %}
     {% endfor %}
