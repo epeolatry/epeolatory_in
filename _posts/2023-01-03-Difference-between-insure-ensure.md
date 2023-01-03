@@ -18,5 +18,4 @@ It’s important to note that both words can be used in a variety of ways, and t
 
 In conclusion, insure and ensure are two words with different meanings and usages. Insure is mainly used in the context of insurance, while ensure is used in more general ways. It’s important to understand the difference between the two words in order to use them correctly. 
 
-Happy Writing!
-
+### ***Happy Writing!!***
