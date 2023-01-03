@@ -3,7 +3,7 @@ layout: post
 title: Difference Between Insure & Ensure
 author: bookworm_falguni
 tags: [blog, grammar]
-image: '/images/stories/Difference-between-insure-ensure.png'
+image: '/images/Difference-between-insure-ensure.png'
 blog: true
 ---
 When it comes to words, insure and ensure often cause confusion. In fact, many people use the words interchangeably, but there is a difference. While insure and ensure both mean to make something sure or certain, they are used in different contexts.
