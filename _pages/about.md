@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-image: '/images/pages/1.jpg'
+image: '/images/pages/Falguni.jpeg'
 ---
 
 Epeolatry *(noun)* 
