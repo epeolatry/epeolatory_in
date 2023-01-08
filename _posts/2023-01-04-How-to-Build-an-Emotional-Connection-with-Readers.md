@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 5 Ways to Build an Emotional Connection with Readers
+title: How to Build an Emotional Connection with Readers
 author: bookworm_falguni
 tags: [blog, writing-tips, storytelling-tips]
 image: '/images/5-Ways-to-Build-an-Emotional-Connection-with-Readers.png'
