@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Difference Between Wether & Whether
+title: Difference Between Weather & Whether
 author: bookworm_falguni
 tags: [blog, grammar-tips]
 image: '/images/Difference-between-weather-whether.png'
