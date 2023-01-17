@@ -61,4 +61,10 @@ If you are looking for any of these services, please fill <a href="https://forms
 
 Confused? Book a free 30-minute <a href="https://calendly.com/falguni-epeolatry/editing-services-consultation-call">**CONSULTATION CALL**</a> now.
 
-You can also find me on <a href="https://www.upwork.com/freelancers/~01de2077a96e499e69">**Upwork.**</a>
+You can also find me on:
+<a href="https://www.upwork.com/freelancers/~01de2077a96e499e69">**Upwork.**</a>
+
+<a href="https://reedsy.com/falguni-jain" target="_blank">
+  <img src="https://assets-cdn.reedsy.com/images/reedsy-profile-button.png" width="380" />
+</a>
+
