@@ -16,7 +16,5 @@ Giving characters realistic motivations and goals can also help to create a more
 
 In the end, writers should strive to create characters that are complex and believable, rather than just a collection of conflicting traits. Doing so will help to make the story more interesting and enjoyable for readers.
 
-Find more writing and editing tips on my website (link in bio). Bookmark the website and save the posts for quick access.
-
 ### *Happy Writing!*
 
