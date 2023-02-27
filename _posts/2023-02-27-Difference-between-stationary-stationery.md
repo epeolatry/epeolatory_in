@@ -12,6 +12,5 @@ Stationary (with an “a”) refers to something that is not moving or changing.
 Stationery (with an “e”), on the other hand, refers to paper and writing materials, such as envelopes, writing paper, and pens. Stationery is used for handwriting letters, as well as for writing notes and memos. For example, I need to buy stationery from the shop.
 
 The words stationary and stationery are often confused because they are pronounced the same. However, their meanings are quite different and should not be used interchangeably. Stationary is used to describe something that is not moving or changing, while stationery is used to refer to paper and writing materials.
-#WordOfTheDay #DifferenceBetween #English #Language #LearnEnglish #Editor #Writer#Grammar #GrammarBasics #GrammarRules #GrammarTips #EnglishWritingTips #VocabularyBuilding #CreativeWriting #WordChoiceTips #EditingTips
 
 ### ***Happy Writing!!***
