@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Difference between Stationary & Stationery"
+title: Difference between Stationary & Stationery
 author: bookworm_falguni
-tags: [blog, writing-tips, grammar]
-image: '/images/posts/Difference-between-stationary-stationery.png'
+tags: [blog, writing-tips, grammar-tips]
+image: '/images/Difference-between-stationary-stationery.png'
+blog: true
 ---
 We often hear the words stationary and stationery being used interchangeably, but they are actually two different words with different meanings.
 
