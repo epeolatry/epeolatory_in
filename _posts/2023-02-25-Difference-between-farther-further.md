@@ -1,9 +1,10 @@
 ---
 layout: post
-title: "Difference between Farther & Further"
+title: Difference between Farther & Further
 author: bookworm_falguni
-tags: [blog, writing-tips, grammar]
-image: '/images/posts/Difference-between-farther-further.png'
+tags: [blog, writing-tips, grammar-tips]
+image: '/images/Difference-between-farther-further.png'
+blog: true
 ---
 Farther and further are two words in the English language that are often confused and used interchangeably. Although they are related, they are not the same words, and they do not mean the same thing. 
 
