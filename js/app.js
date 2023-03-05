@@ -113,11 +113,22 @@ $(document).ready(function() {
   });
 
   // =====================
-  // Ajax Load More
+  // Ajax Load More with filter based overrides.
   // =====================
 
   var $load_posts_button = $('.js-load-posts');
 
+  var base_posts = $('.js-post-card-wrap').length;
+  var retry_count = 3;
+  while (base_posts < 10 && retry_count > 0){
+    console.log("force loading more");
+    setTimeout(() => {
+      document.getElementById("load-more").click()
+    }, 100)
+    base_posts = $('.js-post-card-wrap').length;
+    retry_count--;
+  }
+  
   $load_posts_button.click(function(e) {
     e.preventDefault();
 
@@ -131,6 +142,7 @@ $(document).ready(function() {
       }
     }).done(function(data) {
       var posts = $('.js-post-card-wrap', data);
+      console.log(posts)
 
       $('.js-grid').append(posts).masonry('appended', posts);
 
