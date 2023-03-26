@@ -27,4 +27,5 @@ Writing a series can be a huge undertaking, so it is important to take breaks be
 
 By following these tips, you can make the process of writing a series smoother and more enjoyable. With a strong concept, a comprehensive series bible, an understanding of your target audience, and a plan for the story arcs, you can create an engaging and captivating world and series for your readers to enjoy. 
 
+
 ### ***Happy Writing!!***
