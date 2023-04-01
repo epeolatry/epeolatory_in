@@ -2,7 +2,7 @@
 layout: post
 title: "Sinbad and the Tomb of Alexander by Kevin Missal"
 author: bookworm_falguni
-tags: [book-reviews, mystical, book-to-movie, fantasy, paranormal, Supernatural, magic, Arab]
+tags: [book-reviews, mystical, book-to-movie, fantasy, paranormal, supernatural, magic, Arab]
 image: '/images/posts/Sinbad-and-the-Tomb-of-Alexander-by-Kevin-Missal.jpg'
 ---
 
