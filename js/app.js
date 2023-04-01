@@ -119,7 +119,7 @@ $(document).ready(function() {
   var $load_posts_button = $('.js-load-posts');
 
   var base_posts = $('.js-post-card-wrap').length;
-  var retry_count = 3;
+  var retry_count = 10;
   while (base_posts < 10 && retry_count > 0){
     console.log("force loading more");
     setTimeout(() => {
