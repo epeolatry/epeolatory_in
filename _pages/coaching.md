@@ -45,6 +45,8 @@ Based on your needs, I offer three types of packages:
 
 **One-Time Coaching:** In a one-time writing coaching session, I will provide targeted guidance and feedback on a specific piece of writing, or address a specific challenge or question related to the writing process. This may include developing a story idea, suggestions for improvement, and tips for moving forward.
 
+<link rel="stylesheet" href="style.css">
+
 |Focus Areas|One Time|One Month|End-to-End|
 |---|---|---|---|
 |Idea Generation|Y|Y|Y|
