@@ -2,7 +2,7 @@
 layout: post
 title: The Wheel of Fortune
 author: bookworm_falguni
-tags: [my-stories, fiction, short-story, magical-realism, fantasy, drama]
+tags: [my-books, fiction, short-story, magical-realism, fantasy, drama]
 image: '/images/stories/The-Wheel-of-Fortune.png'
 story: true
 ---
