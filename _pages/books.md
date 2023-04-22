@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Stories
+title: My Books
 ---
 
 <div class='o-wrapper'>
