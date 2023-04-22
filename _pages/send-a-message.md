@@ -15,14 +15,21 @@ Thank you for considering my services, and I look forward to hearing from you so
 <head>
   <style>
     @media only screen and (max-width: 600px) {
-  .ss-form-container {
-    overflow-x: auto;
-    -webkit-overflow-scrolling: touch;
-    scroll-behavior: smooth;
-  }
-}
+      .ss-form-container {
+        overflow-x: scroll;
+      }
+      .form-wrapper {
+        width: 100%;
+        overflow-x: scroll;
+      }
+      .form-wrapper iframe {
+        width: 200%;
+      }
+    }
   </style>
 </head>
 <body>
+  <div class="form-wrapper">
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScmZoNLjPfCC8Fo4I6xaParI8afeZ4F03JUNpxiLuMDL-T_OQ/viewform?embedded=true" width="590" height="1945" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+ </div>
 </body>
