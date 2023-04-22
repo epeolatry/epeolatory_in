@@ -12,8 +12,15 @@ If you're interested in working with me or have any questions about my services,
 
 Thank you for considering my services, and I look forward to hearing from you soon!
 
-@media only screen and (max-width: 600px) {
-  .ss-form-container {
-    overflow-x: scroll;
-  }
-} <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScmZoNLjPfCC8Fo4I6xaParI8afeZ4F03JUNpxiLuMDL-T_OQ/viewform?embedded=true" width="590" height="1945" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<head>
+  <style>
+    @media only screen and (max-width: 600px) {
+      .ss-form-container {
+        overflow-x: scroll;
+      }
+    }
+  </style>
+</head>
+<body>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScmZoNLjPfCC8Fo4I6xaParI8afeZ4F03JUNpxiLuMDL-T_OQ/viewform?embedded=true" width="590" height="1945" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+</body>
