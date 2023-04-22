@@ -14,21 +14,13 @@ Thank you for considering my services, and I look forward to hearing from you so
 
 <head>
   <style>
-    .ss-form-container {
-      overflow-x: scroll;
-    }
-    @media only screen and (max-width: 600px) {
-      .ss-form-container {
-        touch-action: pan-x;
-      }
+    #form-container {
+      overflow-x: auto;
     }
   </style>
-  <script>
-    if ('ontouchstart' in document.documentElement) {
-      document.querySelector('.ss-form-container').classList.add('touch');
-    }
-  </script>
 </head>
 <body>
+  <div id="form-container">
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScmZoNLjPfCC8Fo4I6xaParI8afeZ4F03JUNpxiLuMDL-T_OQ/viewform?embedded=true" width="590" height="1945" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+  </div>
 </body>
