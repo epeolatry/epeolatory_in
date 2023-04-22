@@ -2,7 +2,7 @@
 layout: post
 title: The Cursed House
 author: bookworm_falguni
-tags: [my-stories, fiction, short-story, thriller, suspense, drama]
+tags: [my-books, fiction, short-story, thriller, suspense, drama]
 image: '/images/stories/the-cursed-house.jpg'
 story: true
 ---
