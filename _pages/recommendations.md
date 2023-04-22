@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Testimonials
+title: Recommendations
 ---
 <img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/Irshad-Ali.jpg?raw=true" style="text-align: center" alt="Irshad-Ali" width="100px"/>
 It was a great experience working with Falguni Jain. She has good knowledge and sharp eyes to find errors. Her valuable guidance helped me to rewrite boring paragraphs and scenes. She was always ready to listen to my concerns and was ready to do multiple edits, nevertheless, she delivered it on time. She has an excellent command of the English language. I want to thank her for her praiseworthy efforts to improve my book. She has expertise in copy editing, proofreading, and developmental editing. I am looking forward to working with her further in the future. 
