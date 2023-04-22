@@ -15,10 +15,12 @@ Thank you for considering my services, and I look forward to hearing from you so
 <head>
   <style>
     @media only screen and (max-width: 600px) {
-      .ss-form-container {
-        overflow-x: scroll;
-      }
-    }
+  .ss-form-container {
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    scroll-behavior: smooth;
+  }
+}
   </style>
 </head>
 <body>
