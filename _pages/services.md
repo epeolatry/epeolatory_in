@@ -31,7 +31,7 @@ To facilitate a smooth editing or beta reading process, it is recommended to hav
 The manuscript should be formatted in a consistent manner throughout, using a standard font such as Times New Roman with a font size of 12pt. 
 The synopsis, which is a brief summary of the story, should include all relevant information about the plot, characters, and setting, and be limited to less than 2000 words. It is essential to provide as much detail as possible in the synopsis to give an accurate overview of the entire story.
 
-
+<link rel="stylesheet" href="style.css">
 |Focus Areas|Proofreading|Copy Editing|Developmental Editing|Beta Reading|
 |---|---|---|---|---|
 |Grammar, Spelling, and Punctuation|Y|Y|Y||
