@@ -18,4 +18,4 @@ Thank you for considering my services, and I look forward to hearing from you so
   }
 }
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScmZoNLjPfCC8Fo4I6xaParI8afeZ4F03JUNpxiLuMDL-T_OQ/viewform?embedded=true" width="600" height="1945" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScmZoNLjPfCC8Fo4I6xaParI8afeZ4F03JUNpxiLuMDL-T_OQ/viewform?embedded=true" width="590" height="1945" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
