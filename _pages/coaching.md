@@ -34,6 +34,8 @@ All you need is a story idea and a basic plan of what you want the plot to be ab
 
 **Proofreading:** Helping writers to refine their writing by identifying areas for improvement and providing suggestions for revision.
 
+**Synopsis Assistance:** Assisting writers in creating a synopsis that would help them in the querying process to get published.
+
 **Editing:** Copy editing to ensure that the language, sentence flow, and word choice are good
 
 # Packages
