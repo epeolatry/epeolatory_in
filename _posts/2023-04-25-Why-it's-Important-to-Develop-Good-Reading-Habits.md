@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Why it's Important to Develop Good Reading Habits
+title: "Why it's Important to Develop Good Reading Habits"
 author: bookworm_falguni
 tags: [blog, reading-tips]
-image: '/images/Why-it's-Important-to-Develop-Good-Reading-Habits.png'
+image: "/images/Why-it's-Important-to-Develop-Good-Reading-Habits.png"
 blog: true
 ---
 Reading is an essential skill that plays a vital role in our personal and professional growth. It not only enhances our knowledge but also broadens our perspective, improves our communication skills, and boosts our creativity. Developing good reading habits can benefit us in numerous ways and is crucial for our success in life. In this blog, we will discuss why it is important to develop good reading habits.
