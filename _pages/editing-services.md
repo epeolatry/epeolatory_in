@@ -52,7 +52,10 @@ The synopsis, which is a brief summary of the story, should include all relevant
 |Organisation, Structure, and Support of Statements|||Y|Y|
 |Sensitivity Reading|||Y|Y|
 |Constructive Feedback and Suggestions|||Y|Y|
+|Sensitivity Reading|||Y||
 |No. of revisions|1|2|4|-|
+|For 10,000 words, cost (INR)|₹2,500 onwards|₹4,000 onwards|₹6,500 onwards|₹1,000 onwards|
+|For 10,000 words, cost (USD)|$40 onwards|$65 onwards|$100 onwards|$20 onwards|
 
 *The packages are not exclusive and can be customized to suit the writer’s needs.*
 
