@@ -56,11 +56,12 @@ Based on your needs, I offer three types of packages:
 |Writing Techniques||Y|Y|
 |Revision|||Y|
 |Proofreading|||Y|
+|Synopsis Assistance|||Y|
 |Editing|Add-on|Add-on|Add-on|
 |No. of 1-on-1 calls |1|First 3 discussion calls on alternate days & 3 follow-up calls on a weekly basis|First 3 discussion calls on alternate days & follow-up calls every two weeks (24)|
 |Validity|1 time|1 month|Valid till the Final Draft is ready or for 1 year, whichever is sooner|
-|Cost (INR)|₹3,000|₹12,000|₹30,000|
-|Cost (USD)|$50|$200|$500|
+|Cost (INR)|₹3,000|₹15,000|₹40,000|
+|Cost (USD)|$50|$250|$650|
 
 ---
 If you are looking for the writing coaching service, please fill <a href="https://forms.gle/FBFtoaoxUeX4AHoJ8">**THIS FORM.**</a>
