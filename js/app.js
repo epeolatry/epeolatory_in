@@ -116,24 +116,26 @@ $(document).ready(function() {
   // Ajax Load More with filter based overrides.
   // =====================
 
-  var $load_posts_button = $('.js-load-posts');
-
+  let $load_posts_button = $('.js-load-posts');
   var base_posts = $('.js-post-card-wrap').length;
+  
   var retry_count = 10;
-  while (base_posts < 10 && retry_count > 0){
-    console.log("force loading more");
-    setTimeout(() => {
-      document.getElementById("load-more").click()
-    }, 100)
-    base_posts = $('.js-post-card-wrap').length;
-    retry_count--;
-  }
+  // while (base_posts < 10 && retry_count > 0){
+  //   console.log("force loading more");
+  //   setTimeout(() => {
+  //     document.getElementById("load-more").click()
+  //     base_posts = document.getElementsByClassName('js-post-card-wrap').length;
+  //     console.log("$('.js-post-card-wrap').length: ", $('.js-post-card-wrap').length, document.getElementsByClassName('js-post-card-wrap').length)
+  //   }, 100)
+    
+    
+  //   retry_count--;
+  // }
   
   $load_posts_button.click(function(e) {
     e.preventDefault();
-
-    var request_next_link = pagination_next_url.split('/page')[0] + '/page' + pagination_next_page_number + '/';
-
+    var request_next_link = `${document.URL}/page/${pagination_next_page_number}`;
+    console.log("Requesting posts from : " + request_next_link);
     $.ajax({
       url: request_next_link,
       beforeSend: function() {
@@ -142,7 +144,6 @@ $(document).ready(function() {
       }
     }).done(function(data) {
       var posts = $('.js-post-card-wrap', data);
-      console.log(posts)
 
       $('.js-grid').append(posts).masonry('appended', posts);
 
