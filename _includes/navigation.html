@@ -1,7 +1,28 @@
 <ul>
+  {% assign new_menu = "" | split: ',' %}
   {% for item in site.menus.header %}
-    <li class='c-nav__item menu-item-{{ loop.index }}'>
-      <a href='{{ item.url | prepend: site.baseurl }}' title="Go to {{ item.title }}" class='c-nav__link'>{{ item.title }}</a>
-    </li>
+
+    {% assign url = item.url %}
+    {% if url contains "index.html"}
+      {% assign url = item.url | split: '/index.html'%}
+      {% assign url = item.url | split: '/index.html'%}
+      {% assign url = url[0] %}
+    {% endif %}
+    {% assign new_item = item.title | append: '_' | append: item.weight | append: '_' | append: url %}
+
+    {% assign new_menu = new_menu | push: new_item %}
   {% endfor %}
+
+  {% assign used = "" | split: ',' %}
+  {% for item_str in new_menu %}
+    {% unless used contains item_str %}
+      {% assign used = used | push: item_str %}
+      {% assign item = item_str | split: '_' %}
+      <li class='c-nav__item menu-item-{{ loop.index }}'>
+        <a href='{{ item[2] | prepend: site.baseurl }}' title="Go to {{ item[0] }}" class='c-nav__link'>{{ item[0] }}</a>
+      </li>
+    {% endunless %}
+  {% endfor %}
+
+  
 </ul>
