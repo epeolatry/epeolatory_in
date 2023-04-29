@@ -2,6 +2,7 @@
 layout: page
 title: Home
 image: '/images/pages/Falguni.jpeg'
+menus: 'header'
 ---
 
 Epeolatry *(noun)* 

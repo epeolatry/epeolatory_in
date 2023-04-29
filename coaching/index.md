@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Writing-Coaching
+menu: 
+  header:
+    weight: 5
 ---
 
 # What is Writing Coaching?

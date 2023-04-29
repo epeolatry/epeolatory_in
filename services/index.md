@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Services
+menu: 
+  header:
+    weight: 6
 ---
 
 # What is Editing?

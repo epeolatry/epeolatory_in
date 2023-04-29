@@ -42,6 +42,8 @@ GEM
       terminal-table (~> 2.0)
     jekyll-feed (0.15.1)
       jekyll (>= 3.7, < 5.0)
+    jekyll-menus (0.6.1)
+      jekyll (>= 3.6, < 5.0)
     jekyll-minifier (0.1.10)
       cssminify2 (~> 2.0)
       htmlcompressor (~> 0.4)
@@ -96,6 +98,7 @@ DEPENDENCIES
   ffi
   jekyll
   jekyll-feed
+  jekyll-menus
   jekyll-minifier
   jekyll-paginate-v2
   jekyll-sitemap!

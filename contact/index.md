@@ -2,6 +2,9 @@
 layout: page
 title: Contact
 image: '/images/pages/Falguni1.jpg'
+menu: 
+  header:
+    weight: 9
 ---
 
 Hello and welcome to my website!
