@@ -1,15 +1,16 @@
 ---
 layout: default
-title: My Books
+title: Blog
+pagination: 
+  enabled: true
+  tag: 'blog'
 ---
 
 <div class='o-wrapper'>
 
   <div class='o-grid js-grid'>
-    {% for post in site.posts %}
-      {% if post.story == true %}
+    {% for post in paginator.posts %}
         {% include post-card.html %}
-      {% endif %}
     {% endfor %}
   </div>
 

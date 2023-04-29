@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Editing Services
+title: Services
 ---
 
 # What is Editing?

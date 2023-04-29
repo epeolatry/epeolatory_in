@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Writing Coaching
+title: Writing-Coaching
 ---
 
 # What is Writing Coaching?

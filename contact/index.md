@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact Me
+title: Contact
 image: '/images/pages/Falguni1.jpg'
 ---
 

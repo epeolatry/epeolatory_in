@@ -117,20 +117,6 @@ $(document).ready(function() {
   // =====================
 
   let $load_posts_button = $('.js-load-posts');
-  var base_posts = $('.js-post-card-wrap').length;
-  
-  var retry_count = 10;
-  // while (base_posts < 10 && retry_count > 0){
-  //   console.log("force loading more");
-  //   setTimeout(() => {
-  //     document.getElementById("load-more").click()
-  //     base_posts = document.getElementsByClassName('js-post-card-wrap').length;
-  //     console.log("$('.js-post-card-wrap').length: ", $('.js-post-card-wrap').length, document.getElementsByClassName('js-post-card-wrap').length)
-  //   }, 100)
-    
-    
-  //   retry_count--;
-  // }
   
   $load_posts_button.click(function(e) {
     e.preventDefault();

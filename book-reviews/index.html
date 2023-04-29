@@ -1,12 +1,20 @@
 ---
 layout: default
+title: "Book Reviews"
 pagination: 
   enabled: true
   tag: 'book-reviews'
 ---
 
-<div class='o-wrapper'>
+{{ paginator | inspect }}
+{{ site | inspect }}
 
+<div class='o-wrapper'>
+  <div class="flex-sections" style="text-align: center;">
+    <div class="flex-row">
+      <h2>{{page.title}}</h2>
+    </div>
+  </div>
   <div class='o-grid js-grid'>
     {% for post in paginator.posts %}
       {% if post.story != true and post.blog != true %}
