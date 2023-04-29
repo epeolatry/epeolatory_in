@@ -1,8 +1,11 @@
 ---
 layout: page
-title: Home
+title: About
 image: '/images/pages/Falguni.jpeg'
-menus: 'header'
+menu: 
+  header:
+    title: Home
+    weight: 8
 ---
 
 Epeolatry *(noun)* 
