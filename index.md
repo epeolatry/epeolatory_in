@@ -5,7 +5,7 @@ image: '/images/pages/Falguni.jpeg'
 menu: 
   header:
     title: Home
-    weight: 8
+    weight: 1
 ---
 
 Epeolatry *(noun)* 
