@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Importance of Cultural Sensitivity in Writing Diverse Characters and Narratives”
+title: "Importance of Cultural Sensitivity in Writing Diverse Characters and Narratives"
 author: bookworm_falguni
 tags: [blog, writing-tips]
 image: '/images/Importance-of-Cultural-Sensitivity-in-Writing-Diverse-Characters-and-Narratives.png'
