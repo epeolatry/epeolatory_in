@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “How to Handle Rejection as a Writer”
+title: "How to Handle Rejection as a Writer"
 author: bookworm_falguni
 tags: [blog, writing-tips]
 image: '/images/How-to-Handle-Rejection-as-a-Writer.png'
