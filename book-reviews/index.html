@@ -4,6 +4,7 @@ title: "Book Reviews"
 pagination: 
   enabled: true
   tag: 'book-reviews'
+  debug: true
 menu: 
   header:
     weight: 2
@@ -17,9 +18,7 @@ menu:
   </div>
   <div class='o-grid js-grid'>
     {% for post in paginator.posts %}
-      {% if post.story != true and post.blog != true %}
         {% include post-card.html %}
-      {% endif %}
     {% endfor %}
   </div>
 
