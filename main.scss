@@ -194,3 +194,8 @@
   right: -17px;
   transform: rotateY(-19deg) translateZ(-10px) scale(0.984);
 }
+
+table {
+  overflow: scroll;
+  display: block;
+}
