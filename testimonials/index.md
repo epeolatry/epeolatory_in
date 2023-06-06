@@ -35,6 +35,13 @@ Falguni has been a delight to work with. She is highly knowledgeable about the i
 (Author of FAQs on Conscious Growth)***
 
 ___
+<img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/Surabhi-Sharma.jpg?raw=true" style="text-align: center" alt="Surabhi-Sharma" width="100px"/>
+I appreciate Falguni's honesty and punctuality and would recommend others to take up her services.
+
+***- Dr Surabhi Sharma
+(Author of The Age of Blues)***
+
+___
 <img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/mannat-gupta.jpeg?raw=true" style="text-align: center" alt="Mannat-Gupta" width="100px"/>
 I feel very delighted to work with Falguni. She is a very keen person with an eye for detail. She completed everything on time, helped me select and write much better words. For my future projects, I'll not hesitate to reach out to her. I wish her all the best and success in the coming years!
 
