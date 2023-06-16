@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Anatomy of a Romance Book”
+title: Anatomy of a Romance Book
 author: bookworm_falguni
 tags: [blog, writing-tips]
 image: '/images/Anatomy-of-a-Romance-Book.png'
