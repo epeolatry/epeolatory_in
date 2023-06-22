@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips for Writing About Sensitive or Controversial Topics”
+title: "Tips for Writing About Sensitive or Controversial Topics"
 author: bookworm_falguni
 tags: [blog, writing-tips]
 image: '/images/Tips-for-Writing-About-Sensitive-or-Controversial-Topics.png'
