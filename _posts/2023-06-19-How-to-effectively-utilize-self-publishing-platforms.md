@@ -47,3 +47,4 @@ Collaborate with other authors in your genre or related genres to cross-promote 
 Remember, maximizing your book's visibility takes time and ongoing effort. Continuously promote your book, engage with readers, and adapt your marketing strategies based on the insights and feedback you receive. With persistence, effective utilization of self-publishing platforms can lead to increased visibility, book sales, and a growing readership.
 
 ### ***Happy Writing!!***
+
