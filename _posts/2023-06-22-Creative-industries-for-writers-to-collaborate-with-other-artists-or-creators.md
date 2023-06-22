@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Creative Industries for Writers to Collaborate with Other Artists or Creators”
+title: "Creative Industries for Writers to Collaborate with Other Artists or Creators"
 author: bookworm_falguni
 tags: [blog, writing-tips]
 image: '/images/Creative-Industries-for-writers-to-collaborate-with-other-artists-or-creators.png'
