@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Effectively Utilize Self-Publishing Platforms”
+title: "How to Effectively Utilize Self-Publishing Platforms"
 author: bookworm_falguni
 tags: [blog, writing-tips]
 image: '/images/How-to-effectively-utilize-self-publishing-platforms.png'
