@@ -5,15 +5,17 @@ menu:
   header:
     weight: 8
 ---
-<img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/Irshad-Ali.jpg?raw=true" style="text-align: center" alt="Irshad-Ali" width="100px"/>
-It was a great experience working with Falguni Jain. She has good knowledge and sharp eyes to find errors. Her valuable guidance helped me to rewrite boring paragraphs and scenes. She was always ready to listen to my concerns and was ready to do multiple edits, nevertheless, she delivered it on time. She has an excellent command of the English language. I want to thank her for her praiseworthy efforts to improve my book. She has expertise in copy editing, proofreading, and developmental editing. I am looking forward to working with her further in the future. 
+<img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/Ankit-Gupta.jpg?raw=true" style="text-align: center" alt="Ankit-Gupta" width="100px"/>
+Your professional expertise and meticulous attention to detail have been instrumental in transforming my manuscript into a polished and compelling piece of work.
 
-***- Irshad Ali
-(Author of While It Was Always Beautiful)***
+Throughout the editing process, your insightful feedback, constructive criticism, and expert guidance have ensured that my ideas were effectively communicated, enhancing the overall readability of the book. Your editorial skills helped to refine the structure and eliminate any inconsistencies or redundancies in the manuscript. Moreover, your promptness in delivering the edited chapters and your professionalism in handling all aspects of the editing process made it a truly seamless and enjoyable collaboration. I wholeheartedly recommend you to any author seeking to enhance the quality of their work. Your dedication, expertise, and commitment to excellence are truly commendable, and I am grateful to have had the opportunity to work with you.
+
+***- Ankit Gupta
+(Author of Mind Your Money)***
 
 ___
 <img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/Sugandha-Sinha.jpeg?raw=true" style="text-align: center" alt="Sugandha-Sinha" width="100px"/>
-Working with Falguni was extremely delightful experience . She was always willing to listen to my concerns and address them. She was approachable and has a really good knowledge. After competing the editing of my book, I can say for sure that under her guidance I could make my manuscript much better. I would definitely recommend anyone seeking an editor for proofreading, copy editing or developmental editing and whenever I write my next book, I am going to come back to her for sure!
+Working with Falguni was an extremely delightful experience. She was always willing to listen to my concerns and address them. She was approachable and has really good knowledge. After completing the editing of my book, I can say for sure that under her guidance I could make my manuscript much better. I would definitely recommend anyone seeking an editor for proofreading, copy editing or developmental editing and whenever I write my next book, I am going to come back to her for sure!
 
 ***- Sugandha Sinha
 (Author of Your Life is Poop: But so is Mine)***
