@@ -21,6 +21,15 @@ Working with Falguni was an extremely delightful experience. She was always will
 (Author of Your Life is Poop: But so is Mine)***
 
 ___
+
+<img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/Irshad-Ali.jpg?raw=true" style="text-align: center" alt="Irshad-Ali" width="100px"/>
+It was a great experience working with Falguni Jain. She has good knowledge and sharp eyes to find errors. Her valuable guidance helped me to rewrite boring paragraphs and scenes. She was always ready to listen to my concerns and was ready to do multiple edits, nevertheless, she delivered it on time. She has an excellent command of the English language. I want to thank her for her praiseworthy efforts to improve my book. She has expertise in copy editing, proofreading, and developmental editing. I am looking forward to working with her further in the future.
+
+***- Irshad Ali
+(Author of While It Was Always Beautiful)***
+
+___
+
 <img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/Lorenzo-DeStefano.jpg?raw=true" style="text-align: center" alt="Lorenzo-DeStefano" width="100px"/>
 As a western author it has always been my intention to have my novel, “HOUSE BOY”, vetted by a qualified advisor/content editor from inside the South Asian culture in which the story takes place. I believe that writers of the world should be able to explore anything that moves them, which means anything under the sun. But writing about cultures other than our own requires a personal admission of our “outsiderness” and a respect for historical and sociological realities we can only attempt to understand.
 
