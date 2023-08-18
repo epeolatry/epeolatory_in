@@ -5,6 +5,38 @@ menu:
   header:
     weight: 5
 ---
+# Packages
+Based on your needs, I offer three types of packages:
+
+**End-to-end Coaching:** In end-to-end writing coaching, I will provide ongoing support and guidance to the writer over an extended period of time, typically several months, up to a year. This includes regular coaching sessions, feedback and support throughout the writing process, and assistance with goal-setting, outlining, drafting, revising, and editing.
+
+**One-Month Coaching:** In a one-month writing coaching, I will provide similar support, but over a shorter timeframe. This includes weekly coaching sessions, feedback on a few writing pieces, and assistance with specific writing goals.
+
+**One-Time Coaching:** In a one-time writing coaching session, I will provide targeted guidance and feedback on a specific piece of writing, or address a specific challenge or question related to the writing process. This may include developing a story idea, suggestions for improvement, and tips for moving forward.
+
+<link rel="stylesheet" href="style.css">
+
+|Focus Areas|One Time|One Month|End-to-End|
+|---|---|---|---|
+|Idea Generation|Y|Y|Y|
+|Outlining|Y|Y|Y|
+|Plot Development|Y|Y|Y|
+|Character Development||Y|Y|
+|Writing Techniques||Y|Y|
+|Revision|||Y|
+|Proofreading|||Y|
+|Synopsis Assistance|||Y|
+|Editing|Add-on|Add-on|Add-on|
+|No. of 1-on-1 calls |1|First 3 discussion calls on alternate days & 3 follow-up calls on a weekly basis|First 3 discussion calls on alternate days & follow-up calls every two weeks (30)|
+|Validity|1 time|1 month|Valid till the Final Draft is ready or for 1 year, whichever is sooner|
+|Cost (INR)|₹3,000|₹15,000|₹60,000|
+|Cost (USD)|$50|$250|$1000|
+
+If you are looking for writing coaching service, please fill <a href="https://forms.gle/FBFtoaoxUeX4AHoJ8">**THIS FORM.**</a>
+
+Confused? Book a free 30-minute <a href="https://calendly.com/falguni-epeolatry/editing-services-consultation-call">**CONSULTATION CALL**</a> now.
+
+---
 
 # What is Writing Coaching?
 Writing coaching is a process in which a coach works with a writer to help them improve their writing skills, clarify their goals, develop their voice, and overcome any obstacles or challenges they may be facing in their writing process.
@@ -39,37 +71,10 @@ All you need is a story idea and a basic plan of what you want the plot to be ab
 
 **Synopsis Assistance:** Assisting writers in creating a synopsis that would help them in the querying process to get published.
 
-**Editing:** Copy editing to ensure that the language, sentence flow, and word choice are good
-
-# Packages
-Based on your needs, I offer three types of packages:
-
-**End-to-end Coaching:** In end-to-end writing coaching, I will provide ongoing support and guidance to the writer over an extended period of time, typically several months, up to a year. This includes regular coaching sessions, feedback and support throughout the writing process, and assistance with goal-setting, outlining, drafting, revising, and editing.
-
-**One-Month Coaching:** In a one-month writing coaching, I will provide similar support, but over a shorter timeframe. This includes weekly coaching sessions, feedback on a few writing pieces, and assistance with specific writing goals.
-
-**One-Time Coaching:** In a one-time writing coaching session, I will provide targeted guidance and feedback on a specific piece of writing, or address a specific challenge or question related to the writing process. This may include developing a story idea, suggestions for improvement, and tips for moving forward.
-
-<link rel="stylesheet" href="style.css">
-
-|Focus Areas|One Time|One Month|End-to-End|
-|---|---|---|---|
-|Idea Generation|Y|Y|Y|
-|Outlining|Y|Y|Y|
-|Plot Development|Y|Y|Y|
-|Character Development||Y|Y|
-|Writing Techniques||Y|Y|
-|Revision|||Y|
-|Proofreading|||Y|
-|Synopsis Assistance|||Y|
-|Editing|Add-on|Add-on|Add-on|
-|No. of 1-on-1 calls |1|First 3 discussion calls on alternate days & 3 follow-up calls on a weekly basis|First 3 discussion calls on alternate days & follow-up calls every two weeks (24)|
-|Validity|1 time|1 month|Valid till the Final Draft is ready or for 1 year, whichever is sooner|
-|Cost (INR)|₹3,000|₹15,000|₹40,000|
-|Cost (USD)|$50|$250|$650|
+**Editing:** Copy editing to ensure that the language, sentence flow, and word choice are good.
 
 ---
-If you are looking for the writing coaching service, please fill <a href="https://forms.gle/FBFtoaoxUeX4AHoJ8">**THIS FORM.**</a>
+If you are looking for writing coaching service, please fill <a href="https://forms.gle/FBFtoaoxUeX4AHoJ8">**THIS FORM.**</a>
 
 Confused? Book a free 30-minute <a href="https://calendly.com/falguni-epeolatry/editing-services-consultation-call">**CONSULTATION CALL**</a> now.
 
