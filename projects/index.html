@@ -8,27 +8,6 @@ menu:
 <div class='o-wrapper'>
   <div class="flex-sections" style="text-align: center;">
     <div class="flex-row">
-      <h2>Awards Judged</h2>
-    </div>
-  </div>
-  <div class='o-grid js-grid'>
-    {% for post in site.data.awards-judged %}
-      {% include post-card-alt.html %}
-    {% endfor %}
-  </div>
-
-  <div class='o-grid'>
-    <div class='o-grid__col o-grid__col--full'>
-      <hr>
-    </div>
-  </div>
-  <div class='o-grid'>
-    {% include instagram.html %}
-  </div>
-
-<div class='o-wrapper'>
-  <div class="flex-sections" style="text-align: center;">
-    <div class="flex-row">
       <h2>Editings</h2>
     </div>
   </div>
@@ -67,3 +46,25 @@ menu:
     {% include instagram.html %}
   </div>
 </div>
+
+<div class='o-wrapper'>
+  <div class="flex-sections" style="text-align: center;">
+    <div class="flex-row">
+      <h2>Awards Judged</h2>
+    </div>
+  </div>
+  <div class='o-grid js-grid'>
+    {% for post in site.data.awards-judged %}
+      {% include post-card-alt.html %}
+    {% endfor %}
+  </div>
+
+  <div class='o-grid'>
+    <div class='o-grid__col o-grid__col--full'>
+      <hr>
+    </div>
+  </div>
+  <div class='o-grid'>
+    {% include instagram.html %}
+  </div>
+
