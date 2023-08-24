@@ -34,7 +34,7 @@ Based on your needs, I offer three types of packages:
 
 If you are looking for writing coaching service, please fill <a href="https://forms.gle/FBFtoaoxUeX4AHoJ8">**THIS FORM.**</a>
 
-Confused? Book a free 30-minute <a href="https://calendly.com/falguni-epeolatry/editing-services-consultation-call">**CONSULTATION CALL**</a> now.
+Confused? Book a free 30-minute <a href="https://topmate.io/falguni_jain">**CONSULTATION CALL**</a> now.
 
 ---
 
@@ -76,5 +76,5 @@ All you need is a story idea and a basic plan of what you want the plot to be ab
 ---
 If you are looking for writing coaching service, please fill <a href="https://forms.gle/FBFtoaoxUeX4AHoJ8">**THIS FORM.**</a>
 
-Confused? Book a free 30-minute <a href="https://calendly.com/falguni-epeolatry/editing-services-consultation-call">**CONSULTATION CALL**</a> now.
+Confused? Book a free 30-minute <a href="https://topmate.io/falguni_jain">**CONSULTATION CALL**</a> now.
 
