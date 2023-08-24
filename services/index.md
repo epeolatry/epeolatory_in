@@ -37,7 +37,7 @@ menu:
 
 If you are looking for any of these services, please fill <a href="https://forms.gle/FBFtoaoxUeX4AHoJ8">**THIS FORM.**</a>
 
-Confused? Book a free 30-minute <a href="https://calendly.com/falguni-epeolatry/editing-services-consultation-call">**CONSULTATION CALL**</a> now.
+Confused? Book a free 30-minute <a href="https://topmate.io/falguni_jain">**CONSULTATION CALL**</a> now.
 
 ---
 
@@ -79,7 +79,7 @@ ___
 
 If you are looking for any of these services, please fill <a href="https://forms.gle/FBFtoaoxUeX4AHoJ8">**THIS FORM.**</a>
 
-Confused? Book a free 30-minute <a href="https://calendly.com/falguni-epeolatry/editing-services-consultation-call">**CONSULTATION CALL**</a> now.
+Confused? Book a free 30-minute <a href="https://topmate.io/falguni_jain">**CONSULTATION CALL**</a> now.
 
 You can also find me on:
 <a href="https://www.upwork.com/freelancers/~01de2077a96e499e69">**Upwork**</a> and <a href="https://reedsy.com/falguni-jain">**Reedsy.**</a>
