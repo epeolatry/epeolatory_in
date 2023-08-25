@@ -16,6 +16,7 @@ menu:
       <h2>{{page.title}}</h2>
     </div>
   </div>
+  
   <div class='o-grid js-grid'>
     {% for post in paginator.posts %}
         {% include post-card.html %}
@@ -34,4 +35,12 @@ menu:
     {% include instagram.html %}
   </div>
 
+  <style>
+    .o-grid__col {
+      width: 25%;
+      padding: 0 8px;
+      box-sizing: border-box;
+    }
+  </style>
+  
 </div>
