@@ -15,14 +15,12 @@ Epeolatry *(noun)*
 **Origin:** From Ancient Greek ἔπος - "epos" (word) + "latry" (worship of)
 
 ### About Me
-Hi, I'm Falguni and I'm a freelance editor and compulsive reader. I am a B.Com (Hons.) graduate from Delhi University, and I'm currently pursuing PG Diploma in Book Publishing from Indira Gandhi National Open University.
+Hello there, I'm Falguni Jain, and my love for fiction is the driving force behind my passion for helping authors bring their stories to life. Holding a B.Com (Hons.) degree from Delhi University and armed with a PG Diploma in Book Publishing from Indira Gandhi National Open University, I've honed both the artistic and technical aspects of storytelling that contribute to crafting exceptional books.
 
-I'm passionate about books and reading, and I'm deeply invested in helping authors bring their stories to life. I love living in the fantasy world of fiction, and I'm always looking for new and exciting stories to read.
+As a versatile professional, I offer a trio of services – I'm your dedicated editor, your supportive writing coach, and your perceptive beta reader. Drawing from my extensive experience, I've engaged with a diverse array of projects, cultivating a rich skill set that covers editing, proofreading, shaping narratives, fact-checking, and suggesting improvements to ensure the manuscript is print-ready. My collaboration with authors is rooted in a genuine passion for nurturing their creative visions, channeling their voices onto the page with precision and authenticity.
 
-I started my Instagram account in 2017 as a way to share bookish quotes that I love. Over time, I began adding book reviews as well, which helped me socialise with various bloggers, authors, and publishers. 
+At the core of my approach is a commitment to fostering open and collaborative relationships with my clients. I believe in working closely with you to understand your aspirations and intentions for your book, ensuring that the final result not only meets your expectations but surpasses them. High-quality work is my signature, and I pour my heart into each project to deliver outcomes that resonate with your vision and resonate with readers.
 
-Now, I collaborate with authors to offer editing, proofreading, story shaping, fact-checking, providing suggestions, and formatting the book to make it print-ready. I'm experienced in working on fiction, self-help books, memoirs, short stories, and academic and religious texts.
+So, whether you're seeking an editor to refine your manuscript, a writing coach to provide guidance and inspiration, or a beta reader to offer fresh insights, I'm here to champion your story and help you achieve literary excellence. 
 
-I'm a firm believer in the power of storytelling and its ability to connect people and break down barriers. I'm deeply invested in creating a positive and inclusive environment that celebrates diverse voices. I'm always looking forward to connecting with authors and readers from all over the world.
-
-I'm very excited to read your work and be a part of your publishing journey.
+Let's embark on this creative journey together!
