@@ -12,19 +12,20 @@ menu:
 
 <style>
   .o-wrapper {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 16px;
   }
-
+  
   .o-grid__col {
-    flex-basis: calc(25% - 16px);
-    margin-right: 16px;
+    width: 100%;
     box-sizing: border-box;
   }
 
-  .o-grid__col:nth-child(4n) {
-    margin-right: 0;
+  @media (max-width: 768px) {
+    .o-wrapper {
+      grid-template-columns: repeat(2, 1fr);
+    }
   }
 </style>
 
