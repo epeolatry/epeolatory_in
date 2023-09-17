@@ -10,30 +10,30 @@ menu:
     weight: 2
 ---
 
-<div class='o-wrapper'>
-  <div class="flex-sections" style="text-align: center;">
+<div class="o-wrapper">
+  <div class="flex-sections text-center">
     <div class="flex-row">
-      <h2>{{page.title}}</h2>
+      <h2>{{ page.title }}</h2>
     </div>
   </div>
   
-  <div class='o-grid js-grid'>
+  <div class="o-grid js-grid">
     {% for post in paginator.posts %}
-      <div class='o-grid__col o-grid__col--25'> 
+      <div class="o-grid__col o-grid__col--25"> 
         {% include post-card.html %}
       </div>  
     {% endfor %}
   </div>
 
-  <div class='o-grid'>
+  <div class="o-grid">
     {% include pagination.html %}
   </div>
 
-  <div class='o-grid'>
-    <div class='o-grid__col o-grid__col--full'><hr></div>
+  <div class="o-grid">
+    <div class="o-grid__col o-grid__col--full"><hr></div>
   </div>
 
-  <div class='o-grid'>
+  <div class="o-grid">
     {% include instagram.html %}
   </div>
 
@@ -44,5 +44,4 @@ menu:
       box-sizing: border-box;
     }
   </style>
-  
 </div>
