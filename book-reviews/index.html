@@ -9,6 +9,24 @@ menu:
   header:
     weight: 2
 ---
+<style>
+  .o-wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+  }
+
+  .o-grid__col {
+    flex-basis: calc(25% - 16px);
+    margin-right: 16px;
+    box-sizing: border-box;
+  }
+
+  .o-grid__col:last-child {
+    margin-right: 0;
+  }
+</style>
+
 <div class='o-wrapper'>
   <div class="flex-sections" style="text-align: center;">
     <div class="flex-row">
@@ -17,10 +35,11 @@ menu:
   </div>
   <div class='o-grid js-grid'>
     {% for post in paginator.posts %}
-      {% include post-card-alt.html %}
+      <div class='o-grid__col'> 
+        {% include post-card-alt.html %}
+      </div>  
     {% endfor %}
   </div>
-
   <div class='o-grid'>
     <div class='o-grid__col o-grid__col--full'>
       <hr>
@@ -29,3 +48,4 @@ menu:
   <div class='o-grid'>
     {% include instagram.html %}
   </div>
+</div>
