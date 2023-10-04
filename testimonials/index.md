@@ -5,14 +5,6 @@ menu:
   header:
     weight: 8
 ---
-"Falguni has been instrumental in helping my grandfather finish his book about my grandmother. Her editing and proofreading skills are top-notch. Her keen eye for detail ensured that no grammatical or punctuation errors slipped through, which significantly improved the overall quality of the text. What sets Falguni apart is her ability to provide constructive feedback. She didn't just make changes, but also explained her revisions, helping us understand how to improve our writing. Her recommendations on best practices were invaluable, showing her extensive knowledge and experience in the field of writing. She consistently met deadlines and was always available for discussions, making the entire process smooth and enjoyable.
-
-Moreover, Falguni showed an incredible level of respect and sensitivity towards the personal nature of the book. She was able to maintain the voice and tone of my grandfather's narrative, preserving the essence of my grandmother's story while elevating its literary quality. Her professionalism, dedication, and passion for her work were evident throughout the project. I wholeheartedly recommend Falguni to anyone in need of a skilled and dedicated editor. Her contributions have been invaluable, and we are deeply grateful for her assistance in bringing this important family story to life." 
-
-***- Karan Kareer
-(Representative of Punshil Kumar – Author of Yogeshwari: The Journey of a Soul)***
-
-___
 
 <img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/Ankit-Gupta.jpg?raw=true" style="text-align: center" alt="Ankit-Gupta" width="100px"/>
 "Your professional expertise and meticulous attention to detail have been instrumental in transforming my manuscript into a polished and compelling piece of work.
@@ -28,6 +20,15 @@ ___
 
 ***- Sugandha Sinha
 (Author of Your Life is Poop: But so is Mine)***
+
+___
+
+"Falguni has been instrumental in helping my grandfather finish his book about my grandmother. Her editing and proofreading skills are top-notch. Her keen eye for detail ensured that no grammatical or punctuation errors slipped through, which significantly improved the overall quality of the text. What sets Falguni apart is her ability to provide constructive feedback. She didn't just make changes, but also explained her revisions, helping us understand how to improve our writing. Her recommendations on best practices were invaluable, showing her extensive knowledge and experience in the field of writing. She consistently met deadlines and was always available for discussions, making the entire process smooth and enjoyable.
+
+Moreover, Falguni showed an incredible level of respect and sensitivity towards the personal nature of the book. She was able to maintain the voice and tone of my grandfather's narrative, preserving the essence of my grandmother's story while elevating its literary quality. Her professionalism, dedication, and passion for her work were evident throughout the project. I wholeheartedly recommend Falguni to anyone in need of a skilled and dedicated editor. Her contributions have been invaluable, and we are deeply grateful for her assistance in bringing this important family story to life." 
+
+***- Karan Kareer
+(Representative of Punshil Kumar – Author of Yogeshwari: The Journey of a Soul)***
 
 ___
 
@@ -48,6 +49,14 @@ So I’m all the more pleased with the insightful and attentive work done by Fal
 (Author of House Boy)***
 
 ___
+
+"Having a sharp eye to pick errors and renovate sentences to provide thoughtful writing options throughout, Falguni is a blessing for all  writers and authors. Her suggestions are like treasure that authors must not miss before finalizing their scripts or writeups. Highly recommend her services. Thank you for being there, Falguni. Glad that I found you!" 
+
+***- Kanika Verma
+(Author of Five Golden Stories | Joy of Traditional Tales)***
+
+___
+
 <img src="https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/Harit-Ratna.jpg?raw=true" style="text-align: center" alt="Harit-Ratna" width="100px"/>
 "Falguni has been a delight to work with. She is highly knowledgeable about the intricacies of editing and she is extremely dedicated to her job. She is a fast learner and she was able to pick up abstract philosophical concepts very quickly. Her attention to detail is a key trait that helped in producing this book to desired quality standards. Most significantly, she respects the author’s voice and focuses on maintaining the purity of the vision."
 
