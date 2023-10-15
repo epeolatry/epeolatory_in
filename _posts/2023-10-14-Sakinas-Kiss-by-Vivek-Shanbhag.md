@@ -42,7 +42,7 @@ To derive values or learnings, draw parallels in your own life from this book, o
 
 The writing style is beautiful. It’s simple and easy to get into. The pacing and transition between the past and present was flawless. But, story-wise, I feel there could have been a stronger arc. There were multiple plot lines, all let loose at the end. It could have been made into a fine story, but that was not the intention of the author, who just wanted to introduce us to a patriarchal mindset. 
 
-And, this makes me wonder: Why would I want to know about a guy who is far from interested in having a conversation about feminism? Why should I be invested in knowing what he thinks about when he looks at his daughter being rebellious or when having sex with his wife? And, my conclusion is that I don’t really care about Venkat or about what he think. 
+And, this makes me wonder: Why would I want to know about a guy who is far from interested in having a conversation about feminism? Why should I be invested in knowing what he thinks about when he looks at his daughter being rebellious or when having sex with his wife? And, my conclusion is that I don’t really care about Venkat or about what he thinks. 
 
 Maybe someone out there does. If you do, then do check out this book.
 
