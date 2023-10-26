@@ -9,7 +9,7 @@ menu:
 # Packages
 <link rel="stylesheet" href="style.css">
 
-|Focus AreaProofreading|Copy Editing|Developmental Editing|Beta Reading|
+|Focus Area|Proofreading|Copy Editing|Developmental Editing|Beta Reading|
 |---|---|---|---|---|
 |Spelling|Y|Y|Y||
 |Grammar|Y|Y|Y||
