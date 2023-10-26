@@ -9,35 +9,33 @@ menu:
 # Packages
 <link rel="stylesheet" href="style.css">
 
-|Focus Area|Description|Proofreading|Copy Editing|Developmental Editing|Beta Reading|
-|---|---|---|---|---|---|
-|Spelling| Check for typos and spelling errors.|Y|Y|Y||
-|Grammar| Ensure correct usage of grammar and punctuation.|Y|Y|Y||
-|Capitalization| Verify consistent capitalization throughout the manuscript.|Y|Y|Y||
-|Punctuation| Ensure proper placement of commas, periods, semicolons, hyphens, quotation marks, etc.|Y|Y|Y||
-|Formatting| Check alignment, font consistency, and layout.|Y|Y|Y||
-|Abbreviations| Ensure consistent use of abbreviations and acronyms.|Y|Y|Y||
-|Clarity| Improve sentence structure and readability.||Y|Y||
-|Consistency| Ensure consistency in style, tone, and voice.||Y|Y||
-|Word Choice| Suggest better word choices and eliminate jargon.||Y|Y||
-|Redundancy| Eliminate unnecessary repetition or redundancy.||Y|Y||
-|Flow| Ensure smooth transitions between paragraphs and sections.||Y|Y||
-|Fact-Checking| Verify accuracy of facts, dates, and references.||Y|Y||
-|Tense| Ensure consistency in verb tense throughout.||Y|Y||
-|Dialogue| Assess dialogue for authenticity, relevance, and engagement.|| Y|Y|Y|
-|Plot| Evaluate the story's structure, pacing, and plot development.|||Y|Y|
-|Character Development| Assess character depth, arcs, and likability.|||Y|Y|
-|Theme| Analyze the thematic elements and their execution.|||Y|Y|
-|Narrative Voice| Evaluate the narrative voice and style.|||Y|Y|
-|Scene Construction| Review scene relevance, effectiveness, and emotional impact.|||Y|Y|
-|Plot Holes| Identify any inconsistencies or gaps in the story.|||Y|Y|
-|Suggestions| Offer constructive suggestions for improvement.|||Y|Y|
-|Feedback Questions| Answer specific questions posed by the author.|||Y|Y|
-|No. of revisions||1|2|4|-|
-|For 10,000 words, cost (INR)||₹2,500+|₹4,000+|₹7,500+|₹1000+|
-|For 10,000 words, cost (USD)||$40+|$65+|$100+|$20+|
-
-![image](https://github.com/epeolatry/epeolatory_in/assets/56268846/97a404d8-dd28-47e9-80a3-3ed747b23e16)
+|Focus AreaProofreading|Copy Editing|Developmental Editing|Beta Reading|
+|---|---|---|---|---|
+|Spelling|Y|Y|Y||
+|Grammar|Y|Y|Y||
+|Capitalization|Y|Y|Y||
+|Punctuation|Y|Y|Y||
+|Formatting|Y|Y|Y||
+|Abbreviations|Y|Y|Y||
+|Clarity||Y|Y||
+|Consistency||Y|Y||
+|Word Choice||Y|Y||
+|Redundancy||Y|Y||
+|Flow||Y|Y||
+|Fact-Checking||Y|Y||
+|Tense||Y|Y||
+|Dialogue|| Y|Y|Y|
+|Plot|||Y|Y|
+|Character Development|||Y|Y|
+|Theme|||Y|Y|
+|Narrative Voice|||Y|Y|
+|Scene Construction|||Y|Y|
+|Plot Holes|||Y|Y|
+|Suggestions|||Y|Y|
+|Feedback Questions|||Y|Y|
+|No. of revisions|1|2|4|-|
+|For 10,000 words, cost (INR)|₹2,500+|₹4,000+|₹7,500+|₹1000+|
+|For 10,000 words, cost (USD)|$40+|$65+|$100+|$20+|
 
 *The packages are not exclusive and can be customized to suit the writer’s needs.*
 
