@@ -1,19 +1,19 @@
 ---
 layout: default
 title: "Book Reviews"
-pagination: 
+pagination:
   enabled: true
   per_page: 24
   tag: 'book-reviews'
   debug: false
-menu: 
+menu:
   header:
     weight: 2
 ---
 <div class='o-wrapper'>
   <div class="flex-sections" style="text-align: center;">
     <div class="flex-row">
-      <h2>{{page.title}}</h2>
+      <h2>{{ page.title }}</h2>
     </div>
   </div>
   <div class='o-grid js-grid'>
@@ -21,7 +21,6 @@ menu:
       {% include post-card-alt.html %}
     {% endfor %}
   </div>
-
   <div class='o-grid'>
     <div class='o-grid__col o-grid__col--full'>
       <hr>
