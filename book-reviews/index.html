@@ -10,23 +10,33 @@ menu:
   header:
     weight: 2
 ---
-<div class='o-wrapper'>
-  <div class="flex-sections" style="text-align: center;">
-    <div class="flex-row">
-      <h2>{{ page.title }}</h2>
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+    <div class='o-wrapper'>
+        <div class="flex-sections" style="text-align: center;">
+            <div class="flex-row">
+                <h2>{{ page.title }}</h2>
+            </div>
+        </div>
+        <div class='o-grid js-grid'>
+            {% for post in paginator.posts %}
+                {% include post-card-alt.html %}
+            {% endfor %}
+        </div>
+        <div class="pagination">
+            {% if paginator.total_pages > 1 %}
+                <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+                {% if paginator.previous_page %}
+                    <a class="prev" href="{{ paginator.previous_page_path }}">Previous</a>
+                {% endif %}
+                {% if paginator.next_page %}
+                    <a class="next" href="{{ paginator.next_page_path }}">Next</a>
+                {% endif %}
+            {% endif %}
+        </div>
     </div>
-  </div>
-  <div class='o-grid js-grid'>
-    {% for post in paginator.posts %}
-      {% include post-card-alt.html %}
-    {% endfor %}
-  </div>
-  <div class='o-grid'>
-    <div class='o-grid__col o-grid__col--full'>
-      <hr>
-    </div>
-  </div>
-  <div class='o-grid'>
-    {% include instagram.html %}
-  </div>
-</div>
+</body>
+</html>
