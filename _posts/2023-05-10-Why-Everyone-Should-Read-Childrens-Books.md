@@ -3,7 +3,7 @@ layout: post
 title: "Why Everyone Should Read Children's Books"
 author: bookworm_falguni
 tags: [blog, reading-tips]
-image: "/images/Why-Everyone-Should-Read-Children's-Books.png"
+image: "/images/Why-Everyone-Should-Read-Childrens-Books.png"
 blog: true
 ---
 There's no denying that reading is one of the most enriching and enjoyable pastimes one can indulge in. But when it comes to literature, people often think of classics and literary fiction that can be quite complex and challenging. However, there's one genre that often goes overlooked by adults: children's books. These books may have been written for a younger audience, but they offer a multitude of benefits that people of all ages can appreciate. Here are five reasons why everyone should read children's books.
