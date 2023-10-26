@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Writing coaching
+title: Writing Coaching
 menu: 
   header:
     weight: 5
