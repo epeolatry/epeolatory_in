@@ -19,13 +19,14 @@ menu:
     <div class="testimonial">
       <img src="{{ testimonial.image }}" alt="{{ testimonial.author }}" width="100px"/>
       <p>
-        {{ testimonial.author }} ({{ testimonial.book }})      
+        {{ testimonial.author }} ({{ testimonial.book }})
         <br>
-        "{{ testimonial.intro }}" <a class="testimonial-author" href="#">Read more...</a>
+        "{{ testimonial.intro }}"
       </p>
       <p class="testimonial-details">
         {{ testimonial.details }}
       </p>
+      <a class="testimonial-author" href="#">Read more...</a>
     </div>
   {% endfor %}
 </div>
@@ -36,11 +37,8 @@ menu:
   readMoreLinks.forEach(function(link) {
     link.addEventListener("click", function(e) {
       e.preventDefault();
-      var details = link.nextElementSibling;
-      if (details.style.display === "block" || details.style.display === "")
-        details.style.display = "none";
-      else
-        details.style.display = "block";
+      var details = link.previousElementSibling.nextElementSibling;
+      details.style.display = details.style.display === "block" || details.style.display === "" ? "none" : "block";
     });
   });
 </script>
