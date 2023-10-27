@@ -22,8 +22,8 @@ menu:
         {{ testimonial.author }} ({{ testimonial.book }})
         <br>
         "{{ testimonial.intro }}"
-      </p>
       <a class="testimonial-author" href="javascript:void(0)">Read more...</a>
+      </p>        
       <p class="testimonial-details">
         {{ testimonial.details }}
         <a class="read-less" href="javascript:void(0)" style="display: none">Read less</a>
