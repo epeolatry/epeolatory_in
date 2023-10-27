@@ -33,7 +33,7 @@ function toggleTestimonialDetails(id) {
   var button = document.getElementById("read-more-btn-" + id);
 
   if (details.style.display === "none") {
-    details.style display = "block";
+    details.style.display = "block"; // Corrected this line
     button.innerHTML = "Read less...";
   } else {
     details.style.display = "none";
@@ -41,3 +41,4 @@ function toggleTestimonialDetails(id) {
   }
 }
 </script>
+
