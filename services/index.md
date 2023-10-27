@@ -11,33 +11,33 @@ menu:
 # Packages
 <table>
 
-|Focus Area|Proofreading|Copy Editing|Developmental Editing|Beta Reading|
-|---|---|---|---|---|
-|Spelling|Y|Y|Y||
-|Grammar|Y|Y|Y||
-|Capitalization|Y|Y|Y||
-|Punctuation|Y|Y|Y||
-|Formatting|Y|Y|Y||
-|Abbreviations|Y|Y|Y||
-|Clarity||Y|Y||
-|Consistency||Y|Y||
-|Word Choice||Y|Y||
-|Redundancy||Y|Y||
-|Flow||Y|Y||
-|Fact-Checking||Y|Y||
-|Tense||Y|Y||
-|Dialogue|| Y|Y|Y|
-|Plot|||Y|Y|
-|Character Development|||Y|Y|
-|Theme|||Y|Y|
-|Narrative Voice|||Y|Y|
-|Scene Construction|||Y|Y|
-|Plot Holes|||Y|Y|
-|Suggestions|||Y|Y|
-|Feedback Questions|||Y|Y|
-|No. of revisions|1|2|4|-|
-|For 10,000 words, cost (INR)|₹2,500+|₹4,000+|₹7,500+|₹1000+|
-|For 10,000 words, cost (USD)|$40+|$65+|$100+|$20+|
+| Focus Area             | Proofreading | Copy Editing | Developmental Editing | Beta Reading |
+|-----------------------|--------------|--------------|-----------------------|--------------|
+| Spelling              | Y            | Y            | Y                   |              |
+| Grammar               | Y            | Y            | Y                   |              |
+| Capitalization        | Y            | Y            | Y                   |              |
+| Punctuation           | Y            | Y            | Y                   |              |
+| Formatting            | Y            | Y            | Y                   |              |
+| Abbreviations         | Y            | Y            | Y                   |              |
+| Clarity               |             | Y            | Y                   |              |
+| Consistency           |             | Y            | Y                   |              |
+| Word Choice           |             | Y            | Y                   |              |
+| Redundancy            |             | Y            | Y                   |              |
+| Flow                  |             | Y            | Y                   |              |
+| Fact-Checking         |             | Y            | Y                   |              |
+| Tense                 |             | Y            | Y                   |              |
+| Dialogue              |             | Y            | Y                   | Y            |
+| Plot                  |             |            | Y                   | Y            |
+| Character Development |             |            | Y                   | Y            |
+| Theme                 |             |            | Y                   | Y            |
+| Narrative Voice       |             |            | Y                   | Y            |
+| Scene Construction    |             |            | Y                   | Y            |
+| Plot Holes            |             |            | Y                   | Y            |
+| Suggestions           |             |            | Y                   | Y            |
+| Feedback Questions    |             |            | Y                   | Y            |
+| No. of revisions      | 1            | 2            | 4                   | -            |
+| For 10,000 words, cost (INR) | ₹2,500+   | ₹4,000+   | ₹7,500+              | ₹1000+       |
+| For 10,000 words, cost (USD) | $40+      | $65+      | $100+               | $20+         |
 </table>
 
 *The packages are not exclusive and can be customized to suit the writer’s needs.*
