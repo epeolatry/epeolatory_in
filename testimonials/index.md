@@ -17,13 +17,17 @@ menu:
 <div class="testimonials-container">
   {% for testimonial in testimonials %}
     <div class="testimonial">
-      <img src="{{ testimonial.image }}" alt="{{ testimonial.author }}" width="100px"/>
+      {% if testimonial.image %}
+        <img src="{{ testimonial.image }}" alt="{{ testimonial.author }}" width="100px"/>
+      {% endif %}
       <p>
         {{ testimonial.author }} ({{ testimonial.book }})
         <br>
         "{{ testimonial.intro }}"
       </p>
-      <a class="testimonial-author" href="javascript:void(0)">Read more...</a>
+      {% if testimonial.details.size > 100 %}
+        <a class="testimonial-author" href="javascript:void(0)">Read more...</a>
+      {% endif %}
       <p class="testimonial-details">
         {{ testimonial.details }}
         <a class="read-less" href="javascript:void(0)" style="display: none">Read less</a>
