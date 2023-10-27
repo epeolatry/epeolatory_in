@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Contact
+title: Contact Me
 image: '/images/pages/Falguni1.jpg'
 menu: 
   header:
