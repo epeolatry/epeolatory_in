@@ -7,8 +7,6 @@ menu:
 ---
 
 # Packages
-<html>
-<head>
     <link rel="stylesheet" href="style.css">
     <style>
         table {
@@ -35,8 +33,6 @@ menu:
             background-color: white;
         }
     </style>
-</head>
-<body>
     <table>
 
 |Focus Area|Proofreading|Copy Editing|Developmental Editing|Beta Reading|
@@ -118,6 +114,3 @@ Confused? Book a free 30-minute <a href="https://topmate.io/falguni_jain">**CONS
 
 You can also find me on:
 <a href="https://www.upwork.com/freelancers/~01de2077a96e499e69">**Upwork**</a> and <a href="https://reedsy.com/falguni-jain">**Reedsy.**</a>
-
-</body>
-</html>
