@@ -7,34 +7,8 @@ menu:
 ---
 <head>
   <link rel="stylesheet" href="style.css">
-  <style>
-    table {
-      border-collapse: collapse;
-      width: 100%;
-    }
-
-    th, td {
-      padding: 8px;
-      text-align: left;
-    }
-
-    th {
-      position: sticky;
-      top: 0;
-      background-color: white;
-    }
-
-    th:first-child {
-      position: sticky;
-      left: 0;
-      background-color: white;
-    }
-  </style>
 </head>
-<body>
-
 # Packages
-
 <table>
 
 |Focus Area|Proofreading|Copy Editing|Developmental Editing|Beta Reading|
@@ -65,8 +39,6 @@ menu:
 |For 10,000 words, cost (INR)|₹2,500+|₹4,000+|₹7,500+|₹1000+|
 |For 10,000 words, cost (USD)|$40+|$65+|$100+|$20+|
 </table>
-
-</body>
 
 *The packages are not exclusive and can be customized to suit the writer’s needs.*
 
