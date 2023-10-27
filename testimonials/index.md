@@ -21,13 +21,14 @@ menu:
         <img src="{{ testimonial.image }}" alt="{{ testimonial.author }}" width="100px"/>
       {% endif %}
       <p>
-        {{ testimonial.author }} ({{ testimonial.book }})
+        <em><strong>{{ testimonial.author }}</strong></em> <em>(<strong>{{ testimonial.book }}</strong>)</em>
         <br>
         "{{ testimonial.intro }}"
+        {% if testimonial.details.size > 100 %}
+          <a class="testimonial-author" href="javascript:void(0)">Read more...</a>
+        {% endif %}
       </p>
-      {% if testimonial.details.size > 100 %}
-        <a class="testimonial-author" href="javascript:void(0)">Read more...</a>
-      {% endif %}
+      <p></p> <!-- Add a paragraph space after each testimonial -->
       <p class="testimonial-details">
         {{ testimonial.details }}
         <a class="read-less" href="javascript:void(0)" style="display: none">Read less</a>
