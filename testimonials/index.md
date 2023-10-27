@@ -23,10 +23,10 @@ menu:
         <br>
         "{{ testimonial.intro }}"
       </p>
+      <a class="testimonial-author" href="javascript:void(0)">Read more...</a>
       <p class="testimonial-details">
         {{ testimonial.details }}
       </p>
-      <a class="testimonial-author" href="#">Read more...</a>
     </div>
   {% endfor %}
 </div>
@@ -37,7 +37,7 @@ menu:
   readMoreLinks.forEach(function(link) {
     link.addEventListener("click", function(e) {
       e.preventDefault();
-      var details = link.previousElementSibling.nextElementSibling;
+      var details = link.nextElementSibling;
       details.style.display = details.style.display === "block" || details.style.display === "" ? "none" : "block";
     });
   });
