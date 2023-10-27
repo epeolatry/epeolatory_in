@@ -6,8 +6,6 @@ menu:
     weight: 8
 ---
 
-<h1>Testimonials</h1>
-
 {% assign testimonials = site.data.testimonials %}
 
 {% for testimonial in testimonials %}
