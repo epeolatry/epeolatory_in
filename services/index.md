@@ -5,11 +5,8 @@ menu:
   header:
     weight: 6
 ---
-<head>
-  <link rel="stylesheet" href="style.css">
-</head>
 # Packages
-<table>
+<link rel="stylesheet" href="style.css">
 
 | Focus Area             | Proofreading | Copy Editing | Developmental Editing | Beta Reading |
 |-----------------------|--------------|--------------|-----------------------|--------------|
@@ -35,10 +32,9 @@ menu:
 | Plot Holes            |             |            | Y                   | Y            |
 | Suggestions           |             |            | Y                   | Y            |
 | Feedback Questions    |             |            | Y                   | Y            |
-| No. of revisions      | 1            | 2            | 4                   | -            |
+| No. of revisions      | 1           | 2          | 4                   | -            |
 | For 10,000 words, cost (INR) | ₹2,500+   | ₹4,000+   | ₹7,500+              | ₹1000+       |
 | For 10,000 words, cost (USD) | $40+      | $65+      | $100+               | $20+         |
-</table>
 
 *The packages are not exclusive and can be customized to suit the writer’s needs.*
 
