@@ -10,10 +10,6 @@ menu:
   .testimonial-details {
     display: none;
   }
-
-  .testimonial-author:hover + .testimonial-details {
-    display: block;
-  }
 </style>
 
 {% assign testimonials = site.data.testimonials %}
@@ -26,8 +22,21 @@ menu:
       <br>
       "{{ testimonial.intro }}" <a class="testimonial-author" href="#">Read more...</a>
     </p>
-    <p class="testimonial-details">
+    <p class="testimonial-details" style="display: none;">
       {{ testimonial.details }}
     </p>
   </div>
 {% endfor %}
+
+<script>
+  var readMoreLinks = document.querySelectorAll(".testimonial-author");
+
+  readMoreLinks.forEach(function(link) {
+    link.addEventListener("click", function(e) {
+      e.preventDefault();
+      // Toggle the visibility of the next element (the details)
+      var details = link.nextElementSibling;
+      details.style.display = details.style.display === "block" ? "none" : "block";
+    });
+  });
+</script>
