@@ -7,7 +7,37 @@ menu:
 ---
 
 # Packages
-<link rel="stylesheet" href="style.css">
+<html>
+<head>
+    <link rel="stylesheet" href="style.css">
+    <style>
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+        
+        th, td {
+            padding: 8px;
+            text-align: left;
+        }
+        
+        th {
+            position: -webkit-sticky;
+            position: sticky;
+            top: 0;
+            background-color: white;
+        }
+        
+        th:first-child {
+            position: -webkit-sticky;
+            position: sticky;
+            left: 0;
+            background-color: white;
+        }
+    </style>
+</head>
+<body>
+    <table>
 
 |Focus Area|Proofreading|Copy Editing|Developmental Editing|Beta Reading|
 |---|---|---|---|---|
@@ -37,6 +67,7 @@ menu:
 |For 10,000 words, cost (INR)|₹2,500+|₹4,000+|₹7,500+|₹1000+|
 |For 10,000 words, cost (USD)|$40+|$65+|$100+|$20+|
 
+    </table>
 *The packages are not exclusive and can be customized to suit the writer’s needs.*
 
 If you are looking for any of these services, please fill <a href="https://forms.gle/FBFtoaoxUeX4AHoJ8">**THIS FORM.**</a>
@@ -88,3 +119,5 @@ Confused? Book a free 30-minute <a href="https://topmate.io/falguni_jain">**CONS
 You can also find me on:
 <a href="https://www.upwork.com/freelancers/~01de2077a96e499e69">**Upwork**</a> and <a href="https://reedsy.com/falguni-jain">**Reedsy.**</a>
 
+</body>
+</html>
