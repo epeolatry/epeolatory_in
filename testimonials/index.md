@@ -28,12 +28,12 @@ menu:
           <a class="testimonial-author" href="javascript:void(0)">Read more...</a>
         {% endif %}
       </p>
-      <p></p> <!-- Add a paragraph space after each testimonial -->
       <p class="testimonial-details">
         {{ testimonial.details }}
         <a class="read-less" href="javascript:void(0)" style="display: none">Read less</a>
       </p>
     </div>
+    <p></p> <!-- Add a paragraph space after each testimonial -->
   {% endfor %}
 </div>
 
@@ -44,7 +44,7 @@ menu:
   readMoreLinks.forEach(function(link, index) {
     link.addEventListener("click", function(e) {
       e.preventDefault();
-      var details = link.nextElementSibling;
+      var details = link.closest('.testimonial').querySelector('.testimonial-details');
       var readLessLink = readLessLinks[index];
 
       if (details.style.display === "block" || details.style.display === "") {
@@ -62,7 +62,7 @@ menu:
   readLessLinks.forEach(function(link, index) {
     link.addEventListener("click", function(e) {
       e.preventDefault();
-      var details = link.parentElement;
+      var details = link.closest('.testimonial').querySelector('.testimonial-details');
       var readMoreLink = readMoreLinks[index];
 
       details.style.display = "none";
