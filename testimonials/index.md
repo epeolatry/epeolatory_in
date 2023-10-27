@@ -6,39 +6,28 @@ menu:
     weight: 8
 ---
 
+<style>
+  .testimonial-details {
+    display: none;
+  }
+
+  .testimonial-author:hover + .testimonial-details {
+    display: block;
+  }
+</style>
+
 {% assign testimonials = site.data.testimonials %}
 
 {% for testimonial in testimonials %}
   <div class="testimonial">
     <img src="{{ testimonial.image }}" alt="{{ testimonial.author }}" width="100px"/>
     <p>
-      "{{ testimonial.intro }}"
+      {{ testimonial.author }} ({{ testimonial.book }})      
+      <br>
+      "{{ testimonial.intro }}" <a class="testimonial-author" href="#">Read more...</a>
     </p>
-    <div id="testimonial-details-{{ forloop.index }}" style="display: none;">
-      <p>
-        {{ testimonial.details }}
-      </p>
-      <p>
-        - {{ testimonial.author }}
-        ({{ testimonial.book }})
-      </p>
-    </div>
-    <button id="read-more-btn-{{ forloop.index }}" onclick="toggleTestimonialDetails({{ forloop.index }})">Read more...</button>
+    <p class="testimonial-details">
+      {{ testimonial.details }}
+    </p>
   </div>
 {% endfor %}
-
-<script>
-function toggleTestimonialDetails(id) {
-  var details = document.getElementById("testimonial-details-" + id);
-  var button = document.getElementById("read-more-btn-" + id);
-
-  if (details.style.display === "none") {
-    details.style.display = "block"; // Corrected this line
-    button.innerHTML = "Read less...";
-  } else {
-    details.style.display = "none";
-    button.innerHTML = "Read more...";
-  }
-}
-</script>
-
