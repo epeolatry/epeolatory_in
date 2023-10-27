@@ -14,19 +14,21 @@ menu:
 
 {% assign testimonials = site.data.testimonials %}
 
-{% for testimonial in testimonials %}
-  <div class="testimonial">
-    <img src="{{ testimonial.image }}" alt="{{ testimonial.author }}" width="100px"/>
-    <p>
-      {{ testimonial.author }} ({{ testimonial.book }})      
-      <br>
-      "{{ testimonial.intro }}" <a class="testimonial-author" href="#">Read more...</a>
-    </p>
-    <p class="testimonial-details" style="display: none;">
-      {{ testimonial.details }}
-    </p>
-  </div>
-{% endfor %}
+<div class="testimonials-container">
+  {% for testimonial in testimonials %}
+    <div class="testimonial">
+      <img src="{{ testimonial.image }}" alt="{{ testimonial.author }}" width="100px"/>
+      <p>
+        {{ testimonial.author }} ({{ testimonial.book }})      
+        <br>
+        "{{ testimonial.intro }}" <a class="testimonial-author" href="#">Read more...</a>
+      </p>
+      <p class="testimonial-details">
+        {{ testimonial.details }}
+      </p>
+    </div>
+  {% endfor %}
+</div>
 
 <script>
   var readMoreLinks = document.querySelectorAll(".testimonial-author");
@@ -34,9 +36,11 @@ menu:
   readMoreLinks.forEach(function(link) {
     link.addEventListener("click", function(e) {
       e.preventDefault();
-      // Toggle the visibility of the next element (the details)
       var details = link.nextElementSibling;
-      details.style.display = details.style.display === "block" ? "none" : "block";
+      if (details.style.display === "block" || details.style.display === "")
+        details.style.display = "none";
+      else
+        details.style.display = "block";
     });
   });
 </script>
