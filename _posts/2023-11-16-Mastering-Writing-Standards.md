@@ -16,4 +16,4 @@ Unlock the secrets to crafting polished and professional trade books with “Mas
 
 Best of luck in your writing, editing, and publishing endeavours!
 
-### **Coming Soon**
+### **Coming Soon!**
