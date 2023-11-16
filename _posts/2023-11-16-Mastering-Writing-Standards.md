@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Mastering Writing Standards: A Handbook for Trade Book Creators”
+title: Mastering Writing Standards
 author: bookworm_falguni
 tags: [my-books, writing-tips, grammar, storytelling-tips, guide, creative-writing]
 image: '/images/stories/Mastering-Writing-Standards.png'
