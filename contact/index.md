@@ -15,10 +15,12 @@ If you're interested in working with me or have any questions about my services,
 
 Thank you for considering my services, and I look forward to hearing from you soon!
 
-<a href="https://topmate.io/falguni_jain/498491" target="_blank">
-  <button style="padding: 10px 20px; font-size: 16px; background-color: #008CBA; color: white; border: none; border-radius: 5px; cursor: pointer;">
-    Schedule a Call
-  </button>
-</a>
+<div style="text-align: center;">
+  <a href="https://topmate.io/falguni_jain/498491" target="_blank">
+    <button style="padding: 10px 20px; font-size: 16px; background-color: #0E86D4; color: white; border: none; border-radius: 5px; cursor: pointer;">
+      Schedule a Free Consultation Call
+    </button>
+  </a>
+</div>
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScmZoNLjPfCC8Fo4I6xaParI8afeZ4F03JUNpxiLuMDL-T_OQ/viewform?embedded=true" width="100%" height="1945" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
