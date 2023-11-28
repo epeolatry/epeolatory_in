@@ -1,3 +1,4 @@
+User
 ---
 layout: default
 title: "Book Reviews"
@@ -10,60 +11,22 @@ menu:
   header:
     weight: 2
 ---
-<div class='o-wrapper'>
-  <div class="flex-sections" style="text-align: center;">
-    <div class="flex-row">
-      <h2>{{page.title}}</h2>
-    </div>
-  </div>
-  
-  <div class='o-grid js-grid'>
-    {% for post in paginator.posts %}
-      {% if forloop.first or forloop.index0|divisibleby:4 %}
-        <div class='o-grid__row'>
-      {% endif %}
-      <div class='o-grid__col o-grid__col--25'> 
-        {% include post-card.html %}
-      </div>
-      {% if forloop.index0|divisibleby:4 and forloop.index != forloop.last %}
-        </div><div class='o-grid__row'>
-      {% endif %}
-      {% if forloop.last %}
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+    <div class='o-wrapper'>
+        <div class="flex-sections" style="text-align: center;">
+            <div class="flex-row">
+                <h2>{{ page.title }}</h2>
+            </div>
         </div>
-      {% endif %}
-    {% endfor %}
-  </div>
-
-  <div class='o-grid'>
-    {% include pagination.html %}
-  </div>
-
-  <div class='o-grid'>
-    <div class='o-grid__col o-grid__col--full'><hr></div>
-  </div>
-
-  <div class='o-grid'>
-    {% include instagram.html %}
-  </div>
-
-  <style>
-    .o-grid__col--25 {
-      width: 25%;
-      padding: 0 8px;
-      box-sizing: border-box;
-    }
-    .o-grid__row {
-      display: flex;
-      flex-wrap: wrap;
-      margin-right: -8px;
-      margin-left: -8px;
-    }
-    .o-grid__col {
-      flex: 0 0 25%;
-      max-width: 25%;
-      padding: 0 8px;
-      box-sizing: border-box;
-    }
-  </style>
-  
-</div>
+        <div class='o-grid js-grid'>
+            {% for post in paginator.posts %}
+                {% include post-card-alt.html %}
+            {% endfor %}
+        </div>
+    </div>
+</body>
+</html>
