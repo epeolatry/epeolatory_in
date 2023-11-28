@@ -19,11 +19,17 @@ menu:
   
   <div class='o-grid js-grid'>
     {% for post in paginator.posts %}
+      {% if forloop.first or forloop.index0|divisibleby:4 %}
+        <div class='o-grid__row'>
+      {% endif %}
       <div class='o-grid__col o-grid__col--25'> 
         {% include post-card.html %}
       </div>
-      {% if forloop.index0|divisibleby:4 and forloop.index != 0 %}
-        </div><div class='o-grid js-grid'>
+      {% if forloop.index0|divisibleby:4 and forloop.index != forloop.last %}
+        </div><div class='o-grid__row'>
+      {% endif %}
+      {% if forloop.last %}
+        </div>
       {% endif %}
     {% endfor %}
   </div>
@@ -43,6 +49,18 @@ menu:
   <style>
     .o-grid__col--25 {
       width: 25%;
+      padding: 0 8px;
+      box-sizing: border-box;
+    }
+    .o-grid__row {
+      display: flex;
+      flex-wrap: wrap;
+      margin-right: -8px;
+      margin-left: -8px;
+    }
+    .o-grid__col {
+      flex: 0 0 25%;
+      max-width: 25%;
       padding: 0 8px;
       box-sizing: border-box;
     }
