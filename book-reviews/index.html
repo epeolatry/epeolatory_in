@@ -10,7 +10,6 @@ menu:
   header:
     weight: 2
 ---
-<!DOCTYPE html>
 <html>
 <head>
 </head>
@@ -23,7 +22,13 @@ menu:
         </div>
         <div class='o-grid js-grid'>
             {% for post in paginator.posts %}
+                {% if forloop.index0 % 4 == 0 %}
+                    <div class="flex-row">
+                {% endif %}
                 {% include post-card-alt.html %}
+                {% if forloop.index0 != 0 and forloop.index0 % 4 == 0 or forloop.last %}
+                    </div>
+                {% endif %}
             {% endfor %}
         </div>
     </div>
