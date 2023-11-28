@@ -26,17 +26,6 @@ menu:
                 {% include post-card-alt.html %}
             {% endfor %}
         </div>
-        <div class="pagination" style="text-align: center;">
-                {% if paginator.previous_page %}
-                    <a class="prev" href="{{ paginator.previous_page_path }}"><strong><u>Previous</u></strong></a>
-                {% endif %}
-            {% if paginator.total_pages > 1 %}
-                <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>          
-                {% if paginator.next_page %}
-                    <a class="next" href="{{ paginator.next_page_path }}"><strong><u>Next</u></strong></a>
-                {% endif %}
-            {% endif %}
-        </div>
     </div>
 </body>
 </html>
