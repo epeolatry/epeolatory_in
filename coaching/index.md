@@ -5,9 +5,7 @@ menu:
   header:
     weight: 6
 ---
-# Packages
-
-## Editing & Beta Reading
+# Editing & Beta Reading
 
 | Focus Area             | Proofreading | Copy Editing | Developmental Editing | Beta Reading |
 |-----------------------|--------------|--------------|-----------------------|--------------|
@@ -41,7 +39,7 @@ menu:
 
 <link rel="stylesheet" href="style.css">
 
-## Writing Coaching
+# Writing Coaching
 
 |Focus Areas|One Time|One Month|End-to-End|
 |---|---|---|---|
