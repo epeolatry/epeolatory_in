@@ -6,6 +6,7 @@ tags: [services]
 image: '/images/Writing-Coaching.png'
 services: true
 ---
+
 # What is Writing Coaching?
 Writing coaching is a process in which a coach works with a writer to help them improve their writing skills, clarify their goals, develop their voice, and overcome any obstacles or challenges they may be facing in their writing process.
 
