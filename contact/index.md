@@ -16,6 +16,12 @@ If you're interested in working with me or have any questions about my services,
 Thank you for considering my services, and I look forward to hearing from you soon!
 
 <div style="text-align: center;">
+  <a href="https://forms.gle/M2vqLdD9jKkuH9et6" target="_blank">
+    <button style="padding: 10px 20px; font-size: 16px; background-color: #000000; color: white; border: none; border-radius: 5px; cursor: pointer;">
+      Fill Out the Enquiry Form
+    </button>
+  </a>
+
   <a href="https://topmate.io/falguni_jain/498491" target="_blank">
     <button style="padding: 10px 20px; font-size: 16px; background-color: #000000; color: white; border: none; border-radius: 5px; cursor: pointer;">
       Schedule a Free Consultation Call
@@ -23,4 +29,6 @@ Thank you for considering my services, and I look forward to hearing from you so
   </a>
 </div>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScmZoNLjPfCC8Fo4I6xaParI8afeZ4F03JUNpxiLuMDL-T_OQ/viewform?embedded=true" width="100%" height="1945" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+## Contact Information
+**Email:** falguni.epeolatry@gmail.com
+<a href="https://www.upwork.com/freelancers/~01de2077a96e499e69">**Upwork**</a> 
