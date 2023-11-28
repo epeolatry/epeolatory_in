@@ -6,6 +6,7 @@ tags: [services]
 image: '/images/Beta-Reading.png'
 services: true
 ---
+
 # What is Beta Reading?
 Beta reading is a process where a manuscript is reviewed to provide feedback and suggestions to the writer. The focus is to provide honest feedback on areas such as plot, characterization, pacing, and overall appeal. Unlike editing, beta reading does not involve correcting grammar, spelling, or other technical errors. Instead, the focus is on the overall reader experience and providing opinions and insights on how the manuscript can be improved. Beta reading can be a valuable tool for writers seeking to refine their work before publication. 
 
