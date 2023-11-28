@@ -21,7 +21,10 @@ menu:
     {% for post in paginator.posts %}
       <div class='o-grid__col o-grid__col--25'> 
         {% include post-card.html %}
-      </div>  
+      </div>
+      {% if forloop.index is divisibleby 4 %}
+        </div><div class='o-grid js-grid'>
+      {% endif %}  
     {% endfor %}
   </div>
 
