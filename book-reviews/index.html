@@ -22,9 +22,9 @@ menu:
       <div class='o-grid__col o-grid__col--25'> 
         {% include post-card.html %}
       </div>
-      {% if forloop.index is divisibleby 4 %}
+      {% if forloop.index0|divisibleby:4 and forloop.index != 0 %}
         </div><div class='o-grid js-grid'>
-      {% endif %}  
+      {% endif %}
     {% endfor %}
   </div>
 
