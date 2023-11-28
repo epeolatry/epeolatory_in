@@ -10,7 +10,6 @@ menu:
   header:
     weight: 2
 ---
-<!DOCTYPE html>
 <html>
 <head>
 </head>
@@ -25,17 +24,6 @@ menu:
             {% for post in paginator.posts %}
                 {% include post-card-alt.html %}
             {% endfor %}
-        </div>
-        <div class="pagination">
-            {% if paginator.total_pages > 1 %}
-                <span class="page-number">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-                {% if paginator.previous_page %}
-                    <a class="prev" href="{{ paginator.previous_page_path }}"><Previous</a>
-                {% endif %}
-                {% if paginator.next_page %}
-                    <a class="next" href="{{ paginator.next_page_path }}">Next></a>
-                {% endif %}
-            {% endif %}
         </div>
     </div>
 </body>
