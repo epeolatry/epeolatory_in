@@ -17,3 +17,8 @@ Unlock the secrets to crafting polished and professional trade books with “Mas
 Best of luck in your writing, editing, and publishing endeavours!
 
 ### **Coming Soon!**
+
+<a href="https://topmate.io/falguni_jain/509602">**Buy the Modifiable Mastering Writing Standards Checklist**</a>
+<br>
+I present to you a modifiable checklist, an indispensable tool for enforcing consistency throughout your literary endeavors. Be it fiction or non-fiction, this checklist can be tailored to suit the specific demands of your project. From grammar and style guidelines to formatting rules, each facet is laid bare, ensuring that the final piece adheres seamlessly to the established standards.
+**Buy the book to get a 100% off code for the checklist.**
