@@ -22,3 +22,18 @@ Best of luck in your writing, editing, and publishing endeavours!
 <br>
 I present to you a modifiable checklist, an indispensable tool for enforcing consistency throughout your literary endeavors. Be it fiction or non-fiction, this checklist can be tailored to suit the specific demands of your project. From grammar and style guidelines to formatting rules, each facet is laid bare, ensuring that the final piece adheres seamlessly to the established standards.
 **Buy the book to get a 100% off code for the checklist.**
+
+### **Reviews:**
+
+⭐⭐⭐⭐⭐ - ".... We run many courses in our University centring on Language, Literature, and Publishing, and I feel that this book would prove to be very handy for all our learners...." - *Prof (Dr) Parmod Kumar (IGNOU)*
+
+⭐⭐⭐⭐⭐ - "One of the book’s remarkable features is the ready-to-use template it offers, a blueprint that can be effortlessly tailored for each unique literary creation with minimal revisions. It’s as if Falguni Jain has handed you a master key to unlock the secrets of professional and polished trade book creation." - *Aashi Dewangan (CEO and Founder, Inkerspress)*
+
+⭐⭐⭐⭐⭐ - "As someone deeply involved in the world of publishing, I have had the privilege of encountering numerous resources aimed at enhancing the editing processes and refining writing skills. However, Mastering Writing Standards stands out as an exceptional and indispensable guide for anyone seeking to elevate their written communication to the highest standards." - *Ranjan Mohapatra (CEO and Founder, Clever Fox Publishing)*
+
+⭐⭐⭐⭐⭐ - "What I admire most about Falguni is her genuine love for writing and her deep desire to help others. I’ve seen her hustle on social media, always sharing tips and encouraging fellow writers. Mastering Writing Standards is like an extension of that spirit — a tool to help us all be better writers, step by step." - *Nishith Goyal (Creator, Be Better Bit-by-Bit platform)*
+
+⭐⭐⭐⭐⭐ - "The book’s user-friendly features, like succinct bullet points and a style guide template, make it a constant companion on a writer’s desk." - *Saksham Garg
+(Author of National Bestseller, Samsara)*
+
+⭐⭐⭐⭐⭐ - "Mastering Writing Standards is not just a book; it’s a mentor that patiently guides you through the labyrinth of writing norms as an indispensable companion." - *Ankit Gupta (Author and a TEDx speaker)*
