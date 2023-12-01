@@ -21,7 +21,7 @@ Global link if the button doesn't work: <a href="http://mybook.to/TheCursedHouse
 
 ⭐⭐⭐⭐⭐ - ".... At first glance, the book gives you an impression of being a horror story, starting with an ancestral haunted house with the backdrop of thunder strikes. You may think stereotypical of it, although these very elements set the stage for the upcoming surprises.
 
-Once you reach this stage, there is no way you are stopping until you finish the book and discover the truth hidden behind those pillars you see on the cover. The book will answer this question for you - why do every house that witnessed gory history have to be cursed? I loved how the author balanced the horror of the supernatural and the terror of human nature very well...." - - *Dhiraj Sindhi*
+Once you reach this stage, there is no way you are stopping until you finish the book and discover the truth hidden behind those pillars you see on the cover. The book will answer this question for you - why do every house that witnessed gory history have to be cursed? I loved how the author balanced the horror of the supernatural and the terror of human nature very well...." - *Dhiraj Sindhi*
 
 ⭐⭐⭐⭐⭐ - "A very well written gripping short story. Great work done by Falguni. The story has pace and interesting characters." - *Harshwardhan Patil, Author of The Beautiful Sky*
 
