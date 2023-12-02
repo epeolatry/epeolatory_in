@@ -21,7 +21,9 @@ Best of luck in your writing, editing, and publishing endeavours!
 </a>
 If the button doesn't work, click the following link: 
 <br>
-<a href="https://www.amazon.in/dp/8119455371/">**Mastering Writing Standards (Paperback)**</a>
+<a href="https://www.amazon.in/dp/8119455371/"> **Mastering Writing Standards (Paperback)** </a>
+<br>
+<a href="https://www.amazon.in/dp/B0CP9PBVYQ/"> **Mastering Writing Standards (Ebook)** </a>
 
 <br>
 <a href="https://topmate.io/falguni_jain/509602">**Buy the Modifiable Mastering Writing Standards Checklist**</a>
