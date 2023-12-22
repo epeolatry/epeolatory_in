@@ -16,7 +16,7 @@ Unlock the secrets to crafting polished and professional trade books with “Mas
 
 Best of luck in your writing, editing, and publishing endeavours!
 
-**Buy Mastering Writing Standards:** <a target="_blank" href="https://amzn.to/4135dLu">
+**Buy Mastering Writing Standards:** <a target="_blank" href="https://amzn.to/3TAGYmd">
     <img src="/images/common/amazon-common.png" class="amazon-btn">
 </a>
 If the button doesn't work, click the following link: 
