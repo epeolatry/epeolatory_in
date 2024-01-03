@@ -32,8 +32,8 @@ menu:
 | Suggestions           |             |            | Y                   | Y            |
 | Feedback Questions    |             |            | Y                   | Y            |
 | No. of revisions      | 1           | 2          | 4                   | -            |
-| For 10,000 words, cost (INR) | ₹2,500+   | ₹4,000+   | ₹7,500+              | ₹1000+       |
-| For 10,000 words, cost (USD) | $40+      | $65+      | $100+               | $20+         |
+| For 10,000 words, cost (INR) | ₹2,500+   | ₹5,000+   | ₹7,500+              | ₹1500+       |
+| For 10,000 words, cost (USD) | $40+      | $80+      | $120+               | $25+         |
 
 *The packages are not exclusive and can be customized to suit the writer’s needs.*
 
