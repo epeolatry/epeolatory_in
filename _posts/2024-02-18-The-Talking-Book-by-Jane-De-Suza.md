@@ -3,7 +3,7 @@ layout: post
 title: "The Talking Book by Jane De Suza"
 author: bookworm_falguni
 tags: [book-reviews,middle-grade, non-fiction, guide, educational, life, communication]
-image: '/images/posts/The-Talking-Book-by-Jane-De-Suza.png'
+image: '/images/posts/The-Talking-Book-by-Jane-De-Suza.jpg'
 ---
 
 ### **Blurb:**
