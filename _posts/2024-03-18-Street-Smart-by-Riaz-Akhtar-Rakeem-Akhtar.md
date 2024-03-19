@@ -7,7 +7,7 @@ image: '/images/posts/Street-Smart.jpg'
 ---
 
 ### **Blurb:**
-Yo, what's good young'uns! If you're checkin' out this book, you probably already know that knife crime in the UK, especially in London, is a serious issue. People losin' their lives, families torn apart. It's heavy, man.
+Yo, what's good young'uns! If you're checkin' out this book, you probably already know that knife crime in the UK, especially in London, is a serious issue. People losin' their lives, families torn apart. It's heavy, man. 
 
 We're Rakeem and Riaz, two bros from the UK on a mission to tackle knife crime head on and show the next gen how to thrive in these streets. Back in 2020, we started our @dsp_uk IG channel, trying to spread the word and make a change, but things didn't go as planned. But we ain't quitters, and we're back with a new plan and a hot new tool to make it happen: this book, straight up fire! We're giving you the real, no-BS info you need to step up and take control of your life. So let's do this, you and us, making a difference and leaving our mark on the world!
 
