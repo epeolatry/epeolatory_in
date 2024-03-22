@@ -7,7 +7,7 @@ image: '/images/posts/Banker-by-Chance.jpg'
 ---
 
 ### **Blurb:**
-An insightful and important account of what it takes to succeed in the world of banking
+An insightful and important account of what it takes to succeed in the world of banking.
 
 Shiv B. Singh, a career banker, built his professional life on timeless principles: ethical behaviour, participative leadership, objective and transparent management, customer centricity and risk- and reward-based business approach with a focus on continuity and change. “Banker by Chance, Leader by Choice” is the story of his phenomenal rise as a banker—from being a junior-level officer at a public sector bank to becoming its Chief General Manager. Recently, he has transitioned to the position of Executive Director at a public sector bank. This book encapsulates his transformative journey, illustrating how he managed the metamorphosis by proactively riding the wave of change and turning around the bank in a short span of time.
 
