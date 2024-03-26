@@ -1,11 +1,11 @@
 {% if paginator.total_pages > 1 %}
   <div style="width: 100%; text-align: center;">
     {% if paginator.previous_page %}
-      <a class="prev" href="{{ paginator.previous_page_path }}" style="font-weight: bold; display: inline-block;">&lt;Previous</a>
+      <a class="prev" href="{{ paginator.previous_page_path }}" style="font-weight: bold; display: inline-block;">Previous</a>
     {% endif %}
     <span class="page-number" style="display: inline-block;">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
     {% if paginator.next_page %}
-      <a class="next" href="{{ paginator.next_page_path }}" style="font-weight: bold; display: inline-block;">Next&gt;</a>
+      <a class="next" href="{{ paginator.next_page_path }}" style="font-weight: bold; display: inline-block;">Next;</a>
     {% endif %}
   </div>
 {% endif %}
