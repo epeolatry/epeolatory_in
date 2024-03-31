@@ -15,10 +15,12 @@ If you're interested in working with me or have any questions about my services,
 
 Thank you for considering my services, and I look forward to hearing from you soon!
 
+**Request FREE editing/beta reading feedback today by filling out the following enquiry form!**
+
 <div style="text-align: center;">
   <a href="https://forms.gle/M2vqLdD9jKkuH9et6" target="_blank">
     <button style="padding: 10px 20px; font-size: 16px; background-color: #000000; color: white; border: none; border-radius: 5px; cursor: pointer;">
-      Fill Out the Enquiry Form
+      Enquiry Form (Request Free Feedback)
     </button>
   </a>
 
