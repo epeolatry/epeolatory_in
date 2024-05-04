@@ -3,7 +3,7 @@ layout: post
 title: "The Picture of Dorian Gray by Oscar Wilde"
 author: bookworm_falguni
 tags: [book-reviews, book-to-movie, classic, fiction, drama, romance, love, lgbtq+, gothic, murder, dark-secrets, philosophy, life, old-age, death, art, personality, actor, partner, siblings, London, UK, books]
-image: '/images/posts/The-Picture-of-Dorian-Gray-by-Oscar-Wilde'
+image: '/images/posts/The-Picture-of-Dorian-Gray-by-Oscar-Wilde.jpg'
 ---
 
 ### **Blurb:**
