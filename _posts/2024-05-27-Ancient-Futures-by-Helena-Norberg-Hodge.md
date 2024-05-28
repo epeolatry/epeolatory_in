@@ -20,7 +20,7 @@ One central theme is the clash between traditional self-reliance and modern depe
 
 Another important theme is the value of traditional wisdom. The author argues that modern development should not discard the knowledge and practices that have sustained communities for centuries. Instead, there should be a blend of the old and the new, where modern technologies are adapted to fit within traditional frameworks.
 
-The writing style of "Ancient Futures" is engaging and accessible, making complex issues understandable to a wide audience. The author uses vivid descriptions to bring Ladakh to life, painting a picture of its stunning landscapes and warm, welcoming people. Her storytelling approach makes the book enjoyable to read, as she shares personal experiences and anecdotes from her time in Ladakh.
+The writing style of "Ancient Futures" is engaging and accessible, making complex issues understandable to a wide audience. The author uses vivid descriptions to bring Ladakh to life, painting a picture of its stunning landscapes and warm, welcoming people. Her storytelling approach makes the book enjoyable to read, as she shares personal experiences and anecdotes from her time in Ladakh. 
 
 The book also includes thoughtful reflections and critical analysis, prompting readers to question their own assumptions about development and progress. The author’s writing is both informative and inspiring, encouraging readers to consider more sustainable and culturally sensitive approaches to modernization.
 
