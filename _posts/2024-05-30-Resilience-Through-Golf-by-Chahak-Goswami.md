@@ -29,6 +29,8 @@ The message of the book is clear: resilience, patience, and self-confidence are 
 
 The writing style of the book is simple and engaging. Chahak describes golf in a way that is easy to understand, even for those unfamiliar with the sport. The descriptions of her experiences make readers feel connected to her journey. The book mixes narrative with lessons about life and sports, keeping readers interested and informed.
 
+However, the book felt a bit slow and overexplained at times. Some parts could have been more concise, which would have maintained a better pace.
+
 "Resilience Through Golf" is more than a sports story. It's a testament to the power of sports in personal growth and navigating cultural identity in a diverse world. 
 If you’re interested in golf or learning about overcoming challenges, this book is a great start. It provides a layman's understanding of the sport and the qualities needed to succeed, both in golf and in life.
 
