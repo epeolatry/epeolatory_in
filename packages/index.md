@@ -39,7 +39,7 @@ menu:
 
 <link rel="stylesheet" href="style.css">
 
-# Writing Coaching
+# Writing Consultancy
 
 |Focus Areas|One Time|One Month|End-to-End|
 |---|---|---|---|
