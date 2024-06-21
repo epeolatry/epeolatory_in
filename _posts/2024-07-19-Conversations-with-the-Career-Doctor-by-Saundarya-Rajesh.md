@@ -3,7 +3,7 @@ layout: post
 title: "Conversations with the Career Doctor by Saundarya Rajesh"
 author: bookworm_falguni
 tags: [book-reviews, India, based-on-true-story, second-chance, motivational, inspirational, non-fiction, self-help, guide, educational, life, mental-health, feminism, dreams, success, positivity, habits, personality, corporate, work, business, finance, entrepreneurship, career, education, family, community, partner, competition, communication]
-image: '/images/posts/Conversations-with-the-Career-Doctor-by-Saundarya-Rajesh.jpg'
+image: '/images/posts/Conversations-with-the-Career-Doctor-by-Saundarya-Rajesh.png'
 ---
 
 ### **Blurb:**
