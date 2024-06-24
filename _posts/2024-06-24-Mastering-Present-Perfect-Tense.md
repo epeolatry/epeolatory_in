@@ -6,7 +6,7 @@ tags: [blog, writing-tips, grammar]
 image: '/images/Mastering-Present-Perfect-Tense.png'
 blog: true
 ---
-Mastering the present perfect tense is quite necessary while writing fiction as it allows connecting the past with the present, which is necessary for various plots in a story. It also enhances the clarity and flow of the story, letting the writer express and communicate complex plot elements. Here are a few tips on how to ace this particular tense. 
+Mastering the present perfect tense is quite necessary while writing fiction as it allows connecting the past with the present, which is necessary for various plots in a story. It also enhances the clarity and flow of the story, letting the writer express and communicate complex plot elements. Here are a few tips on how to ace this particular tense.
   
 **1. Understanding:** 
 
