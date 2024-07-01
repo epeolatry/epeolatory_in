@@ -6,8 +6,7 @@ tags: [blog, writing-tips, storytelling-tips]
 image: '/images/Memoir-Writing.png'
 blog: true
 ---
- 
-Memoirs are unique pieces of writing in a world full of stories. They’re familiar narratives that invite the reader into the life of a human being, alongside ordinary personal events that shape the person. Memoir, capturing a human life through the art of personal narrative, is more than a state of affairs—it is a discovery of the human form, the act of contemplation, as well as a gift of a shared experience. 
+ Memoirs are unique pieces of writing in a world full of stories. They’re familiar narratives that invite the reader into the life of a human being, alongside ordinary personal events that shape the person. Memoir, capturing a human life through the art of personal narrative, is more than a state of affairs—it is a discovery of the human form, the act of contemplation, as well as a gift of a shared experience. 
 
 Here’s what we’re trying to find out: how does the author of a memoir change the ordinary into the extraordinary?  
  
