@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: “Memoir Writing: Art of Personal Storytelling”
+Title: “Memoir Writing — Art of Personal Storytelling”
 author: bookworm_falguni
 tags: [blog, writing-tips, storytelling-tips]
 image: '/images/Memoir-Writing.png'
