@@ -9,12 +9,10 @@ blog: true
 In writing it is common to mix up similar words, especially if you are a non-native speaker of the language. Homophones sound identical or very similar, making it easy to cause confusion when hearing, speaking, or writing. It is important to understand that mixing up homophones can change the entire meaning of the sentence. Here are a few tips on how to improve your homophone vocabulary.
 
 **1. Understanding the Meaning:**
-
 Homophones are words that sound similar but have different meanings. The easiest way to differentiate between homophones is to understand the meaning of the words we use. Understanding the context can also be very helpful when working with homophones. For if you are writing a recipe you’d write “flour” which is a cooking ingredient not “flower” which is a part of a plant. This understanding of meaning and context can improve your homophone vocabulary very much.
 
 **2. Reading:**
-
-As a writer, reading is quite necessary to master any kind of writing skill. Exposing yourself to different variety of texts can help you understand the proper use of homophones. Reading different texts from classic novels or books by native writers can greatly influence your vocabulary and most importantly strengthen your vocabulary. If you read different texts you will come across various homophones and understand how and where they are used.
+As a writer, reading is quite necessary to master any kind of writing skill. Exposing yourself to different variety of texts can help you understand the proper use of homophones. Reading books by native writers can greatly influence and most importantly strengthen your vocabulary. If you read different texts you will come across various homophones and understand how and where they are used.
 
 **3. Practice of Proofreading:**
 
@@ -23,7 +21,7 @@ Since proofreading necessitates close attention to detail, you’ll be able to d
 
 **4. Learning from Mistakes:**
 
-Errors serve as a reminder of a writer’s weak points. Acknowledging these errors enables a writer to concentrate on particular abilities, like homophone confusion. Making errors and evaluating them helps to develop critical thinking. Confidence becomes stronger when mistakes are fixed and progress is recognized. When you make a mistake on homophones and rectify it, you are more likely to remember the mistake and not repeat it.
+Errors serve as a reminder of a writer’s weak points. Acknowledging these errors enables a writer to concentrate on particular weaknesses, like homophone confusion. Making errors and evaluating them helps to develop critical thinking. Confidence becomes stronger when mistakes are fixed and progress is recognized. When you make a mistake on homophones and rectify it, you are more likely to remember the mistake and not repeat it.
 
 **5. Utilizing Resources:**
 
