@@ -3,7 +3,7 @@ layout: post
 title: "The Catcher in the Rye by J. D. Salinger"
 author: bookworm_falguni
 tags: [book-reviews, young-adult, classic, fiction, drama, alcoholism, bullying, life, personality, USA, students, family, coming-of-age]
-image: '/images/postsThe-Catcher-in-the-Rye-by-JD-Salinger.jpg'
+image: '/images/posts/The-Catcher-in-the-Rye-by-JD-Salinger.jpg'
 ---
 
 ### **Blurb:**
