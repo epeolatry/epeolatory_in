@@ -6,7 +6,6 @@ tags: [blog, writing-tips, grammar]
 image: '/images/Understanding-Pronouns.png'
 blog: true
 ---
-
 Whether you’re penning your debut novel, crafting a short story, or dabbling in fanfiction, mastering pronouns is essential. So, today, we’re diving into the wonderful world of pronouns and how they can make or break your fiction writing.
 
 **1. Importance of Pronouns:**
