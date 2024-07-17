@@ -28,6 +28,7 @@ Here, the story is told from the perspectives of several characters, each of whi
 Selecting an appropriate point of view is essential to good storytelling. Every point of view has special benefits and has the power to significantly affect how your tale is viewed. You may craft an engaging, multi-layered story that engrosses readers from beginning to end by carefully choosing and exploiting a variety of points of view. 
 
 Try out different viewpoints to see which one best suits your story, and then watch as the narrative takes on fresh, captivating new dimensions.
+
 ### ***Happy Writing!!***
 
 
