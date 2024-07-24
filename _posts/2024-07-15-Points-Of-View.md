@@ -3,7 +3,7 @@ layout: post
 Title: “Harnessing the Power of Different Points of View in Your Narrative”
 author: bookworm_falguni
 tags: [blog, writing-tips, storytelling-tips]
-image: '/images/Point-Of-Views.png'
+image: '/images/Point-Of-Veiws.png'
 blog: true
 ---
 A fictional story’s point of view (POV) has a big impact on the narrative and how readers interact with the characters, storyline, and themes. Point of view not only helps us create complex characters and environments but also allows the reader to have an in-depth understanding of the story, by getting to know all sides of the story instead of a single perspective. But, sometimes, it is difficult to understand which point of view should be used in which situation. 
