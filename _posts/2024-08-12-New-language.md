@@ -17,15 +17,13 @@ You must be wondering how you can write better by learning a new language, inste
 
 1.	A new language gives you access to a new vocabulary that can enhance your writing style and enable you to express different ideas, feelings, or images. There are some concepts or emotions, which can be expressed better in one language than another. For instance, the Japanese word "komorebi" describes the sunlight filtering through the leaves of trees.
 
-2.	It broadens your thought process and makes communication more inclusive. 
+2.	It broadens your thought process and enhances your cognitive functioning. 
 
 3.	Learning a new language and the cultural background within which the language is used can empower the expression of ideas and feelings to make communication more precise and comprehensible. 
 
 4.	If someone can maneuver between different languages, they are able to think quickly and identify multiple ways of articulating their thoughts. 
 
-5.	It enhances your cognitive functioning.
-
-6.	The rules and structures, when learned in another language, can help better comprehend the native one, thereby improving its clarity as well as effectiveness.
+5.	The rules and structures, when learned in another language, can help better comprehend the native one, thereby improving its clarity as well as effectiveness.
 
 
 **2. How to Learn a New Language:**
