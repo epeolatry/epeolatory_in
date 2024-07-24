@@ -5,7 +5,6 @@ author: bookworm_falguni
 tags: [book-reviews, young-adult, classic, fiction, drama, alcoholism, bullying, life, personality, USA, students, family, coming-of-age]
 image: '/images/posts/The-Catcher-in-the-Rye-by-JD-Salinger.jpg'
 ---
-
 ### **Blurb:**
 Witty, wise and bittersweet, "The Catcher in the Rye" is the ultimate American coming-of-age novel - a timeless classic.
 
