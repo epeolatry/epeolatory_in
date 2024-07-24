@@ -15,16 +15,12 @@ Homophones are words that sound similar but have different meanings. The easiest
 As a writer, reading is quite necessary to master any kind of writing skill. Exposing yourself to different variety of texts can help you understand the proper use of homophones. Reading books by native writers can greatly influence and most importantly strengthen your vocabulary. If you read different texts you will come across various homophones and understand how and where they are used.
 
 **3. Practice of Proofreading:**
-
 Since proofreading necessitates close attention to detail, you’ll be able to distinguish minute variations between words that are identical and how they should be used. Compared to inactive reading, actively searching for mistakes and better word choices causes your brain to become more engaged, which strengthens your comprehension and helps you remember new terminology. Increasing your vocabulary by substituting expressions with more appropriate or varied vocabulary is a common way to correct errors and improve sentence structure, which means that you are likely to identify any type of homophone mistakes.
 
-
 **4. Learning from Mistakes:**
-
 Errors serve as a reminder of a writer’s weak points. Acknowledging these errors enables a writer to concentrate on particular weaknesses, like homophone confusion. Making errors and evaluating them helps to develop critical thinking. Confidence becomes stronger when mistakes are fixed and progress is recognized. When you make a mistake on homophones and rectify it, you are more likely to remember the mistake and not repeat it.
 
 **5. Utilizing Resources:**
-
 You can also fix homophone confusion by using grammar guides, dictionaries and grammar tools. Using such resources would help you understand the differences between homophones better. Some guides also have quizzes that can help you test your progress. Although relying solely upon resources while writing can be a hassle, using it to practice and understand how homophones work can be a great way to improve your vocabulary.
 
 **Some Common Homophone Confusion:**
