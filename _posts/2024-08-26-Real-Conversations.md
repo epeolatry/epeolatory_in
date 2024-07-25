@@ -44,7 +44,7 @@ Here the readers can understand that Bob isn’t fine but is trying to hide it.
 
 **5. Read Aloud:**
 
-We often tend to write what seems grammatically correct or elongated sentences that would be good to read. But, such sentences when used in dialogues might make them sound pretentious and unrealistic, as people incorporate body language in conversation. Hence it is important to check the readability and tone of the dialogue by reading it out loud, this will help you understand how the dialogue sounds in reality and allow you to improvise it by adding interruptions, fillers, or actions.
+We often tend to write what seems grammatically correct or elongated sentences. But, such sentences when used in dialogues might make them sound pretentious and unrealistic, as people incorporate body language in conversation. Hence, it is important to check the readability and tone of the dialogue by reading it out loud. This will help you understand how the dialogue sounds in reality and allow you to improvise it by adding interruptions, fillers, or actions.
 
 The key to writing enjoyable dialogue is a combination of knowing the behavior patterns, speaking styles, and subtext intentions your characters have. If you consider these things, your dialogue will not only move the plot forward but also deepen your character and engage overall. Dialogue should be invisible. It needs to be realistic so the reader is drawn into your world.
 
