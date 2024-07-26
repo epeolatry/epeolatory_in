@@ -18,13 +18,13 @@ This type of ending leaves certain plots unresolved, letting the readers make th
 
 Raymond Carver’s “Cathedral” could be taken as an example, where the story ends with the protagonist experiencing an undefined moment of connection.
 
-**3. Balancing Surprise and Predictability:**
-While a surprising twist can be memorable, it should be a foreshadowed element. It should not affect the narrative coherence of the story. The writer should aim to balance the unexpected elements with underlying causes that make the ending inevitable. The plot needs to have an underlying prediction that would make the plot twist reasonable. 
-
 **4. Resolute Ending:**
 A resolute ending neatly ties plot threads, providing clear resolutions to conflicts and questions, especially satisfying in genres like mystery and adventure. When writing a suspenseful story the writer must end it by providing a clear resolution to every suspense element, question, and conflict. The ending must provide a closer to the events of the story
 
 For example, Agatha Christie’s detective stories often conclude with a resolute ending, where Hercule Poirot or Miss Marple explains how the crime was committed and identifies the culprit.
+
+**3. Balancing Surprise and Predictability:**
+While a surprising twist can be memorable, it should be a foreshadowed element. It should not affect the narrative coherence of the story. The writer should aim to balance the unexpected elements with underlying causes that make the ending inevitable. The plot needs to have an underlying prediction that would make the plot twist reasonable. 
 
 **5. Consistency:**
 Make sure the tone, style, and topics of the story are all addressed in the conclusion. A strange or abrupt conclusion can break the reader’s flow. Reviving ideas, motifs, or symbolism from the beginning of the narrative can bring the narrative together and provide closure. Whether your readers are left feeling shocked, happy, depressed, or reflective, you need them to feel something.
