@@ -2,7 +2,7 @@
 layout: post
 title: "The Book of Emperors: An Illustrated History of the Mughals"
 author: bookworm_falguni
-tags: [book-reviews, India, pre-independence-era, based-on-true-story, non-fiction, educational, , life, death, family, war, UK]
+tags: [book-reviews, India, pre-independence-era, based-on-true-story, non-fiction, educational, life, death, family, war, UK]
 image: '/images/posts/The-Book-of-Emperors.png'
 ---
 
