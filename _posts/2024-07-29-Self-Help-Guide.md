@@ -34,3 +34,4 @@ A powerful ending can remind readers of the purpose of the material and what the
 In general, self-help guides can be quite helpful resources for developing oneself and improving oneself. These guidelines will help you write a self-help guide that will inspire and empower readers to make life-changing decisions in addition to informing and educating them.
 
 ### ***Happy Writing!!***
+
