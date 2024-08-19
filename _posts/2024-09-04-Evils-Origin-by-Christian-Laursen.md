@@ -12,7 +12,7 @@ For all good people of the world, this book is for you. The times we live are ti
 ### **My Review:**
 Christian Laursen’s “Evil’s Origin” is a hauntingly intense exploration into the nature of evil. I was warned: this book is dark. The author delves into the unsettling topic of evil, a subject often avoided due to its grim nature. From rapists to murderers, and torturers who derive pleasure from others’ pain, the author spares no detail in painting a picture of humanity's darkest facets.
 
-Reading this book was undeniably heavy. The graphic depictions of cruelty and inhumanity are not for the faint-hearted. Yet, the author’s dedication to the topic is evident in his meticulous research and compelling narrative. The book is a valuable resource for everyone—men, women, children, parents—because it teaches lessons that are rarely discussed. We are often told not to talk to strangers, but no one prepares us to identify true evil.
+Reading this book was undeniably heavy. The graphic depictions of cruelty and inhumanity are not for the faint-hearted. Yet, the author’s dedication to the topic is evident in his meticulous research and compelling narrative. The book is a valuable resource for everyone — men, women, children, parents — because it teaches lessons that are rarely discussed. We are often told not to talk to strangers, but no one prepares us to identify true evil among strangers and those closer to home.
 
 The importance of this book cannot be overstated. It's a must-read for anyone willing to confront the uncomfortable truths about the world. However, be prepared for its harrowing content. The descriptions of torture and death are explicit and unsettling, but if you can handle it, you’ll find this book incredibly enlightening.
 
@@ -20,7 +20,9 @@ The author argues persuasively against the relativism often associated with disc
 
 One of the book’s most powerful messages is about the evolution of language. The author demonstrates how words like “evil” and “terror” have lost their impact through overuse and normalization. He forces readers to confront the true meaning of these terms by vividly illustrating the scenarios they describe.
 
-“Evil’s Origin” will remain relevant for years to come. Its exploration of evil transcends cultural, geographical, and racial boundaries, emphasizing a universal distinction between decent and evil people. The book’s interdisciplinary approach—drawing from science, logic, and literature—adds depth to its investigation into what constitutes evil.
+He writes, “Evil is consciously and intentionally HARMING others WITHOUT REMORSE… combined with GETTING PLEASURE from harming others.”
+
+“Evil’s Origin” will remain relevant for years to come. Its exploration of evil transcends cultural, geographical, and racial boundaries, emphasizing a universal distinction between decent and evil people. The book’s interdisciplinary approach—drawing from science, logic, and literature — adds depth to its investigation into what constitutes evil.
 
 The book is a thesis emphasizing the first year of a child’s life as the primary determinant of their capacity for evil. I personally believe that while early childhood is undeniably crucial, it’s overly simplistic to attribute the origin of evil solely to this period. It’s an important perspective, but other significant factors that contribute to the development of evil also need to be considered. Probably, we can expect the author to come up with more books exploring other such factors. 
 
@@ -28,6 +30,6 @@ What I found problematic was the author’s focus on the mother’s role (or lac
 
 Despite these criticisms, the author’s work is commendable for its boldness and thoroughness. He has already accomplished a great deal by identifying a key cause of evil. His call to action for a collective societal effort to prevent the nurturing of evil from infancy is both timely and necessary.
 
-In conclusion, “Evil’s Origin” is a profoundly impactful book. It challenges readers to confront the darkest aspects of humanity and compels them to think critically about the nature of evil. This book is an essential addition to the ongoing discourse on morality and human behavior. It’s not just a book; it’s a wake-up call.
+In conclusion, “Evil’s Origin” is a profoundly impactful book. It challenges readers to confront the darkest aspects of humanity and compels them to think critically about the nature of evil. This book is an essential addition to the ongoing discourse on morality and human behaviour. It’s not just a book; it’s a wake-up call.
 
 ### ***Happy Reading!!***
