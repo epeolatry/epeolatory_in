@@ -11,7 +11,7 @@ Writing a non-fiction book is a great responsibility that requires a deep unders
 
 Here are some key strategies to help you structure your non-fiction book effectively.
 
-**1. Understanding the Purpose and Target Audience:**
+**1. Understanding the Purpose and Target Audience**
 
 Clearly defining your goal and target audience is essential before you start organizing your book. What do you want the readers of this book to learn from it? Who are the people who read your writing? The responses to these queries will direct your organization. A memoir might be organized chronologically or thematically, but a self-help book written for professionals might need a more formal format. You may arrange your information in a way that appeals to your audience by being aware of their requirements and expectations.
 
@@ -27,7 +27,7 @@ Non-fiction books can be structured based on content and goals. Chronological st
 
 Even in non-fiction, storytelling is a powerful tool. Incorporating relevant stories, case studies, or examples can make your content more engaging and relatable. These elements should be strategically placed within your chapters to illustrate and reinforce your key points. You can incorporate personal experience as a way of connecting with your readers.
 
-**5. Revise and Refine:**
+**5. Revise and Refine**
 
 Once you’ve completed your draft, take the time to revise and refine your structure. Are the chapters in the best possible order? Is there any content that feels out of place? Are your transitions smooth? This stage is crucial for ensuring that your book is cohesive and delivers its message effectively. It might take several drafts until you finally get what you want. You can also get help from your friends to check if the book has a proper flow, transition and readability.
 
