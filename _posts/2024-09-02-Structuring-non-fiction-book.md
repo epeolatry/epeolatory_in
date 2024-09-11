@@ -3,7 +3,7 @@ layout: post
 Title: “Strategies for Structuring Your Non-Fiction Book”
 author: bookworm_falguni
 tags: [blog, writing-tips, storytelling-tips]
-image: '/images/ Structuring-non-fiction-book.png'
+image: '/images/Structuring-non-fiction-book.png'
 blog: true
 ---
  
