@@ -3,7 +3,7 @@ layout: post
 title: "Alexandrian Knights by Lavik Jain"
 author: bookworm_falguni
 tags: [book-reviews, India, Rajasthan, childrens-picture-book, coming-of-age, action, childrens-fiction, fiction, fantasy, magic, family, village, siblings, USA, travel]
-image: '/images/posts/Alexandrian-Knights-by-Lavik-Jain'
+image: '/images/posts/Alexandrian-Knights-by-Lavik-Jain.jpg'
 ---
 ### **Blurb:**
 "Alexandrian Knights" is an exciting story for children about four friends from the United States - Alex, Mike, Max, and Felix. On their adventure in Kuldhara, a mysterious village in Rajasthan, India, they find a secret temple. Magic from the temple turns them into Elemental Knights, each with their own special powers and strong armor. They solve tricky puzzles and learn new powers that show who they really are. This adventure teaches them about the importance of being brave and sticking together.
