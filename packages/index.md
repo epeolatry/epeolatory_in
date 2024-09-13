@@ -35,7 +35,7 @@ menu:
 | For 10,000 words, cost (INR) | ₹2,500+   | ₹5,000+   | ₹7,500+              | ₹3000+       |
 | For 10,000 words, cost (USD) | $40+      | $80+      | $120+               | $50+         |
 
-*The packages are not exclusive and can be customized to suit the writer’s needs.*
+* Package Cost > Alpha/Beta Reading + Editing Services = ₹3,000 + ₹5,000, and NOT ₹7,500.
 
 <link rel="stylesheet" href="style.css">
 
