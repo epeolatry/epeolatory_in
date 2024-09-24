@@ -1,7 +1,3 @@
-- author: Oralie Vitaa
-  book: "Author of Shadows of Destiny"
-  intro: "Falguni is so understanding, so patient, so hardworking. When you work with her, she not just becomes your editor, she becomes your friend. She becomes someone you can trust and rely on. She will always have your best interest at heart. I loved working with her!"
-  
 - image: https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/Ankit-Gupta.jpg?raw=true
   author: Ankit Gupta
   book: "Author of Mind Your Money"
@@ -19,6 +15,21 @@
   book: "Author of House Boy"
   intro: "She has helped immeasurably to authenticate my book and to focus its outrage over one of the most pressing issues of our time - human trafficking."
   details: "As a western author it has always been my intention to have my novel, “HOUSE BOY”, vetted by a qualified advisor/content editor from inside the South Asian culture in which the story takes place. I believe that writers of the world should be able to explore anything that moves them, which means anything under the sun. But writing about cultures other than our own requires a personal admission of our “outsiderness” and a respect for historical and sociological realities we can only attempt to understand. So, I’m all the more pleased with the insightful and attentive work done by Falguni Jain in helping me avoid any cultural or religious missteps in my quest to share the harrowing modern slavery story of young Vijay Pallan."
+
+- image: https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/Harshitha.jpg?raw=true
+  author: Harshitha
+  book: "Author of My Index Zero: An Office Love Story"
+  intro: "Falguni's editing was excellent."
+  details: "She understands how to keep things simple and straightforward in order to maintain clarity. She understood and offered advice even though I was having some difficulty expressing what I wanted to say.  I gained a clear understanding of what she would do and what I should be doing after I spoke with her."
+
+- author: Madhan
+  book: "Author of Conditions Apply"
+  intro: "I am truly grateful to Falguni Jain for her exceptional editing work on my book."
+  details: "From our very first interaction, it was clear that her extensive knowledge of literature would be a tremendous asset. Falguni's efficiency and swift turnaround time made the editing process not only seamless but also enjoyable. Her keen insights and thoughtful suggestions enriched my manuscript, allowing me to meet my deadlines without sacrificing quality. I couldn’t have completed this journey on time without her expertise and dedication. Thank you, Falguni, for being such an integral part of this project!"
+
+- author: Oralie Vitaa
+  book: "Author of Shadows of Destiny"
+  intro: "Falguni is so understanding, so patient, so hardworking. When you work with her, she not just becomes your editor, she becomes your friend. She becomes someone you can trust and rely on. She will always have your best interest at heart. I loved working with her!"
 
 - image: https://github.com/epeolatry/epeolatory_in/blob/master/images/pages/Shweta-Hitesh-Joshi.jpg?raw=true
   author: Shweta Hitesh Joshi
@@ -141,6 +152,14 @@
 - author: Arun Maira
   book: "Author of Shaping the Future"
   intro: "Falguni has done a good job. I would like to thank her for her good work."
+
+- author: Henrik Kruse
+  book: "Upwork Client"
+  intro: "Very good and professional work. Surely I will use the freelancer in the future."
+
+- author: Anuj Goswami
+  book: "Upwork Client"
+  intro: "Great work. Will hire again!"
 
 - author: Amanda McKeithan
   book: "Upwork Client"
