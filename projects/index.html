@@ -8,11 +8,11 @@ menu:
 <div class='o-wrapper'>
   <div class="flex-sections" style="text-align: center;">
     <div class="flex-row">
-      <h2>Editings</h2>
+      <h2>Editing</h2>
     </div>
   </div>
   <div class='o-grid js-grid'>
-    {% for post in site.data.editings %}
+    {% for post in site.data.editing %}
       {% include post-card-alt.html %}
     {% endfor %}
   </div>
@@ -28,11 +28,11 @@ menu:
 
   <div class="flex-sections" style="text-align: center;">
     <div class="flex-row">
-      <h2>Beta Reads</h2>
+      <h2>Beta Reading</h2>
     </div>
   </div>
   <div class='o-grid js-grid'>
-    {% for post in site.data.beta-reads %}
+    {% for post in site.data.beta-reading %}
       {% include post-card-alt.html %}
     {% endfor %}
   </div>
@@ -47,7 +47,8 @@ menu:
   </div>
 </div>
 
- <div class="flex-sections" style="text-align: center;">
+<div class='o-wrapper'>
+  <div class="flex-sections" style="text-align: center;">
     <div class="flex-row">
       <h2>Writing Consultancy</h2>
     </div>
@@ -66,7 +67,6 @@ menu:
   <div class='o-grid'>
     {% include instagram.html %}
   </div>
-</div>
 
 <div class='o-wrapper'>
   <div class="flex-sections" style="text-align: center;">
