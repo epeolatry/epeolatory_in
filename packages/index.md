@@ -31,9 +31,9 @@ menu:
 | Plot Holes            |             |            | Y                   | Y            |
 | Suggestions           |             |            | Y                   | Y            |
 | Feedback Questions    |             |            | Y                   | Y            |
-| No. of revisions      | 1           | 2          | 4                   | -            |
-| For 10,000 words, cost (INR) | ₹2,500+   | ₹5,000+   | ₹7,500+              | ₹3000+       |
-| For 10,000 words, cost (USD) | $40+      | $80+      | $120+               | $50+         |
+| No. of revisions      | 1           | 2          | 3                   | -            |
+| For 10,000 words, cost (INR) | ₹2,500  | ₹5,000   | ₹7,500              | ₹3000       |
+| For 10,000 words, cost (USD) | $50      | $100      | $150               | $60         |
 
 * Package Cost > Alpha/Beta Reading + Editing Services = ₹3,000 + ₹5,000, and NOT ₹7,500.
 
@@ -54,8 +54,8 @@ menu:
 |Editing|Add-on|Add-on|Add-on|
 |No. of 1-on-1 calls |1|First 3 discussion calls on alternate days & 3 follow-up calls on a weekly basis|First 3 discussion calls on alternate days & follow-up calls every two weeks (30)|
 |Validity|1 time|1 month|Valid till the Final Draft is ready or for 1 year, whichever is sooner|
-|Cost (INR)|₹3,000|₹15,000|₹60,000|
-|Cost (USD)|$50|$250|$1000|
+|Cost (INR)|₹4,000|₹20,000|₹75,000|
+|Cost (USD)|$80|$400|$1500|
 
 <div style="text-align: center;">
   <a href="https://forms.gle/M2vqLdD9jKkuH9et6" target="_blank">
