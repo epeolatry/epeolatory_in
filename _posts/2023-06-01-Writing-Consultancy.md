@@ -69,8 +69,11 @@ Here’s how I’ll assist writers in each focus area:
 ### Packages:
 
 **I have an idea!** This package is perfect if you’re at the ideation stage. I’ll help you brainstorm, identify your target audience, and conceptualize your book idea in one focused session. We’ll shape your raw thoughts into a solid foundation for your writing journey.
+
 **Help me plan!** If you’re ready to plan your book, I’ll guide you through outlining, plot development, and character creation over six sessions. We’ll also organize your chapters and map out key twists, ensuring you have a strong, detailed blueprint before writing.
+
 **Help me write!** This package supports you throughout the writing process. Over 15 sessions, I’ll offer personalized writing plans, feedback on your writing style, and accountability to keep you on track. I’ll also review each chapter, ensuring your story unfolds smoothly.
+
 **Idea to Final Draft:** I’ll work closely with you until the final draft is ready over 15 months. I’ll help you refine your writing techniques, review every chapter, and proofread your manuscript. I’ll also assist with submission materials and offer publishing strategy guidance, making sure you’re set for success.
 
 <div style="text-align: center;">
