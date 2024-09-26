@@ -22,34 +22,38 @@ In writing consultancy, writers can expect to receive personalized guidance, fee
 ### What do you need to start the sessions?
 All you need is a story idea and a basic plan of what you want the plot to be about. The more details you have, the better.
 
+
 ## What are the areas of focus in Writing Consultancy?
 
-**Idea Generation:** Helping writers to identify and develop their book idea, and to determine its feasibility and market potential.
+Here’s how I’ll assist writers in each focus area:
 
-**Outlining:** Assisting writers in creating a clear outline or roadmap for their book, including the development of a solid structure and overall narrative arc.
-
-**Character Development:** Helping writers to develop memorable and relatable characters that will engage readers and drive the story forward.
-
-**Plot Development:** Working with writers to develop a compelling and cohesive plot that keeps readers engaged from beginning to end.
-
-**Writing Techniques:** Coaching writers on techniques to improve their writing skills, such as showing vs. telling, pacing, dialogue, and point of view.
-
-**Revision:** Assisting writers in reviewing and refining their draft, including evaluating their writing style and addressing any plot or character inconsistencies.
-
-**Proofreading:** Helping writers to refine their writing by identifying areas for improvement and providing suggestions for revision.
-
-**Synopsis Assistance:** Assisting writers in creating a synopsis that would help them in the querying process to get published.
-
-**Editing:** Copy editing to ensure that the language, sentence flow, and word choice are good.
+**1. Idea Generation:** I'll help you brainstorm fresh, compelling ideas and refine your initial thoughts into something unique and workable.
+**2. Identifying Target Audience:** I'll guide you in defining your ideal reader, ensuring your book speaks directly to them.
+**3. Conceptualization:** I’ll work with you to shape the big-picture vision for your book, turning vague ideas into a clear concept.
+**4. Outlining:** I’ll help you create a structured outline, ensuring your plot is well-organized and flows logically.
+**5. Plot Development:** I’ll collaborate with you to build a captivating, coherent plot that keeps readers engaged.
+**6. Character Development:** Together, we’ll craft multi-dimensional characters with distinct motivations, making them relatable and memorable.
+**7. Chapter Organization:** I’ll assist in structuring your chapters for smooth transitions and a compelling narrative arc.
+**8. Hooks and Twists Planning:** I’ll guide you in strategically placing engaging moments to keep your readers hooked till the end.
+**9. Feedback on Writing Style:** I’ll provide detailed critique on your writing style, helping you find your authentic voice and polish it.
+**10. Writing Techniques:** I’ll provide you with writing techniques to enhance your storytelling and narrative clarity.
+**11. Personalized Writing Plan:** I’ll create a custom writing plan that suits your goals and timeline, keeping you on track to finish.
+**12. Accountability Support:** I’ll offer consistent check-ins and motivational support to ensure you meet your writing milestones.
+**13. Chapter-by-Chapter Review:** I’ll give in-depth feedback on each chapter, helping you refine and strengthen your narrative step by step.
+**14. Mid-Project Realignment Session:** If you hit a roadblock, I’ll help realign your project with your original goals to keep you moving forward.
+**15. Proofreading:** I’ll carefully review your manuscript, correcting errors and ensuring it's polished and error-free.
+**16. Alpha Reading:** I’ll go through the entire manuscript to help identify any issues before finalizing the draft.
+**17. Editing:** I’ll edit your manuscript to improve clarity, flow, and overall quality, ensuring it’s ready for submission.
+**18. Submission Package Preparation Assistance:** I’ll help you craft a strong query letter, synopsis, and other materials to maximize your chances with agents or publishers.
+**19. Publishing Strategy Guidance:** I’ll advise you on the best publishing route, whether traditional or self-publishing, based on your book and goals.
 
 
 ### Packages:
 
-**End-to-end Consultancy:** In end-to-end writing consultancy, I will provide ongoing support and guidance to the writer over an extended period of time, typically several months, up to a year. This includes regular consultancy sessions, feedback and support throughout the writing process, and assistance with goal-setting, outlining, drafting, revising, and editing.
-
-**One-Month Consultancy:** In a one-month writing consultancy, I will provide similar support, but over a shorter timeframe. This includes weekly consultancy sessions, feedback on a few writing pieces, and assistance with specific writing goals.
-
-**One-Time Consultancy:** In a one-time writing consultancy session, I will provide targeted guidance and feedback on a specific piece of writing, or address a specific challenge or question related to the writing process. This may include developing a story idea, suggestions for improvement, and tips for moving forward.
+**I have an idea!** This package is perfect if you’re at the ideation stage. I’ll help you brainstorm, identify your target audience, and conceptualize your book idea in one focused session. We’ll shape your raw thoughts into a solid foundation for your writing journey.
+**Help me plan!** If you’re ready to plan your book, I’ll guide you through outlining, plot development, and character creation over six sessions. We’ll also organize your chapters and map out key twists, ensuring you have a strong, detailed blueprint before writing.
+**Help me write!** This package supports you throughout the writing process. Over 15 sessions, I’ll offer personalized writing plans, feedback on your writing style, and accountability to keep you on track. I’ll also review each chapter, ensuring your story unfolds smoothly.
+**Idea to Final Draft:** I’ll work closely with you until the final draft is ready over 15 months. I’ll help you refine your writing techniques, review every chapter, and proofread your manuscript. I’ll also assist with submission materials and offer publishing strategy guidance, making sure you’re set for success.
 
 <div style="text-align: center;">
   <a href="https://forms.gle/M2vqLdD9jKkuH9et6" target="_blank">
