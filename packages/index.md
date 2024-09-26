@@ -60,11 +60,11 @@ menu:
 |Alpha/Beta Reading|Add-on|Add-on|Add-on|Y|
 |Editing|Add-on|Add-on|Add-on|Add-on|
 |Submission Package Preparation Assistance|Add-on|Add-on|Add-on|Y|
-|Publishing Strategy Guidance||||Coming Soon|
+|Publishing Strategy Guidance||||Y|
 |No. of 1-on-1 calls |1|6|15|30|
 |Validity|1 time|2 months|4 months|Valid till the Final Draft is ready or for 15 months, whichever is sooner|
 |Cost (INR)|₹4,000|₹20,000|₹50,000|₹1,00,000|
-|Cost (USD)|$80|$400|$1000|$2000|
+|Cost (USD)|$80|$400|$1,000|$2,000|
 
 <div style="text-align: center;">
   <a href="https://forms.gle/M2vqLdD9jKkuH9et6" target="_blank">
