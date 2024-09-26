@@ -7,7 +7,7 @@ menu:
 ---
 # Editing & Beta Reading
 
-| Focus Area             | Proofreading | Copy Editing | Developmental Editing | Beta Reading |
+| Focus Area             | Proofreading | Line Editing | Developmental Editing | Beta Reading |
 |-----------------------|--------------|--------------|-----------------------|--------------|
 | Spelling              | Y            | Y            | Y                   |              |
 | Grammar               | Y            | Y            | Y                   |              |
@@ -33,28 +33,38 @@ menu:
 | Feedback Questions    |             |            | Y                   | Y            |
 | No. of revisions      | 1           | 2          | 3                   | -            |
 | For 10,000 words, cost (INR) | ₹2,500  | ₹6,000   | ₹8,000              | ₹4000       |
-| For 10,000 words, cost (USD) | $50      | $100      | $150               | $60         |
+| For 10,000 words, cost (USD) | $50      | $120      | $160               | $80         |
 
 * Developmental Editing Services does not include Alpha/Beta Reading Services. 
 <link rel="stylesheet" href="style.css">
 
 # Writing Consultancy
 
-|Focus Areas|One Time|One Month|End-to-End|
-|---|---|---|---|
-|Idea Generation|Y|Y|Y|
-|Outlining|Y|Y|Y|
-|Plot Development|Y|Y|Y|
-|Character Development||Y|Y|
-|Writing Techniques||Y|Y|
-|Revision|||Y|
-|Proofreading|||Y|
-|Synopsis Assistance|||Y|
-|Editing|Add-on|Add-on|Add-on|
-|No. of 1-on-1 calls |1|First 3 discussion calls on alternate days & 3 follow-up calls on a weekly basis|First 3 discussion calls on alternate days & follow-up calls every two weeks (30)|
-|Validity|1 time|1 month|Valid till the Final Draft is ready or for 1 year, whichever is sooner|
-|Cost (INR)|₹4,000|₹20,000|₹75,000|
-|Cost (USD)|$80|$400|$1500|
+|Focus Areas|I have an idea!|Help me plan!|Help me write!|Idea to Final Draft|
+|---|---|---|---|---|
+|Idea Generation|Y|Y|Y|Y|
+|Identifying target Audience|Y|Y|Y|Y|
+|Conceptualization|Y|Y|Y|Y|
+|Outlining||Y|Y|Y|
+|Plot Development||Y|Y|Y|
+|Character Development||Y|Y|Y|
+|Chapter Organization||Y|Y|Y|
+|Hooks and Twists Planning||Y|Y|Y|
+|Feedback on Writing Style|||Y|Y|
+|Writing Techniques|||Y|Y|
+|Personalized Writing Plan|||Y|Y|
+|Accountability Support|||Y|Y|
+|Chapter-by-Chapter Review|||Y|Y|
+|Mid-Project Realignment Session|||Y|Y|
+|Proofreading|Add-on|Add-on|Add-on|Y|
+|Alpha/Beta Reading|Add-on|Add-on|Add-on|Y|
+|Editing|Add-on|Add-on|Add-on|Add-on|
+|Submission Package Preparation Assistance|Add-on|Add-on|Add-on|Y|
+|Publishing Strategy Guidance||||Coming Soon|
+|No. of 1-on-1 calls |1|6|15|30|
+|Validity|1 time|2 months|4 months|Valid till the Final Draft is ready or for 15 months, whichever is sooner|
+|Cost (INR)|₹4,000|₹20,000|₹50,000|₹1,00,000|
+|Cost (USD)|$80|$400|$1000|$2000|
 
 <div style="text-align: center;">
   <a href="https://forms.gle/M2vqLdD9jKkuH9et6" target="_blank">
