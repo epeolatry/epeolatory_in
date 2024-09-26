@@ -32,11 +32,10 @@ menu:
 | Suggestions           |             |            | Y                   | Y            |
 | Feedback Questions    |             |            | Y                   | Y            |
 | No. of revisions      | 1           | 2          | 3                   | -            |
-| For 10,000 words, cost (INR) | ₹2,500  | ₹5,000   | ₹7,500              | ₹3000       |
+| For 10,000 words, cost (INR) | ₹2,500  | ₹6,000   | ₹8,000              | ₹4000       |
 | For 10,000 words, cost (USD) | $50      | $100      | $150               | $60         |
 
-* Package Cost > Alpha/Beta Reading + Editing Services = ₹3,000 + ₹5,000, and NOT ₹7,500.
-
+* Developmental Editing Services does not include Alpha/Beta Reading Services. 
 <link rel="stylesheet" href="style.css">
 
 # Writing Consultancy
