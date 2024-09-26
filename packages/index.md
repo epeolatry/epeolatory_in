@@ -35,7 +35,7 @@ menu:
 | For 10,000 words, cost (INR) | ₹2,500  | ₹6,000   | ₹8,000              | ₹4000       |
 | For 10,000 words, cost (USD) | $50      | $120      | $160               | $80         |
 
-* Developmental Editing Services does not include Alpha/Beta Reading Services. 
+* Developmental Editing does not include Alpha/Beta Reading Service. 
 <link rel="stylesheet" href="style.css">
 
 # Writing Consultancy
