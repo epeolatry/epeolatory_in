@@ -3,7 +3,7 @@ layout: post
 Title: “Best Practices for Conducting Fact-Checking in Non-Fiction”
 author: bookworm_falguni
 tags: [blog, writing-tips, storytelling-tips]
-image: '/images/Fact-Checking.png'
+image: '/images/Fact-checking.png'
 blog: true
 ---
 When writing a nonfiction book, it is crucial to be factually correct about the topic, story, or theory that you are writing about. It will not only increase reader engagement but also save your book from misleading readers or getting cancelled. 
