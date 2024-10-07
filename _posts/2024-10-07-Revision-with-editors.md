@@ -33,3 +33,4 @@ Revisions can be time-consuming, but honesty about meeting deadlines and negotia
 The revision process is crucial for writing, and a cooperative relationship with an editor can do wonders for your work. 
 
 ### ***Happy Writing!!***
+
