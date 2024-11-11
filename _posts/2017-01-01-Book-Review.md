@@ -23,7 +23,7 @@ In addition to comprehensive reviews, I curate and share two compelling excerpts
 
   <a href="https://topmate.io/falguni_jain/498491" target="_blank">
     <button style="padding: 10px 20px; font-size: 16px; background-color: #000000; color: white; border: none; border-radius: 5px; cursor: pointer;">
-      Schedule a Free Consultation Call
+      Schedule a Consultation Call
     </button>
   </a>
 </div>
