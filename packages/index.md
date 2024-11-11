@@ -55,11 +55,11 @@ menu:
 |Personalized Writing Plan|||Y|Y|
 |Accountability Support|||Y|Y|
 |Chapter-by-Chapter Review|||Y|Y|
-|Mid-Project Realignment Session|||Y|Y|
-|Proofreading|Add-on|Add-on|Add-on|Y|
-|Alpha/Beta Reading|Add-on|Add-on|Add-on|Y|
+|Mid-Project Realignment Session||||Y|
+|Proofreading|Add-on|Add-on|Add-on|Add-on|
+|Alpha/Beta Reading|Add-on|Add-on|Add-on|Add-on|
 |Editing|Add-on|Add-on|Add-on|Add-on|
-|Submission Package Preparation Assistance|Add-on|Add-on|Add-on|Y|
+|Submission Package Preparation Assistance|Add-on (₹1,000)|Add-on (₹1,000)|Add-on (₹1,000)|Y|
 |Publishing Strategy Guidance||||Y|
 |No. of 1-on-1 calls |1|6|15|30|
 |Validity|1 time|2 months|4 months|Valid till the Final Draft is ready or for 15 months, whichever is sooner|
