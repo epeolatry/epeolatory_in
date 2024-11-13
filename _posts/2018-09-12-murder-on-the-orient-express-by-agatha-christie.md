@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Murder on the Orient Express by Agatha Christie
+title: Murder on the Orient Express (Hercule Poirot #8) by Agatha Christie
 author: bookworm_falguni
 tags: [book-reviews, fiction, mystery, book-to-movie]
 image: '/images/posts/murder-on-the-orient-express-by-agatha-christie.jpg'
