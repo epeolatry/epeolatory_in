@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Death on the Nile by Agatha Christie"
+title: "Death on the Nile (Hercule Poirot #15) by Agatha Christie"
 author: bookworm_falguni
 tags: [book-reviews, book-to-movie, fiction, drama, romance, love, suspense, murder, crime, mystery, alcoholism, death, money, partner, famous-personality, detective, Egypt]
 image: '/images/posts/Death-on-the-Nile-by-Agatha-Christie.jpg'
