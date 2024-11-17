@@ -3,7 +3,7 @@ layout: post
 Title: “Plotting vs. Pantsing”
 author: bookworm_falguni
 tags: [blog, writing-tips, storytelling-tips]
-image: '/images/Plotting-Pantsing.png'
+image: '/images/Plotting-pantsing.png'
 blog: true
 ---
 When it comes to writing fiction, there are two dominant schools of thought: Plotting and Pantsing. Both approaches have their dedicated followers, and each offers unique advantages depending on the type of writer you are. 
