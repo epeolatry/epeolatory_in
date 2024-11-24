@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: “Dialogue vs. Description: Knowing When to Let Characters Speak and When to Narrate”
+Title: “Dialogue vs. Description”
 author: bookworm_falguni
 tags: [blog, writing-tips, storytelling-tips]
 image: '/images/Dialogue-vs-Description.png'
