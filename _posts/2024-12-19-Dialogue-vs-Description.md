@@ -1,6 +1,6 @@
 ---
 layout: post
-Title: “Dialogue vs. Description: Knowing When to Let Characters Speak and When to Narrate ”
+Title: “Dialogue vs. Description: Knowing When to Let Characters Speak and When to Narrate”
 author: bookworm_falguni
 tags: [blog, writing-tips, storytelling-tips]
 image: '/images/Dialogue-vs-Description.png'
@@ -17,7 +17,7 @@ On the other hand, use a description to set the scene or establish an atmosphere
 **3. Avoid information dumps:**
 Avoid information dumping, whether through dialogue or description. It can slow down your narrative and bore your readers. Avoid giving unnecessary information about characters, plots, environment etc. Keep it concise and short.
 
-**5. Mix Up:**
+**4. Mix Up:**
 Vary your sentence structure to create a sense of rhythm and flow. Mix up short and long sentences to keep your readers engaged. You should use the show, don’t tell technique. Rather than telling your readers what’s happening, show them through action, dialogue, and description.
 
 It’s important to create a compelling balance between dialogues and descriptions. However, one must understand that these tips are subjective, and the writer should try to find their own balance based on their story’s requirements.
