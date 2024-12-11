@@ -56,8 +56,8 @@ menu:
 |Accountability Support|||Y|Y|
 |Chapter-by-Chapter Review|||Y|Y|
 |Mid-Project Realignment Session||||Y|
+|Alpha/Beta Reading|Add-on|Add-on|Add-on|Y|
 |Proofreading|Add-on|Add-on|Add-on|Add-on|
-|Alpha/Beta Reading|Add-on|Add-on|Add-on|Add-on|
 |Editing|Add-on|Add-on|Add-on|Add-on|
 |Submission Package Preparation Assistance|Add-on (₹1,000)|Add-on (₹1,000)|Add-on (₹1,000)|Y|
 |Publishing Strategy Guidance||||Y|
