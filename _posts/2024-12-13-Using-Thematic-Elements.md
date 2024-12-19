@@ -26,3 +26,4 @@ Finally, use foreshadowing to hint at your theme. Foreshadowing is a technique t
 By incorporating thematic elements into your narrative, you’ll be able to add depth, complexity, and resonance to your story. This will make your writing more impactful and intriguing, attracting more readers to your work.
 
 ### ***Happy Writing!!***
+
