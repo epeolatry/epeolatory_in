@@ -23,3 +23,4 @@ Vary your sentence structure to create a sense of rhythm and flow. Mix up short 
 It’s important to create a compelling balance between dialogues and descriptions. However, one must understand that these tips are subjective, and the writer should try to find their own balance based on their story’s requirements.
 
 ### ***Happy Writing!!***
+
