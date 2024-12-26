@@ -3,7 +3,7 @@ layout: post
 Title: “Using Literary Devices to Create Mood and Tone in Your Story”
 author: bookworm_falguni
 tags: [blog, writing-tips, storytelling-tips]
-image: '/images/Literary-Devices.png'
+image: '/images/posts/Literary-Devices.png'
 blog: true
 ---
 As writers, we strive to craft stories that transport our readers to new worlds, evoke powerful emotions, and linger long after the final page is turned. One of the most effective ways to achieve this is by harnessing the power of literary devices. In this blog, we’ll explore what literary devices are and how you can use them to create mood and tone in your story.
