@@ -28,5 +28,4 @@ Literary devices can add layers of meaning to your story, making it more engagin
 When choosing the literary devices, make sure that the effects of the literary device align with the theme of the story. It is also necessary to understand the type of audience while using literary devices. If your target audience for the story are people who might find it difficult to understand literary devices then it is best to use fewer and simpler literary devices rather than a complex one that could only be understood by literature students or professionals.
 
 By incorporating literary devices into your writing, you can create a rich, immersive, and engaging narrative that draws your readers in and refuses to let them go. So, keep this blog on your mind when working on your next story.
-
 ### ***Happy Writing!!***
