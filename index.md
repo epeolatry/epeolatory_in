@@ -24,3 +24,10 @@ At the core of my approach is a commitment to fostering open and collaborative r
 So, whether you're seeking an editor to refine your manuscript, a writing coach to provide guidance and inspiration, or a beta reader to offer fresh insights, I'm here to champion your story and help you achieve literary excellence. 
 
 Let's embark on this creative journey together!
+
+### Awards Judged
+<img src="/images/posts/Shastrarth-2024.png" alt="Shastrarth 2024 – NMIMS Debating Fest">
+<img src="/images/posts/PTA-2024.png" alt="Page Turner Awards 2024">
+<img src="/images/posts/PTA-2023.png" alt="Page Turner Awards 2023">
+<img src="/images/posts/Lets-write-publication.png" alt="Let's Write Publication Writing Contest 2023">
+<img src="/images/posts/PTA-2022.png" alt="Page Turner Awards 2022">
