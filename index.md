@@ -26,8 +26,8 @@ So, whether you're seeking an editor to refine your manuscript, a writing coach 
 Let's embark on this creative journey together!
 
 ### Awards Judged
-<img src="/images/posts/Shastrarth-2024.png" alt="Shastrarth 2024 – NMIMS Debating Fest">
-<img src="/images/posts/PTA-2024.png" alt="Page Turner Awards 2024">
-<img src="/images/posts/PTA-2023.png" alt="Page Turner Awards 2023">
-<img src="/images/posts/Lets-write-publication.png" alt="Let's Write Publication Writing Contest 2023">
-<img src="/images/posts/PTA-2022.png" alt="Page Turner Awards 2022">
+<img src="/images/posts/Shastrarth-2024.png" alt="Shastrarth 2024 – NMIMS Debating Fest" style="width:500px;height:600px;">
+<img src="/images/posts/PTA-2024.png" alt="Page Turner Awards 2024" style="width:500px;height:600px;">
+<img src="/images/posts/PTA-2023.png" alt="Page Turner Awards 2023" style="width:500px;height:600px;">
+<img src="/images/posts/Lets-write-publication.png" alt="Let's Write Publication Writing Contest 2023" style="width:500px;height:600px;">
+<img src="/images/posts/PTA-2022.png" alt="Page Turner Awards 2022" style="width:500px;height:600px;">
