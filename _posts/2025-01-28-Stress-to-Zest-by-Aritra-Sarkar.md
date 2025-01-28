@@ -9,12 +9,19 @@ image: '/images/posts/Stress-to-Zest-by-Aritra-Sarkar.jpg'
 "Stress to Zest" takes you on a journey to help you understand how seven common stress factors impact the human mind:
 
 •	Financial Stress: The weight of bills, debts and financial uncertainty.
+
 •	Relationship Stress: The tides of love, conflict and connection.
+
 •	Job Stress: The demands of work, deadlines and ambition.
+
 •	Health Stress: The fragility of our bodies and minds.
+
 •	Competition Pressure: The race against others and ourselves.
+
 •	Social Pressure: The expectations that shape our choices.
+
 •	Parental Pressure: The balancing act of nurturing and self-care.
+
 In this collection of stories set in diverse contexts across the globe, you'll meet characters from all walks of life grappling with these stressors. Their journeys are not mere survival tales; they're blueprints for transformation. Witness how they navigate the storm, find resilience and discover a newfound zest for life.
 
 ### **My Review:**
