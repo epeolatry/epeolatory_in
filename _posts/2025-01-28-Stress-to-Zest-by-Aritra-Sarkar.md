@@ -2,7 +2,7 @@
 layout: post
 title: "Stress to Zest by Aritra Sarkar"
 author: bookworm_falguni
-tags: [book-reviews, mythology, medieval-fiction, historical-fiction, love, drama, classic, sexual-assault, life, death, friends, nature]
+tags: [book-reviews, fiction, drama, love, motivational, inspirational, non-fiction, proses, self-help, spiritual, educational, philosophy, short-story, novella, life, gratitude, success, spirituality, positivity, habits, personality, corporate, career, family, community, parents]
 image: '/images/posts/Stress-to-Zest-by-Aritra-Sarkar.jpg'
 ---
 ### **Blurb:**
