@@ -38,5 +38,4 @@ What stands out to me is how Aritra Sarkar shares personal anecdotes, struggles,
 I appreciate books that don’t preach but instead share experiences, allowing readers to draw their own conclusions. “Stress to Zest” does exactly that.
 
 While not everyone might connect with the lessons conveyed through its stories, if you’re someone who learns better from others’ experiences rather than a list of dos and don’ts, this book is an absolute must-read.
-
 ### ***Happy Reading!!***
