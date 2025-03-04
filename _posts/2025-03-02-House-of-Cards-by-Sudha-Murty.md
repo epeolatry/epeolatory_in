@@ -18,5 +18,4 @@ While I liked the plot and its arc, I believe there could have been fewer charac
 "House of Cards" brings to light some of the struggles a woman faces after marriage. All women like Mridula get to hear is, "At least he doesn’t hit you… At least he isn’t cheating on you… At least he has money and is providing for you… At least you have staff for all the chores… What are you upset about?" But this book asks, "Is that all a woman needs? What about love and respect and gratitude? What do I do with all this money when there is no one to ask me what I like?"
 
 I would recommend "House of Cards" by Sudha Murthy if you are into the Indian family drama genre.
-
 ### ***Happy Reading!!***
