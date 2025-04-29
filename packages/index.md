@@ -1,75 +1,90 @@
 ---
 layout: page
-title: Packages
+title: Services Offered
 menu: 
   header:
     weight: 6
 ---
-# Editing & Beta Reading
+# Editorial Services
 
-| Focus Area             | Proofreading | Line Editing | Developmental Editing | Beta Reading |
-|-----------------------|--------------|--------------|-----------------------|--------------|
-| Spelling              | Y            | Y            | Y                   |              |
-| Grammar               | Y            | Y            | Y                   |              |
-| Capitalization        | Y            | Y            | Y                   |              |
-| Punctuation           | Y            | Y            | Y                   |              |
-| Formatting            | Y            | Y            | Y                   |              |
-| Abbreviations         | Y            | Y            | Y                   |              |
-| Clarity               |             | Y            | Y                   |              |
-| Consistency           |             | Y            | Y                   |              |
-| Word Choice           |             | Y            | Y                   |              |
-| Redundancy            |             | Y            | Y                   |              |
-| Flow                  |             | Y            | Y                   |              |
-| Fact-Checking         |             | Y            | Y                   |              |
-| Tense                 |             | Y            | Y                   |              |
-| Dialogue              |             | Y            | Y                   | Y            |
-| Plot                  |             |            | Y                   | Y            |
-| Character Development |             |            | Y                   | Y            |
-| Theme                 |             |            | Y                   | Y            |
-| Narrative Voice       |             |            | Y                   | Y            |
-| Scene Construction    |             |            | Y                   | Y            |
-| Plot Holes            |             |            | Y                   | Y            |
-| Suggestions           |             |            | Y                   | Y            |
-| Feedback Questions    |             |            | Y                   | Y            |
-| No. of revisions      | 1           | 2          | 3                   | -            |
-| For 10,000 words, cost (INR) | ₹2,500  | ₹6,000   | ₹8,000              | ₹4000       |
-| For 10,000 words, cost (USD) | $50      | $120      | $160               | $80         |
+- **Proofreading**:  
+Corrects spelling, grammar, punctuation, capitalization, and basic formatting.
 
-* Developmental Editing does not include Alpha/Beta Reading Service. 
-<link rel="stylesheet" href="style.css">
+- **Line Editing**:  
+Incldues Proofreading.
+Enhances clarity, consistency, word choice, fact-checking, and removes repetition and redundancy.  
+Also includes checking citations, tables, figures, index, and references (for Non-Fiction).
 
-# Writing Consultancy
+- **Developmental Editing**:  
+Includes Line Editing and Proofreading.
+Deep focus on dialogue delivery, pacing, plot development, character arcs, themes, symbolism, scene construction, and emotional impact (for Fiction).  
+Structure, cintent relevance, audience engagement, voice, examples, case studies and visuals (for Non-Fiction).
 
-|Focus Areas|I have an idea!|Help me plan!|Help me write!|Idea to Final Draft|
-|---|---|---|---|---|
-|Idea Generation|Y|Y|Y|Y|
-|Identifying target Audience|Y|Y|Y|Y|
-|Conceptualization|Y|Y|Y|Y|
-|Outlining||Y|Y|Y|
-|Plot Development||Y|Y|Y|
-|Character Development||Y|Y|Y|
-|Chapter Organization||Y|Y|Y|
-|Hooks and Twists Planning||Y|Y|Y|
-|Feedback on Writing Style|||Y|Y|
-|Writing Techniques|||Y|Y|
-|Personalized Writing Plan|||Y|Y|
-|Accountability Support|||Y|Y|
-|Chapter-by-Chapter Review|||Y|Y|
-|Mid-Project Realignment Session||||Y|
-|Alpha/Beta Reading|Add-on|Add-on|Add-on|Y|
-|Proofreading|Add-on|Add-on|Add-on|Add-on|
-|Editing|Add-on|Add-on|Add-on|Add-on|
-|Submission Package Preparation Assistance|Add-on (₹1,000)|Add-on (₹1,000)|Add-on (₹1,000)|Y|
-|Publishing Strategy Guidance||||Y|
-|No. of 1-on-1 calls |1|6|15|30|
-|Validity|1 time|2 months|4 months|Valid till the Final Draft is ready or for 15 months, whichever is sooner|
-|Cost (INR)|₹4,000|₹20,000|₹50,000|₹1,00,000|
-|Cost (USD)|$80|$400|$1,000|$2,000|
+- **Manuscript Evaluation**:  
+Comprehensive improvement suggestions and feedback on pacing, plot development, character arcs, themes, symbolism, scene construction, emotional impact, and structure.
+
+## Writing Consultancy
+
+- **I Have an Idea!**  
+  Idea generation, identifying target audience, conceptualization, and outlining over a single 1-hour call.
+
+- **Help Me Plan!**  
+  Everything from *I Have an Idea!* plus plot development, character development, and hooks and twists planning (for Fiction) or chapter organization, developing case studies, and creating practical takeaways (for Non-Fiction) in 6 calls over 2 months.
+
+- **Help Me Write!**  
+  Everything from *Help Me Plan!* plus feedback on writing style, writing techniques, personalized writing plan, accountability support, chapter-wise reviews, through 15 calls over 4 months.
+
+- **Idea to Book**  
+  Full journey support, including a mid-project realignment session and complete publishing support, 30 calls, valid till the book is ready or for 15 months, whichever is sooner.
+
+## Add-On Services
+
+- **Submission Package Preparation**  
+  Query letter, synopsis, blurb, sample chapters proofreading, and literary agent/publisher selection (up to 15, depending on the genre).
+
+- **Self-Publishing Assistance**  
+  ISBN registration, copyright assistance, typesetting, Kindle publishing. 
+
+- **Paperback Publishing**
+Print-on-Demand, Amazon/flipkart listing, 5 author copies. 
+
+- **Cover Design**  
+  3–5 draft ideas with 2 revisions; final front, back, spine cover.
+
+- **Book Launch (Online)**  
+  One social media post, two stories, a Q&A session, and a post-event reel.
+
+- **Book Launch (Offline – Mumbai)**  
+  Event coordination and support.
+
+## Book Reviews
+
+- **Text-Only Review**  
+  Platforms: Amazon, Goodreads, Website.
+
+- **Static Post Review**  
+  Platforms: Amazon, Goodreads, Website, Facebook, Instagram.
+
+- **Video Review (1–1.5 mins)**  
+  Platforms: Amazon, Goodreads, Website, Facebook, Instagram, YouTube.
+
+- **Extended Video Review (~3 mins)**  
+  Platforms: Amazon, Goodreads, Website, Facebook, Instagram, YouTube.
+
+- **Optional Add-Ons**  
+  Additional posting on LinkedIn, Google Play Books, Pinterest, or other platforms.
+
+> *Note:*  
+> - Book cost needs to be covered by the author.  
+> - For Amazon Verified Reviews, the book must be purchased directly from Amazon (shipping a copy will not show as verified).
+> - If you publish your book within 3 months of editing or manuscript review, you get a free text review on Goodreads and my website — or a free static post review if you send a physical copy.
+
+## *Happy Writing and Publishing!*
 
 <div style="text-align: center;">
   <a href="https://forms.gle/M2vqLdD9jKkuH9et6" target="_blank">
     <button style="padding: 10px 20px; font-size: 16px; background-color: #000000; color: white; border: none; border-radius: 5px; cursor: pointer;">
-      Fill Out the Enquiry Form
+      Request a Quote (24-48 hours)
     </button>
   </a>
 
@@ -79,6 +94,3 @@ menu:
     </button>
   </a>
 </div>
-
-
-
