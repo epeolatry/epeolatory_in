@@ -74,11 +74,6 @@ Comprehensive improvement suggestions and feedback on pacing, plot development, 
 - **Optional Add-Ons**  
   Additional posting on LinkedIn, Google Play Books, Pinterest, or other platforms.
 
-> *Note:*  
-> - Book cost needs to be covered by the author.  
-> - For Amazon Verified Reviews, the book must be purchased directly from Amazon (shipping a copy will not show as verified).
-> - If you publish your book within 3 months of editing or manuscript review, you get a free text review on Goodreads and my website — or a free static post review if you send a physical copy.
-
 ## *Happy Writing and Publishing!*
 
 <div style="text-align: center;">
