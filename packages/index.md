@@ -45,8 +45,8 @@ Comprehensive improvement suggestions and feedback on pacing, plot development, 
 - **Self-Publishing Assistance**  
   ISBN registration, copyright assistance, typesetting, Kindle publishing. 
 
-- **Paperback Publishing**
-Print-on-Demand, Amazon/flipkart listing, 5 author copies. 
+- **Paperback Publishing**  
+  Print-on-Demand, Amazon/flipkart listing, 5 author copies. 
 
 - **Cover Design**  
   3–5 draft ideas with 2 revisions; final front, back, spine cover.
