@@ -79,7 +79,7 @@ Comprehensive improvement suggestions and feedback on pacing, plot development, 
 <div style="text-align: center;">
   <a href="https://forms.gle/M2vqLdD9jKkuH9et6" target="_blank">
     <button style="padding: 10px 20px; font-size: 16px; background-color: #000000; color: white; border: none; border-radius: 5px; cursor: pointer;">
-      Request a Quote (24-48 hours)
+      Request a Quote (Response Time: 24-48 hours)
     </button>
   </a>
 
