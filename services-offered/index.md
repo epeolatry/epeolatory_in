@@ -9,40 +9,48 @@ menu:
 
 - **Proofreading**:  
 Corrects spelling, grammar, punctuation, capitalization, and basic formatting.
+
 ***For 30,000 words = ₹7,500+ | $130+***
 
 - **Line Editing**:  
 Incldues Proofreading.
 Enhances clarity, consistency, word choice, fact-checking, and removes repetition and redundancy.  
 Also includes checking citations, tables, figures, index, and references (for Non-Fiction).
+
 ***For 30,000 words = ₹18,000+ | $300+***
 
 - **Developmental Editing**:  
 Includes Line Editing and Proofreading.
 Deep focus on dialogue delivery, pacing, plot development, character arcs, themes, symbolism, scene construction, and emotional impact (for Fiction).  
 Structure, content relevance, audience engagement, voice, examples, case studies and visuals (for Non-Fiction).
+
 ***For 30,000 words = ₹25,500+ | $430+***
 
 - **Manuscript Evaluation**:  
 Comprehensive improvement suggestions and feedback on pacing, plot development, character arcs, themes, symbolism, scene construction, emotional impact, and structure.
+
 ***For 30,000 words = ₹15,000+ | $250+***
 
 ## Writing Consultancy
 
 - **I Have an Idea!**  
   Idea generation, identifying target audience, conceptualization, and outlining over a single 1-hour call.
+
   ***1 Conusltation Call = ₹4,000 | $70***
 
 - **Help Me Plan!**  
   Everything from *I Have an Idea!* plus plot development, character development, and hooks and twists planning (for Fiction) or chapter organization, developing case studies, and creating practical takeaways (for Non-Fiction) in 6 calls over 2 months.
+
 ***6 Consultation Calls = ₹20,000 | $280***
   
 - **Help Me Write!**  
   Everything from *Help Me Plan!* plus feedback on writing style, writing techniques, personalized writing plan, accountability support, chapter-wise reviews, through 16 calls over 5 months.
+
 ***16 Consultation Calls = ₹50,000+ | $875+***
 
 - **Idea to Book**  
   Full journey support, including a mid-project realignment session and complete publishing support, 33 calls, valid till the book is ready or for 15 months, whichever is sooner.
+
 ***33 Consultation Calls = ₹1,00,000+ | $1,750+***
 
 ## Add-On Services
