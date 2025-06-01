@@ -26,6 +26,9 @@ So, whether you're seeking an editor to refine your manuscript, a writing coach 
 Let's embark on this creative journey together!
 
 ### Podcasts
+<div style="white-space: normal; text-align: center;">
+  <img src="/images/posts/The-Nest-Show.png" alt="Podcast Snapshot" style="width:400px;height:200px; display: inline-block;">
+</div>
 
 <ul>
   <li>
