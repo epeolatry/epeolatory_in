@@ -23,4 +23,3 @@ To celebrate this milestone, I want to acknowledge some of the editors behind my
 •	"The God of Small Things" edited by Pankaj Mishra
 
 Looking back, I’m inspired by these editors—some industry veterans, others less known—who helped shape books that have stayed with me for years. Their contributions remind me why I chose this path and why I remain in love with the process. Here’s to the editors—past, present, and future—who make great writing even greater. And here’s to the next chapter in this quiet, fulfilling journey.
-
