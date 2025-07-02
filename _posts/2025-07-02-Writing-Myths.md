@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Writing Myths You Need to Stop Believing”
+title: "Writing Myths You Need to Stop Believing"
 author: bookworm_falguni
 tags: [blog, writing-tips]
 image: '/images/Writing-Myths.png'
@@ -39,5 +39,6 @@ Three acts work well, but they’re not the only option. Some stories follow fiv
 Editing includes developmental work like tightening scenes, improving pacing, clarifying theme, not just correcting commas. Great editing shapes the experience of the entire manuscript.
 
 Writing isn’t about obeying rules—it’s about making choices. These myths may have a grain of truth, but they shouldn’t become cages. Understanding when and why to break the rules is part of growing as a writer. Write smart. Write boldly. And most importantly, write your way.
+
 
 ### ***Happy Writing!!***
