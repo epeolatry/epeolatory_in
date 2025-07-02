@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Five Years of Freelancing: Celebrating Editors Behind the Scenes”
+title: "Five Years of Freelancing: Celebrating Editors Behind the Scenes"
 author: bookworm_falguni
 tags: [blog, writing-tips]
 image: '/images/Celebrating-Editors.png'
