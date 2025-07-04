@@ -36,22 +36,22 @@ Comprehensive improvement suggestions and feedback on pacing, plot development, 
 - **I Have an Idea!**  
   Idea generation, identifying target audience, conceptualization, and outlining over a single 1-hour call.
 
-  ***1 Conusltation Call = ₹4,000 ($70)***
+  ***1 Conusltation Call = ₹4,000 ($80)***
 
 - **Help Me Plan!**  
   Everything from *I Have an Idea!* plus plot development, character development, and hooks and twists planning (for Fiction) or chapter organization, developing case studies, and creating practical takeaways (for Non-Fiction) in 6 calls over 2 months.
 
-***6 Consultation Calls = ₹20,000 ($280)***
+***6 Consultation Calls = ₹22,000 ($440)***
   
 - **Help Me Write!**  
-  Everything from *Help Me Plan!* plus feedback on writing style, writing techniques, personalized writing plan, accountability support, chapter-wise reviews, through 16 calls over 5 months.
+  Everything from *Help Me Plan!* plus feedback on writing style, writing techniques, personalized writing plan, accountability support, chapter-wise reviews, through 15 calls over 5 months.
 
-***16 Consultation Calls = ₹50,000+ ($875+)***
+***15 Consultation Calls = ₹56,000+ ($1,100)***
 
 - **Idea to Book**  
-  Full journey support, including a mid-project realignment session and complete publishing support, 33 calls, valid till the book is ready or for 15 months, whichever is sooner.
+  Full journey support, including a mid-project realignment session and complete publishing support, 36 calls, valid till the book is ready or for 15 months, whichever is sooner.
 
-***33 Consultation Calls = ₹1,00,000+ ($1,750+)***
+***36 Consultation Calls = ₹1,38,000+ ($2,700)***
 
 ## Add-On Services
 
