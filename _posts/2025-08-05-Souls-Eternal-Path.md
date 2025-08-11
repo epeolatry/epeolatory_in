@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Soul’s Eternal Path: Journey Beyond Light and Karma by Nishit Mistry"
 author: bookworm_falguni
