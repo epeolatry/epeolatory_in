@@ -13,7 +13,7 @@ Corrects spelling, grammar, punctuation, capitalization, and basic formatting.
 ***For 30,000 words = ₹7,500+ ($130+)***
 
 - **Line Editing**:  
-Incldues Proofreading.
+Includes Proofreading.
 Enhances clarity, consistency, word choice, fact-checking, and removes repetition and redundancy.  
 Also includes checking citations, tables, figures, index, and references (for Non-Fiction).
 
@@ -22,7 +22,7 @@ Also includes checking citations, tables, figures, index, and references (for No
 - **Developmental Editing**:  
 Includes Line Editing and Proofreading.
 Deep focus on dialogue delivery, pacing, plot development, character arcs, themes, symbolism, scene construction, and emotional impact (for Fiction).  
-Structure, content relevance, audience engagement, voice, examples, case studies and visuals (for Non-Fiction).
+Structure, content relevance, audience engagement, voice, examples, case studies, and visuals (for Non-Fiction).
 
 ***For 30,000 words = ₹25,500+ ($430+)***
 
@@ -34,7 +34,7 @@ Comprehensive improvement suggestions and feedback on pacing, plot development, 
 ## Writing Consultancy
 
 - **I Have an Idea!**  
-  Idea generation, identifying target audience, conceptualization, and outlining over a single 1-hour call.
+  Idea generation, identifying the target audience, conceptualization, and outlining over a single 1-hour call.
 
   ***1 Conusltation Call = ₹4,000 ($80)***
 
@@ -65,7 +65,10 @@ Comprehensive improvement suggestions and feedback on pacing, plot development, 
   Print-on-Demand, Amazon/flipkart listing, 5 author copies. 
 
 - **Cover Design**  
-  3–5 draft ideas with 2 revisions; final front, back, spine cover.
+  Final front, back, spine cover.
+
+- **Typesetting**  
+  Ready to print/publish version.  
 
 - **Book Launch (Online)**  
   One social media post, two stories, a Q&A session, and a post-event reel.
