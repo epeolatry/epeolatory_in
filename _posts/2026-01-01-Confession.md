@@ -23,3 +23,4 @@ But, behind each pro, was a con:
 • The content seemed relevant to me but didn’t have any personal insights for the audience.
 
 So, here I am. Ready to start the new year with a more mindful approach towards social media. Focus is not on quantity, a little on quality, but mostly on sharing my thoughts and reclaiming my feed from the AI tone.
+
