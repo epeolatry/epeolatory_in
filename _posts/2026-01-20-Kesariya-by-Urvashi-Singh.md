@@ -57,6 +57,5 @@ Personally, I found myself most drawn to the stories of the princesses and queen
 I have closely known some of the locations mentioned in the book, yet neither I, nor my parents, nor my grandparents, were aware of the rich history of the land, the stories of courage, or even Karamsots. Glad I picked this book. Another addition to the books about the places I have been to.
 
 Suitable for age: 11+
-
 ### ***Happy Reading!!***
 
