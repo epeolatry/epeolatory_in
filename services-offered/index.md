@@ -5,8 +5,8 @@ menu:
   header:
     weight: 6
 ---
-# Editorial Services
-Editing for long-form fiction, focused on story structure, character development, and emotional resonance.
+# EDITORIAL SERVICES
+*Editing for long-form fiction, focused on story structure, character development, and emotional resonance.*
 
 ## Manuscript Review
 Big-picture, craft-focused feedback to help you understand what’s working and what needs revision. **Includes:** A detailed editorial report · 1 consultation call.
@@ -33,38 +33,38 @@ Deep, collaborative editing focused on story structure, character development, a
 
 ---
 
-# Writing Consultancy
-Hands-on guidance for writers who need clarity, structure, and momentum—whether you’re shaping an idea or working toward a complete draft.
+# WRITING CONSULTANCY
+*Hands-on guidance for writers who need clarity, structure, and momentum—whether you’re shaping an idea or working toward a complete draft.*
 
 ## Starter — “I have an idea”
 Early-stage guidance to help you shape and clarify your concept. **Validity:** 1 session
 
-***Fees (30,000 words): ₹4,000 / $80***
+***Fees: ₹4,000 / $80***
 
 ## Planner — “Help me plan”
 Structured support to turn an idea into a workable book plan. **Validity:** 6 sessions over 2 months 
 
-***Fees (30,000 words): ₹22,000 / $440***
+***Fees: ₹22,000 / $440***
 
 ## Writer’s Room — “Help me write”
 Ongoing support while you’re actively writing. **Validity:** 15 sessions over 4 months
 
-***Fees (30,000 words): ₹56,000 / $1,100***
+***Fees: ₹56,000 / $1,100***
 
 ## Idea to Final Draft
 Long-term, end-to-end support from concept to completed manuscript. **Validity:** 36 sessions over 15 months 
 
-***Fees (30,000 words): ₹1,38,000 / $2,700***
+***Fees: ₹1,38,000 / $2,700***
 
 ### Optional Add-ons
 Manuscript evaluation · Editing · Book review · Self-publishing assistance · Submission package preparation · Cover design · Book launch support
 
 ---
 
-### Client Bonus
+### CLIENT BONUS
 If you publish your book within three months of the completion of my editorial or consultancy services, I’m happy to offer **a complimentary book review** — on Goodreads and my Website.  
 
-### Still unsure?
+### STILL UNSURE?
 You can book a 30-minute consultation call to discuss your idea, goals, and the level of support you need. If you proceed with one of my services, the consultation fee is adjusted against the final cost.
 
 ## *Happy Writing and Publishing!*
