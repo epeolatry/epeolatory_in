@@ -6,92 +6,143 @@ menu:
     weight: 6
 ---
 # Editorial Services
+Editing for long-form fiction, focused on story structure, character development, and emotional resonance.
 
-- **Proofreading**:  
-Corrects spelling, grammar, punctuation, capitalization, and basic formatting.
+### Manuscript Review
+Big-picture, craft-focused feedback to help you understand what’s working and what needs revision.
+**Focus:** Plot and structure · pacing · character arcs · theme · reader engagement
+**You receive:** A detailed editorial report with clear, actionable guidance and chapter- and sentence-level observations.
+**Includes:** 
+•	1 consultation call (60 mins)
+•	No in-text edits
+***Fees (30,000 words): ₹15,000***
 
-***For 30,000 words = ₹7,500+ ($130+)***
+### Line Editing
+Sentence-level refinement that sharpens clarity while preserving your voice.
+**Focus:** Language and rhythm · dialogue delivery · transitions · consistency in POV, tense, and tone
+You receive: In-text edits (Track Changes) with brief margin notes
+**Includes:**
+•	Basic proofreading (grammar, spelling, punctuation)
+•	1 consultation call
+•	1 revision round
+***Fees (30,000 words): ₹18,000***
 
-- **Line Editing**:  
-Includes Proofreading.
-Enhances clarity, consistency, word choice, fact-checking, and removes repetition and redundancy.  
-Also includes checking citations, tables, figures, index, and references (for Non-Fiction).
+### Developmental Editing
+Deep, collaborative editing focused on story structure and emotional payoff.
+**Focus:** Plot logic · character development · stakes and emotional payoff · pacing · voice and genre alignment
+**You receive:** In-text developmental edits (Track Changes) and comments, along with a structured editorial memo to guide revision.
+**Includes:**
+•	Line editing
+•	Basic proofreading
+•	2 consultation calls
+•	2 revision rounds
+***Fees (30,000 words): ₹30,000***
 
-***For 30,000 words = ₹18,000+ ($300+)***
+##### Which Service Is Right for You?
 
-- **Developmental Editing**:  
-Includes Line Editing and Proofreading.
-Deep focus on dialogue delivery, pacing, plot development, character arcs, themes, symbolism, scene construction, and emotional impact (for Fiction).  
-Structure, content relevance, audience engagement, voice, examples, case studies, and visuals (for Non-Fiction).
+|If you are…|Start with…|
+|---|---|
+|Unsure if the story works as a whole|Manuscript Review|
+|Happy with the story but want sharper writing|Line Editing|
+|Stuck with plot, pacing, or character issues|Developmental Editing|
 
-***For 30,000 words = ₹25,500+ ($430+)***
+##### Still Unsure?
+You can book a 30-minute consultation call to discuss your manuscript and goals. If you choose to proceed with editing, the consultation fee is adjusted against the final project cost.
 
-- **Manuscript Evaluation**:  
-Comprehensive improvement suggestions and feedback on pacing, plot development, character arcs, themes, symbolism, scene construction, emotional impact, and structure.
+---
 
-***For 30,000 words = ₹15,000+ ($250+)***
+# Writing Consultancy
+Hands-on guidance for writers who need clarity, structure, and momentum—whether you’re shaping an idea or working toward a complete draft.
 
-## Writing Consultancy
+### Starter — “I have an idea”
+Early-stage guidance to help you shape and clarify your concept.
+**Focus:** Idea generation · audience clarity · conceptual direction · outlining basics
 
-- **I Have an Idea!**  
-  Idea generation, identifying the target audience, conceptualization, and outlining over a single 1-hour call.
+**You receive:**
+• Strategic guidance to refine your core idea
+• Direction on genre, scope, and feasibility
 
-  ***1 Conusltation Call = ₹4,000 ($80)***
+**Includes:**
+• 1 consultation call
+• High-level feedback and next-step clarity
 
-- **Help Me Plan!**  
-  Everything from *I Have an Idea!* plus plot development, character development, and hooks and twists planning (for Fiction) or chapter organization, developing case studies, and creating practical takeaways (for Non-Fiction) in 6 calls over 2 months.
+**Validity:** 1 session
+***Fees (30,000 words): ₹4,000 | $80***
 
-***6 Consultation Calls = ₹22,000 ($440)***
-  
-- **Help Me Write!**  
-  Everything from *Help Me Plan!* plus feedback on writing style, writing techniques, personalized writing plan, accountability support, chapter-wise reviews, through 15 calls over 5 months.
+### Planner — “Help me plan”
+Structured support to turn an idea into a workable book plan.
+**Focus:** Outlining · plot or content structure · chapter planning · hooks and flow
 
-***15 Consultation Calls = ₹56,000+ ($1,100)***
+**You receive:**
+• A clear, workable roadmap for your book
+• Guidance on pacing, sequencing, and structure
 
-- **Idea to Book**  
-  Full journey support, including a mid-project realignment session and complete publishing support, 36 calls, valid till the book is ready or for 15 months, whichever is sooner.
+**Includes:**
+• 6 consultation calls
+• Planning support and review between calls
 
-***36 Consultation Calls = ₹1,38,000+ ($2,700)***
+**Validity:** 2 months
+***Fees (30,000 words): ₹22,000 | $440***
 
-## Add-On Services
+### Writer’s Room — “Help me write”
+Ongoing support while you’re actively writing.
+**Focus:** Writing craft · chapter-by-chapter feedback · clarity and consistency
 
-- **Submission Package Preparation**  
-  Query letter, synopsis, blurb, sample chapters proofreading, and literary agent/publisher selection (up to 15, depending on the genre).
+**You receive:**
+• Regular feedback on drafted material
+• Craft-level guidance to strengthen execution
 
-- **Self-Publishing Assistance**  
-  ISBN registration, copyright assistance, typesetting, Kindle publishing. 
+**Includes:**
+• 15 consultation calls
+• Chapter-level review and feedback
+• Accountability support
 
-- **Paperback Publishing**  
-  Print-on-Demand, Amazon/flipkart listing, 5 author copies. 
+**Validity:** 4 months
+***Fees (30,000 words): ₹56,000 | $1,100***
 
-- **Cover Design**  
-  Final front, back, spine cover.
+### Idea to Final Draft
+Long-term, end-to-end support from concept to completed manuscript.
+**Focus:** Structure · writing · revision strategy · consistency and momentum
 
-- **Typesetting**  
-  Ready to print/publish version.  
+**You receive:**
+• Ongoing guidance across planning, drafting, and revision
+• Big-picture and chapter-level support
 
-- **Book Launch (Online)**  
-  One social media post, two stories, a Q&A session, and a post-event reel.
+**Includes:**
+• 36 consultation calls
+• Mid-project realignment session
+• Continuous accountability and feedback
 
-- **Book Launch (Offline – Mumbai)**  
-  Event coordination and support.
+**Validity:** Till final draft or 15 months (whichever is earlier)
+***Fees (30,000 words): ₹1,38,000 | $2,700***
 
-## Book Reviews
+##### Optional Add-ons
+**Available across all packages:** Manuscript evaluation · Editing · Book review · Self-publishing assistance · Submission package preparation · Cover design · Book launch support
 
-- **Text-Only Review**  
-  Platforms: Amazon, Goodreads, Website.
+##### Still unsure?
+You can book a 30-minute consultation call to discuss your idea, goals, and the level of support you need. If you proceed with a consultancy package, the consultation fee is adjusted against the final cost.
 
-- **Static Post Review**  
-  Platforms: Amazon, Goodreads, Website, Facebook, Instagram.
+---
 
-- **Video Review (1–1.5 mins)**  
-  Platforms: Amazon, Goodreads, Website, Facebook, Instagram, YouTube.
+# Book Reviews
+Thoughtful, reader-focused reviews shared across platforms to help books find the right audience and build early visibility.
 
-- **Extended Video Review (~3 mins)**  
-  Platforms: Amazon, Goodreads, Website, Facebook, Instagram, YouTube.
+### Review Packages
+**Text Review:** Written review on Amazon, Goodreads, and my website - ***₹500 |	$50***
+**Static Post Review:** Text review + static post (Instagram, Facebook, LinkedIn) - ***₹700 | $70***
+**Short Video Review:**	Text review + short video (Instagram Reel + YouTube Shorts) - ₹1,000 | $100
+**Extended Video Review:** Text review + YouTube video (up to 3 minutes) - ***₹1,500 | $130***
 
-- **Optional Add-Ons**  
-  Additional posting on LinkedIn, Google Play Books, Pinterest, or other platforms.
+##### Optional Add-Ons (up to 2 platforms)
+Google Play Books · Pinterest · Other platforms
+
+##### Notes
+•	For Amazon reviews, the book must be purchased via Amazon for the review to appear as a verified purchase.
+•	The cost of purchasing the book is to be covered by the author.
+•	Physical copies are welcome for reviews on other platforms.
+
+##### Editorial Client Bonus
+If you publish your book within three months of the completion of my editing or manuscript review services, I’m happy to offer **one complimentary review package** — Text Review or Static Post Review (in exchange for a physical copy of the book).
 
 ## *Happy Writing and Publishing!*
 
