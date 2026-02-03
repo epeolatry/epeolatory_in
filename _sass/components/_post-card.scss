@@ -12,6 +12,12 @@
   margin-bottom: double($base-spacing-unit) + half($base-spacing-unit);
   padding-bottom: (double($base-spacing-unit) + half($base-spacing-unit)) - half(quarter($base-spacing-unit));
 
+  &--blog {
+    .c-post-card__media {
+      aspect-ratio: 16 / 9;
+    }
+  }
+
   &__media {
     overflow: hidden;
     // background-color: $bg-gray;

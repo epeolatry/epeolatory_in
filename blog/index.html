@@ -1,20 +1,20 @@
 ---
 layout: default
 title: Blog
-pagination: 
-  enabled: true
-  tag: 'blog'
-  debug: true
-menu: 
-  header:
-    weight: 3
+pagination:
+enabled: true
+tag: 'blog'
+debug: true
+menu:
+header:
+weight: 3
 ---
 
 <div class='o-wrapper'>
 
   <div class='o-grid js-grid'>
     {% for post in paginator.posts %}
-        {% include post-card.html %}
+    {% include post-card.html is_blog=true %}
     {% endfor %}
   </div>
 
@@ -23,7 +23,9 @@ menu:
   </div>
 
   <div class='o-grid'>
-    <div class='o-grid__col o-grid__col--full'><hr></div>
+    <div class='o-grid__col o-grid__col--full'>
+      <hr>
+    </div>
   </div>
 
   <div class='o-grid'>
