@@ -17,16 +17,22 @@
     // background-color: $bg-gray;
     border-radius: $global-border-radius;
     margin-bottom: $base-spacing-unit + half($base-spacing-unit);
+    aspect-ratio: 3 / 4;
   }
 
   &__image-link {
     display: flex;
     position: relative;
+    width: 100%;
+    height: 100%;
   }
 
   &__image {
     display: block;
     position: relative;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
     border-radius: $global-border-radius;
     transition: all $global-transition ease;
 
