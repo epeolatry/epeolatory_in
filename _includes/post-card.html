@@ -1,5 +1,5 @@
 <div class='js-grid__col o-grid__col o-grid__col--4-4-s o-grid__col--2-4-m o-grid__col--1-3-l js-post-card-wrap'>
-  <div class='c-post-card {% if page.title == "Blog" %}c-post-card--blog{% endif %}'>
+  <div class='c-post-card {% if page.url contains "/blog/" or page.url == "/blog/" %}c-post-card--blog{% endif %}'>
     {% if post.image %}
     <div class='c-post-card__media'>
       <a href='{{ post.url | prepend: site.baseurl }}' class='c-post-card__image-link' aria-hidden='true' tabindex='-1'>
