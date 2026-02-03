@@ -5,25 +5,25 @@ menu:
   header:
     weight: 6
 ---
-# Editorial Services
+# <div style="text-align: center;">Editorial Services</div>
 Editing for long-form fiction, focused on story structure, character development, and emotional resonance.
 
-### Manuscript Review
+## Manuscript Review
 Big-picture, craft-focused feedback to help you understand what’s working and what needs revision. **Includes:** A detailed editorial report · 1 consultation call.
 
 ***Fees (30,000 words): ₹16,500 / $330***
 
-### Line Editing
+## Line Editing
 Sentence-level refinement that sharpens clarity while preserving your voice. **Includes:** In-text edits with brief margin notes · basic proofreading · 1 consultation call
 
 ***Fees (30,000 words): ₹18,000 / $360***
 
-### Developmental Editing
+## Developmental Editing
 Deep, collaborative editing focused on story structure, character development, and emotional payoff. **Includes:** In-text developmental edits with detailed editorial comments · line editing · basic proofreading  · 2 consultation calls
 
 ***Fees (30,000 words): ₹27,000 / $540***
 
-#### Which Service Is Right for You?
+### Which Service Is Right for You?
 
 |If you are…|Start with…|
 |---|---|
@@ -33,38 +33,38 @@ Deep, collaborative editing focused on story structure, character development, a
 
 ---
 
-# Writing Consultancy
+# <div style="text-align: center;">Writing Consultancy</div>
 Hands-on guidance for writers who need clarity, structure, and momentum—whether you’re shaping an idea or working toward a complete draft.
 
-### Starter — “I have an idea”
+## Starter — “I have an idea”
 Early-stage guidance to help you shape and clarify your concept. **Validity:** 1 session
 
 ***Fees (30,000 words): ₹4,000 / $80***
 
-### Planner — “Help me plan”
+## Planner — “Help me plan”
 Structured support to turn an idea into a workable book plan. **Validity:** 6 sessions over 2 months 
 
 ***Fees (30,000 words): ₹22,000 / $440***
 
-### Writer’s Room — “Help me write”
+## Writer’s Room — “Help me write”
 Ongoing support while you’re actively writing. **Validity:** 15 sessions over 4 months
 
 ***Fees (30,000 words): ₹56,000 / $1,100***
 
-### Idea to Final Draft
+## Idea to Final Draft
 Long-term, end-to-end support from concept to completed manuscript. **Validity:** 36 sessions over 15 months 
 
 ***Fees (30,000 words): ₹1,38,000 / $2,700***
 
-#### Optional Add-ons
+### <div style="text-align: center;">Optional Add-ons</div>
 Manuscript evaluation · Editing · Book review · Self-publishing assistance · Submission package preparation · Cover design · Book launch support
 
 ---
 
-#### Editorial Client Bonus
+### <div style="text-align: center;">Editorial Client Bonus</div>
 If you publish your book within three months of the completion of my editorial or consultancy services, I’m happy to offer **a complimentary book review** — on Goodreads and my Website.  
 
-#### Still unsure?
+### <div style="text-align: center;">Still unsure?</div>
 You can book a 30-minute consultation call to discuss your idea, goals, and the level of support you need. If you proceed with one of my services, the consultation fee is adjusted against the final cost.
 
 ## *Happy Writing and Publishing!*
