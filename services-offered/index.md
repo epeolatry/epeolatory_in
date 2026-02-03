@@ -5,7 +5,7 @@ menu:
   header:
     weight: 6
 ---
-# <div style="text-align: center;">Editorial Services</div>
+# Editorial Services
 Editing for long-form fiction, focused on story structure, character development, and emotional resonance.
 
 ## Manuscript Review
@@ -33,7 +33,7 @@ Deep, collaborative editing focused on story structure, character development, a
 
 ---
 
-# <div style="text-align: center;">Writing Consultancy</div>
+# Writing Consultancy
 Hands-on guidance for writers who need clarity, structure, and momentum—whether you’re shaping an idea or working toward a complete draft.
 
 ## Starter — “I have an idea”
@@ -56,15 +56,15 @@ Long-term, end-to-end support from concept to completed manuscript. **Validity:*
 
 ***Fees (30,000 words): ₹1,38,000 / $2,700***
 
-### <div style="text-align: center;">Optional Add-ons</div>
+### Optional Add-ons
 Manuscript evaluation · Editing · Book review · Self-publishing assistance · Submission package preparation · Cover design · Book launch support
 
 ---
 
-### <div style="text-align: center;">Editorial Client Bonus</div>
+### Client Bonus
 If you publish your book within three months of the completion of my editorial or consultancy services, I’m happy to offer **a complimentary book review** — on Goodreads and my Website.  
 
-### <div style="text-align: center;">Still unsure?</div>
+### Still unsure?
 You can book a 30-minute consultation call to discuss your idea, goals, and the level of support you need. If you proceed with one of my services, the consultation fee is adjusted against the final cost.
 
 ## *Happy Writing and Publishing!*
