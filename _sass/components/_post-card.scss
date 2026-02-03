@@ -6,7 +6,7 @@
   position: relative;
   display: flex;
   width: 100%;
-  height: max-content;
+  height: 100%;
   flex-direction: column;
   border-bottom: 1px solid $color-border;
   margin-bottom: double($base-spacing-unit) + half($base-spacing-unit);
@@ -17,7 +17,7 @@
     // background-color: $bg-gray;
     border-radius: $global-border-radius;
     margin-bottom: $base-spacing-unit + half($base-spacing-unit);
-    aspect-ratio: 3 / 4;
+    aspect-ratio: 3 / 2;
   }
 
   &__image-link {
