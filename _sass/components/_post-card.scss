@@ -117,6 +117,12 @@
     min-height: 3em; // 2 lines * 1.5 line-height
   }
 
+  // Expand title on card hover
+  &:hover .c-post-card__title {
+    -webkit-line-clamp: unset;
+    overflow: visible;
+  }
+
   &__title-link {
     border-bottom: 1px solid transparent;
     transition: border-bottom $global-transition ease-in-out;
