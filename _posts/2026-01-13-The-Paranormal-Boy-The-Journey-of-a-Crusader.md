@@ -31,8 +31,6 @@ I appreciated how the author attempts to expose the fraud prevalent in India by 
 
 Overall, it’s an engaging read for paranormal enthusiasts and for readers interested in uncovering facts behind fiction.
 
-Suitable for age: 16+
-
-
+Suitable for age: 15+
 ### ***Happy Reading!!***
 
