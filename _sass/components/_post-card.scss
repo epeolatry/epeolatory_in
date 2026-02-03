@@ -18,6 +18,12 @@
     }
   }
 
+  &--square {
+    .c-post-card__media {
+      aspect-ratio: 1 / 1;
+    }
+  }
+
   &__media {
     overflow: hidden;
     // background-color: $bg-gray;
