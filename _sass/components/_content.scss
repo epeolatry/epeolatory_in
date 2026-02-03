@@ -38,9 +38,17 @@ $block-max-width: 1300px;
   }
 
   address,
-  h1, h2, h3, h4, h5, h6,
-  p, pre,
-  dl, ol, ul,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  p,
+  pre,
+  dl,
+  ol,
+  ul,
   form,
   table,
   fieldset,
@@ -48,7 +56,7 @@ $block-max-width: 1300px;
   .highlight,
   .cp_embed_wrapper {
     min-width: 100%;
-    margin-bottom: double($base-spacing-unit) + half($base-spacing-unit);
+    margin-bottom: (double($base-spacing-unit) + half($base-spacing-unit))/4;
   }
 
   h1,
@@ -64,23 +72,24 @@ $block-max-width: 1300px;
     }
   }
 
-  hr + h1,
-  hr + h2,
-  hr + h3,
-  hr + h4 {
+  hr+h1,
+  hr+h2,
+  hr+h3,
+  hr+h4 {
     margin-top: 0 !important;
   }
 
-  p  + .kg-card,
-  dd + .kg-card,
-  ol + .kg-card,
-  ul + .kg-card {
+  p+.kg-card,
+  dd+.kg-card,
+  ol+.kg-card,
+  ul+.kg-card {
     margin-top: half($base-spacing-unit);
   }
 
   dd,
   ol,
   ul {
+
     // Target Safari Only
     &:not(:root:root) {
       -webkit-padding-start: half($base-spacing-unit);
@@ -120,15 +129,16 @@ $block-max-width: 1300px;
 
 .kg-embed-card,
 .kg-image-card,
-.kg-gallery-card, {
-  figcaption {
-    width: 100%;
-    text-align: center;
-    color: $color-gray;
-    font-size: $font-size-small;
-    font-family: $font-sans-serif;
-    margin-top: half($base-spacing-unit) + half(quarter($base-spacing-unit));
-  }
+.kg-gallery-card,
+{
+figcaption {
+  width: 100%;
+  text-align: center;
+  color: $color-gray;
+  font-size: $font-size-small;
+  font-family: $font-sans-serif;
+  margin-top: half($base-spacing-unit) + half(quarter($base-spacing-unit));
+}
 }
 
 // Koenig Images
