@@ -76,7 +76,7 @@ Manuscript evaluation · Editing · Book review · Self-publishing assistance ·
 ---
 
 ### CLIENT BONUS
-If you publish your book within three months of the completion of my editorial or consultancy services, I’m happy to offer **a complimentary book review** — on Goodreads and my Website.  
+If you publish your book within three months of the completion of my editorial or consultancy services, I’m happy to offer **a complimentary book review** — on Goodreads and Personal Blog.  
 
 ### STILL UNSURE?
 You can book a 30-minute consultation call to discuss your idea, goals, and the level of support you need. If you proceed with one of my services, the consultation fee is adjusted against the final cost.
