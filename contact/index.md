@@ -6,21 +6,14 @@ menu:
   header:
     weight: 9
 ---
+If you’re interested in working with me or have questions about my services, you’re welcome to schedule a call or fill out the contact form below. I’ll get back to you within 24–48 hours to discuss your project and next steps.
 
-Hello and welcome to my website!
-
-I'm passionate about helping writers improve their work and bring their ideas to life. Whether you need help with copyediting, developmental editing, beta reading, or just getting that first draft out, I'm here to support you every step of the way.
-
-If you're interested in working with me or have any questions about my services, please don't hesitate to schedule a call or fill out the contact form below. I'll get back to you within 48 hours to discuss your project and how we can work together to achieve your goals.
-
-Thank you for considering my services, and I look forward to hearing from you soon!
-
-**Request FREE editing sample/beta reading feedback today!**
+Thank you for considering my work—I look forward to hearing from you.
 
 <div style="text-align: center;">
   <a href="https://forms.gle/M2vqLdD9jKkuH9et6" target="_blank">
     <button style="padding: 10px 20px; font-size: 16px; background-color: #000000; color: white; border: none; border-radius: 5px; cursor: pointer;">
-      Enquiry Form (To Request Free Sample)
+      Fill the Contact Form
     </button>
   </a>
 
