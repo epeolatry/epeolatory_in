@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "This Our Paradise by Karan Mujoo"
