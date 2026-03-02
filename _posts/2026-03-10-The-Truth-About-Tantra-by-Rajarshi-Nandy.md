@@ -2,7 +2,7 @@
 layout: post
 title: "The Truth About Tantra by Rajarshi Nandy"
 author: bookworm_falguni
-tags: [book-reviews, fiction, drama, second-chance, love, philosophy, life, death, gratitude, emotional, chef, detective, family, parents, partner, Japan]
+tags: [book-reviews, indian-mythology, mythology, hindu, god, Supernatural, educational, philosophy, non-fiction]
 image: '/images/posts/The-Truth-About-Tantra.jpg'
 ---
 ### **Blurb:**
