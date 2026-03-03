@@ -28,6 +28,5 @@ An absolutely beautiful afternoon read.
 It is a perfect read for foodies or those seeking stories around human connection. If you liked The Midnight Library or Days at the Morisaki Bookshop, you’ll definitely enjoy this too.
 
 Suitable For Age: 13+
-
 ### ***Happy Reading!!***
 
