@@ -17,7 +17,7 @@ Technically, the stories are competent, as would be a bare minimum expectation f
 
 **Some Instances**
 
-*The Village Girl*: In a dialogue that lasts around seven pages, the name of the male character is mentioned 32 times, whereas the female character, whose name comes up just 4 times. She is mostly just referred to as *behenji*, the girl, the village girl, the simple village girl, and the simple village girl.
+*The Village Girl*: In a dialogue that lasts around seven pages, the name of the male character is mentioned 32 times, whereas the female character, whose name comes up just 4 times. She is mostly just referred to as *behenji*, the girl, the village girl, the simple village girl, and the innocent village girl.
 
 *The Simple Man*: Here's how the protagonist talks about his love: "Ours was, of course, what they call a love marriage. The first time I met her I thought she was a bitch; we argued bitterly over something inconsequential and parted... She was exquisite and she was mine.... she came as near to perfection in a woman as I've sought... the only blemishes I could discern in her were the imperfectly cured acne of late adolescence and a slight affectation in attitude."
 
