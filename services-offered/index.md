@@ -13,21 +13,21 @@ Big-picture, craft-focused feedback to help you understand what’s working and 
 
 **Includes:** A detailed editorial report · 1 consultation call.
 
-***Fees (30,000 words): ₹16,500 / $330***
+***Fees (~30,000 words): ₹16,500 / $330***
 
 ## Line Editing
 Sentence-level refinement that sharpens clarity while preserving your voice. 
 
 **Includes:** In-text edits with brief margin notes · basic proofreading · 1 consultation call
 
-***Fees (30,000 words): ₹18,000 / $360***
+***Fees (~30,000 words): ₹18,000 / $360***
 
 ## Developmental Editing
 Deep, collaborative editing focused on story structure, character development, and emotional payoff. 
 
 **Includes:** In-text developmental edits with detailed editorial comments · line editing · basic proofreading  · 2 consultation calls
 
-***Fees (30,000 words): ₹27,000 / $540***
+***Fees (~30,000 words): ₹30,000 / $600***
 
 ### Which Service Is Right for You?
 
