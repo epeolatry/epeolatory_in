@@ -15,7 +15,7 @@ Can our unorthodox but brilliant gang catch the killer before it's too late?
 ### **My Review:**
 I had heard a lot about The Thursday Murder Club, so I picked it up without much thought. The story starts slow, following a group of retirement village residents who spend their time solving old cases for fun as part of their Thursday Murder Club. Soon, an actual murder takes place, and they begin investigating it alongside the police.
 
-Part One feels slow but has its moments. It’s light, funny, and we start to see the budding dynamics between the members. Part Two is where the pace finally picks up. More deaths occur—some natural, some murders—and secrets begin to unravel. By the end, we get the full picture of what really happened.
+Part One feels slow but has its moments. It’s light, funny, and we start to see the budding dynamics between the members. Part Two is where the pace finally picks up. More deaths occur, and secrets begin to unravel. By the end, we get the full picture of what really happened.
 
 That said, while the ending is unpredictable, it also felt a bit unbelievable. There isn’t enough foreshadowing to support the final reveal, so certain developments come across as things that just happened. A few plot threads also seem to be conveniently dropped without any satisfying resolution.
 
