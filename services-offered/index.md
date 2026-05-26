@@ -13,21 +13,15 @@ Big-picture, craft-focused feedback to help you understand what’s working and 
 
 **Includes:** A detailed editorial report · 1 consultation call.
 
-***Fees (~30,000 words): ₹18,000 / $360***
-
 ## Line Editing
 Sentence-level refinement that sharpens clarity while preserving your voice. 
 
 **Includes:** In-text edits with brief margin notes · basic proofreading · 1 consultation call
 
-***Fees (~30,000 words): ₹24,000 / $480***
-
 ## Developmental Editing
 Deep, collaborative editing focused on story structure, character development, and emotional payoff. 
 
 **Includes:** In-text developmental edits with detailed editorial comments · line editing · basic proofreading  · 2 consultation calls
-
-***Fees (~30,000 words): ₹45,000 / $900***
 
 ### Which Service Is Right for You?
 
@@ -47,28 +41,20 @@ Early-stage guidance to help you shape and clarify your concept.
 
 **Validity:** 1 session
 
-***Fees: ₹4,000 / $80***
-
 ## Planner: “Help me plan”
 Structured support to turn an idea into a workable book plan. 
 
 **Validity:** 6 sessions over 2 months 
-
-***Fees: ₹22,000 / $440***
 
 ## Writer’s Room: “Help me write”
 Ongoing support while you’re actively writing. 
 
 **Validity:** 15 sessions over 4 months
 
-***Fees: ₹56,000 / $1,100***
-
 ## Idea to Final Draft
 Long-term, end-to-end support from concept to completed manuscript. 
 
 **Validity:** 36 sessions over 15 months 
-
-***Fees: ₹1,38,000 / $2,700***
 
 ### Optional Add-ons
 Manuscript evaluation · Editing · Book review · Self-publishing assistance · Submission package preparation · Cover design · Book launch support
